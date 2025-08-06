@@ -5,7 +5,7 @@
     "colorHex": "#FF3300",
     "iconUrl": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/categoryIcons/category_news.png",
     "gender": 0,
-    "level": 0
+    "level": 1
   },
   {
     "id": 1,
@@ -21,7 +21,7 @@
     "colorHex": "#000099",
     "iconUrl": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/categoryIcons/category_study.png",
     "gender": 0,
-    "level": 0
+    "level": 1
   },
   {
     "id": 3,
@@ -29,7 +29,7 @@
     "colorHex": "#999900",
     "iconUrl": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/categoryIcons/category_teens.png",
     "gender": 0,
-    "level": 0
+    "level": 1
   },
   {
     "id": 4,
@@ -61,7 +61,7 @@
     "colorHex": "#660066",
     "iconUrl": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/categoryIcons/category_music.png",
     "gender": 0,
-    "level": 0
+    "level": 1
   },
   {
     "id": 8,
@@ -77,7 +77,7 @@
     "colorHex": "#CC6699",
     "iconUrl": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/categoryIcons/category_health.png",
     "gender": 0,
-    "level": 0
+    "level": 1
   },
   {
     "id": 10,
@@ -85,7 +85,7 @@
     "colorHex": "#007A00",
     "iconUrl": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/categoryIcons/category_video.png",
     "gender": 0,
-    "level": 0
+    "level": 1
   },
   {
     "id": 11,
@@ -93,7 +93,7 @@
     "colorHex": "#330033",
     "iconUrl": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/categoryIcons/category_leisure.png",
     "gender": 0,
-    "level": 0
+    "level": 1
   },
   {
     "id": 12,
@@ -133,7 +133,7 @@
     "colorHex": "#008080",
     "iconUrl": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/categoryIcons/category_food.png",
     "gender": 0,
-    "level": 0
+    "level": 1
   },
   {
     "id": 17,
@@ -141,7 +141,7 @@
     "colorHex": "#4C4C00",
     "iconUrl": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/categoryIcons/category_clothes.png",
     "gender": 0,
-    "level": 0
+    "level": 1
   },
   {
     "id": 18,
