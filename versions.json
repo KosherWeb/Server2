@@ -3,47 +3,47 @@
     {
       "name": "sites.json",
       "version": 23,
-      "url": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/sites.json"
+      "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/sites.json"
     },
     {
       "name": "kosher_hosts.json",
       "version": 20,
-      "url": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/kosher_hosts.json"
+      "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/kosher_hosts.json"
     },
     {
       "name": "kosher_prefix.json",
       "version": 5,
-      "url": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/kosher_prefix.json"
+      "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/kosher_prefix.json"
     },
     {
       "name": "blocked_hosts.json",
       "version": 1,
-      "url": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/blocked_hosts.json"
+      "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/blocked_hosts.json"
     },
     {
       "name": "blocked_prefix.json",
       "version": 1,
-      "url": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/blocked_prefix.json"
+      "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/blocked_prefix.json"
     },
     {
       "name": "blocked_resources.json",
       "version": 1,
-      "url": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/blocked_resources.json"
+      "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/blocked_resources.json"
     },
     {
       "name": "requests_responses.json",
       "version": 21,
-      "url": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/requests/requests_responses.json"
+      "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/requests/requests_responses.json"
     },
     {
       "name": "categories.json",
       "version": 2,
-      "url": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/categories.json"
+      "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/categories.json"
     },
     {
       "name": "system_message.json",
       "version": 1,
-      "url": "https://raw.githubusercontent.com/KosherWeb/server/refs/heads/main/system_message.json"
+      "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/system_message.json"
     }
   ],
   "versions": {
