@@ -4,7 +4,7 @@
     "url": "https://www.inn.co.il",
     "name": "ערוץ 7",
     "category": 0,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://school.kotar.cet.ac.il/",
     "name": "מטח - ספרי לימוד",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -76,7 +76,7 @@
     "url": "https://bneiakiva.org.il/",
     "name": "בני עקיבא",
     "category": 3,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -84,7 +84,7 @@
     "url": "https://ezra.org.il/",
     "name": "עזרא",
     "category": 3,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -92,7 +92,7 @@
     "url": "https://tariel.co.il/",
     "name": "אריאל",
     "category": 3,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -100,7 +100,7 @@
     "url": "https://xn--8dbbvwj.net/",
     "name": "פעולה. נט",
     "category": 3,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -139,16 +139,16 @@
     "id": 121,
     "url": "https://www.ivory.co.il/",
     "name": "אייבורי",
-    "category": 4,
-    "level": 0,
+    "category": 15,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 122,
     "url": "https://www.bug.co.il/",
     "name": "באג",
-    "category": 4,
-    "level": 0,
+    "category": 15,
+    "level": 2,
     "gender": 0
   },
   {
@@ -172,7 +172,7 @@
     "url": "https://drive.google.com/",
     "name": "Google Drive",
     "category": 5,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -220,7 +220,7 @@
     "url": "https://israelpost.co.il/",
     "name": "דואר ישראל",
     "category": 5,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -228,7 +228,7 @@
     "url": "https://www.taasuka.gov.il/",
     "name": "לוח דרושים - שירות התעסוקה",
     "category": 6,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -236,7 +236,7 @@
     "url": "https://www.tab4u.com/",
     "name": "Tab4U",
     "category": 7,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
@@ -300,7 +300,7 @@
     "url": "http://www.chabad.org.il/",
     "name": "חבד",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -444,7 +444,7 @@
     "url": "https://www.udemy.com/",
     "name": "Udemy",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -452,7 +452,7 @@
     "url": "https://students.education.gov.il/",
     "name": "פורטל תלמידים",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -460,7 +460,7 @@
     "url": "https://www.ornaki.org/",
     "name": "אור נקי",
     "category": 1,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -476,14 +476,14 @@
     "url": "https://campus.gov.il/",
     "name": "קמפוס IL",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 168,
     "url": "https://daily-torah.tv/",
     "name": "ערוץ התורה",
-    "category": 10,
+    "category": 1,
     "level": 1,
     "gender": 0
   },
@@ -492,7 +492,7 @@
     "url": "https://askrav.com/",
     "name": "שאל את הרב",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -500,7 +500,7 @@
     "url": "https://www.hamichlol.org.il/",
     "name": "המכלול",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -516,15 +516,7 @@
     "url": "https://meirkids.co.il/",
     "name": "ערוץ מאיר לילדים",
     "category": 10,
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "id": 174,
-    "url": "https://www.jtube.live/",
-    "name": "Jtube",
-    "category": 10,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -539,8 +531,8 @@
     "id": 176,
     "url": "https://chitadelivery.co.il/",
     "name": "צ'יטה שליחויות",
-    "category": 4,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
@@ -555,8 +547,8 @@
     "id": 179,
     "url": "https://www.iec.co.il/",
     "name": "חברת החשמל",
-    "category": 6,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
@@ -564,7 +556,7 @@
     "url": "https://inbar.biu.ac.il/",
     "name": "אינ-בר",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -572,7 +564,7 @@
     "url": "https://math-wiki.com/",
     "name": "Math-Wiki",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -612,15 +604,7 @@
     "url": "https://translate.google.com/",
     "name": "Google Translate",
     "category": 5,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 187,
-    "url": "https://grapholike.com/",
-    "name": "גרפולייק - ברכות ואיחולים",
-    "category": 5,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -628,7 +612,7 @@
     "url": "https://chabadshop.com/",
     "name": "חבד - שופ",
     "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -676,7 +660,7 @@
     "url": "https://www.m-math.co.il/",
     "name": "לומדים מתמטיקה",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -684,7 +668,7 @@
     "url": "https://koshercode.netlify.app/",
     "name": "תכנות - חומרי למידה",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -692,15 +676,15 @@
     "url": "https://www.b144.co.il/",
     "name": "b144",
     "category": 5,
-    "level": 0,
+    "level": 3,
     "gender": 0
   },
   {
     "id": 197,
     "url": "https://www.waze.com/",
     "name": "Waze - וויז",
-    "category": 5,
-    "level": 0,
+    "category": 14,
+    "level": 1,
     "gender": 0
   },
   {
@@ -708,39 +692,39 @@
     "url": "https://www.kidichic.co.il/",
     "name": "קידישיק",
     "category": 17,
-    "level": 1,
-    "gender": 2
+    "level": 2,
+    "gender": 0
   },
   {
     "id": 199,
     "url": "https://kidsbasicfashion.com/",
     "name": "קידס בייסיק",
     "category": 17,
-    "level": 1,
-    "gender": 2
+    "level": 2,
+    "gender": 0
   },
   {
     "id": 200,
     "url": "https://www.hadasminilove.com/",
     "name": "הדס מיני לאב",
     "category": 17,
-    "level": 1,
-    "gender": 2
+    "level": 2,
+    "gender": 0
   },
   {
     "id": 201,
     "url": "https://new.mishnatyosef.org/",
     "name": "משנת יוסף",
-    "category": 17,
+    "category": 19,
     "level": 1,
-    "gender": 2
+    "gender": 0
   },
   {
     "id": 202,
     "url": "https://skillshop.exceedlms.com/",
     "name": "הסדנה הדיגיטלית של Google",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -748,7 +732,7 @@
     "url": "https://www.angelskids.co.il/",
     "name": "Angeles - בגדי ילדים",
     "category": 17,
-    "level": 1,
+    "level": 2,
     "gender": 2
   },
   {
@@ -756,7 +740,7 @@
     "url": "https://www.muka.co.il/",
     "name": "מוקה סטיילינג",
     "category": 17,
-    "level": 1,
+    "level": 2,
     "gender": 2
   },
   {
@@ -804,7 +788,7 @@
     "url": "https://ysrihut.co.il/",
     "name": "יופי של ריהוט",
     "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -812,7 +796,7 @@
     "url": "https://www.dshir.co.il/",
     "name": "דברי שיר",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -820,7 +804,7 @@
     "url": "https://www.tami4.co.il/",
     "name": "תמי 4",
     "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -852,7 +836,7 @@
     "url": "https://www.cartube.co.il/",
     "name": "קארטיוב - חדשות רכב",
     "category": 14,
-    "level": 0,
+    "level": 3,
     "gender": 0
   },
   {
@@ -860,7 +844,7 @@
     "url": "https://www.shagrir.co.il/",
     "name": "שגריר - שירותי דרך בעמ",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -883,7 +867,7 @@
     "id": 223,
     "url": "https://www.shukcity.co.il/",
     "name": "שוק העיר - סופרמרקט אונליין",
-    "category": 4,
+    "category": 16,
     "level": 0,
     "gender": 0
   },
@@ -892,7 +876,7 @@
     "url": "https://www.hvr.co.il/",
     "name": "חבר' משרתי הקבע והגמלאים",
     "category": 11,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -900,7 +884,7 @@
     "url": "https://www.jerusalemzoo.org.il/",
     "name": "גן החיות התנכי",
     "category": 11,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -908,7 +892,7 @@
     "url": "https://www.israel-aquarium.org.il/",
     "name": "אקווריום ישראל",
     "category": 11,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -916,7 +900,7 @@
     "url": "https://www.safari.co.il/",
     "name": "הספארי",
     "category": 11,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -924,7 +908,7 @@
     "url": "https://www.parks.org.il/",
     "name": "רשות הטבע והגנים",
     "category": 11,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -932,15 +916,15 @@
     "url": "https://www.jumbomail.me/",
     "name": "ג'אמבו מייל - שליחת קבצים גדולים",
     "category": 5,
-    "level": 0,
+    "level": 3,
     "gender": 0
   },
   {
     "id": 231,
     "url": "https://hashadchan.co.il/",
     "name": "השדכן",
-    "category": 13,
-    "level": 0,
+    "category": 20,
+    "level": 1,
     "gender": 0
   },
   {
@@ -955,7 +939,7 @@
     "id": 233,
     "url": "https://xn--4dbclabp0e.co.il/plan",
     "name": "אוטובוס קרוב",
-    "category": 5,
+    "category": 14,
     "level": 0,
     "gender": 0
   },
@@ -980,7 +964,7 @@
     "url": "https://zoom.us/",
     "name": "Zoom",
     "category": 5,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -996,15 +980,7 @@
     "url": "https://www.9tut.com/",
     "name": "CCNA Training",
     "category": 2,
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "id": 241,
-    "url": "https://umanshalom.co.il/",
-    "name": "אומן שלום",
-    "category": 1,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1020,7 +996,7 @@
     "url": "https://www.jerusalem.muni.il/",
     "name": "עיריית ירושלים",
     "category": 12,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1068,7 +1044,7 @@
     "url": "https://www.shomron.org.il/",
     "name": "שומרון",
     "category": 12,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1076,7 +1052,7 @@
     "url": "https://www.binyamin.org.il/",
     "name": "מטה בנימין",
     "category": 12,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1116,7 +1092,7 @@
     "url": "https://puah.org.il/",
     "name": "מכון פועה",
     "category": 13,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1124,7 +1100,7 @@
     "url": "https://yedidim-il.org/",
     "name": "ידידים - סיוע בדרכים",
     "category": 13,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1132,7 +1108,7 @@
     "url": "https://www.paamonim.org/",
     "name": "פעמונים",
     "category": 13,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1140,7 +1116,7 @@
     "url": "https://www.albar.co.il/",
     "name": "אלבר",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1148,7 +1124,7 @@
     "url": "https://www.shlomo.co.il/",
     "name": "שלמה סיקסט",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1156,7 +1132,7 @@
     "url": "https://www.hertz.co.il/",
     "name": "הרץ - השכרת רכב",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1164,7 +1140,7 @@
     "url": "https://www.eldan.co.il/",
     "name": "אלדן - רכב",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1172,7 +1148,7 @@
     "url": "https://w-shay.com/",
     "name": "אוטו שי",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1180,7 +1156,7 @@
     "url": "https://www.freesbe.com/",
     "name": "פריסבי - רכב",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1188,7 +1164,7 @@
     "url": "https://www.avis.co.il/",
     "name": "Avis -  רכב",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1196,7 +1172,7 @@
     "url": "https://www.budget.co.il/",
     "name": "Budget - רכב",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1252,15 +1228,7 @@
     "url": "https://mmb.org.il/",
     "name": "לוקחים אחריות",
     "category": 15,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 273,
-    "url": "https://ironswords.help/",
-    "name": "עורף ברזל",
-    "category": 13,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1268,7 +1236,7 @@
     "url": "https://www.idf.il/",
     "name": "אתר צהל",
     "category": 6,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1276,7 +1244,7 @@
     "url": "https://www.miluim.idf.il/",
     "name": "אתר המילואים",
     "category": 6,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1291,23 +1259,15 @@
     "id": 277,
     "url": "https://www.hybp.co.il/",
     "name": "ישיבת אשרי האיש",
-    "category": 1,
+    "category": 21,
     "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 278,
-    "url": "https://spotdownloader.com/",
-    "name": "Spotify Downloader",
-    "category": 7,
-    "level": 1,
     "gender": 0
   },
   {
     "id": 279,
     "url": "https://www.hp.com/",
     "name": "HP - מחשבים",
-    "category": 4,
+    "category": 15,
     "level": 0,
     "gender": 0
   },
@@ -1323,8 +1283,8 @@
     "id": 282,
     "url": "https://www.7brachot.co.il/",
     "name": "שבע ברכות - הכרויות לדתיים",
-    "category": 13,
-    "level": 0,
+    "category": 20,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1332,7 +1292,7 @@
     "url": "https://www.cal-online.co.il/",
     "name": "כאל - כרטיסי אשראי לישראל",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1340,7 +1300,7 @@
     "url": "https://www.isracard.co.il/",
     "name": "ישראכרט - כרטיסי אשראי",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1348,7 +1308,7 @@
     "url": "https://www.max.co.il/",
     "name": "מקס - כרטיסי אשראי",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1380,7 +1340,7 @@
     "url": "https://www.pushcoins.org/",
     "name": "PushCoins - אפליקצית הצדקה של ישראל",
     "category": 13,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1388,23 +1348,23 @@
     "url": "https://www.ashdod.muni.il/",
     "name": "עיריית אשדוד",
     "category": 12,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 291,
     "url": "https://www.yemot.co.il/",
     "name": "ימות המשיח פתרונות תקשורת",
-    "category": 4,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 292,
-    "url": "https://www.call2all.co.il/yemot-admin-g1/",
+    "url": "https://www.call2all.co.il/",
     "name": "ימות המשיח ניהול מערכת טלפונית",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1412,7 +1372,7 @@
     "url": "http://www.kizur.co.il/",
     "name": "קיצורים וראשי תיבות",
     "category": 5,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1420,7 +1380,7 @@
     "url": "https://www.clfb.org.il/",
     "name": "הספריה לעיוורים ולבעלי לקויות קריאה",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1428,7 +1388,7 @@
     "url": "https://www.ikea.com/",
     "name": "איקאה",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1436,7 +1396,7 @@
     "url": "https://www.ace.co.il/",
     "name": "אייס - ACE",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1444,7 +1404,7 @@
     "url": "https://www.homecenter.co.il/",
     "name": "הום סנטר",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1452,7 +1412,7 @@
     "url": "https://www.migdal.co.il/",
     "name": "מגדל - פנסיה וקופות גמל",
     "category": 8,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1460,7 +1420,7 @@
     "url": "https://www.tlushim.co.il/",
     "name": "תלושים",
     "category": 8,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1468,7 +1428,7 @@
     "url": "https://www.w3schools.com/",
     "name": "W3Schools",
     "category": 2,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
@@ -1476,7 +1436,7 @@
     "url": "https://www.egged.co.il/",
     "name": "אגד",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1492,7 +1452,7 @@
     "url": "https://www.kvish6.co.il/",
     "name": "כביש 6",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1500,7 +1460,7 @@
     "url": "https://6cn.co.il/",
     "name": "כביש חוצה צפון",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1508,7 +1468,7 @@
     "url": "https://019mobile.co.il/",
     "name": "019 מובייל",
     "category": 15,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1516,7 +1476,7 @@
     "url": "https://www.tov.org.il/",
     "name": "מועדון טוב - תרבות ופנאי",
     "category": 11,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
@@ -1532,7 +1492,7 @@
     "url": "https://shalomlaam.co.il/",
     "name": "שלום לעם",
     "category": 1,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1540,23 +1500,23 @@
     "url": "https://www.hakolhayehudi.co.il/",
     "name": "הקול היהודי",
     "category": 0,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 311,
     "url": "https://www.jobik.co.il/",
     "name": "jobik - אתר המשרות של הציבור החרדי",
-    "category": 8,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 312,
     "url": "https://www.prog.co.il/",
-    "name": "פרוג - דף הבית של היוצרים החרדים",
-    "category": 2,
-    "level": 1,
+    "name": "פרוג - הפורטל החרדי",
+    "category": 22,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1572,7 +1532,7 @@
     "url": "https://speasyil.com/",
     "name": "ספיזי - לימוד אנגלית אונליין",
     "category": 2,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
@@ -1588,22 +1548,22 @@
     "url": "https://myofek.cet.ac.il/",
     "name": "אופק - יסודי",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 319,
     "url": "https://www.ybe.org.il/",
     "name": "קרית הישיבה בית אל",
-    "category": 13,
-    "level": 0,
+    "category": 21,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 320,
     "url": "https://www.makor-moosmach.co.il/",
     "name": "מקור מוסמך",
-    "category": 0,
+    "category": 12,
     "level": 1,
     "gender": 0
   },
@@ -1612,7 +1572,7 @@
     "url": "https://www.mcc.co.il/",
     "name": "חבר - אזרחים עובדי צהל",
     "category": 11,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1627,16 +1587,8 @@
     "id": 323,
     "url": "https://www.zig-zag.co.il/",
     "name": "זיגזג שליחויות",
-    "category": 4,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 325,
-    "url": "https://promotionstudio.co.il/",
-    "name": "אחים לניצחון - תפילה לשלום חיילי צהל",
-    "category": 13,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1644,23 +1596,23 @@
     "url": "https://chat.google.com/",
     "name": "Google Chat",
     "category": 5,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 327,
     "url": "https://pti.org.il/",
     "name": "מידע לנוסע בתחבורה הציבורית",
-    "category": 5,
-    "level": 0,
+    "category": 14,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 328,
     "url": "https://shiduch.co/",
     "name": "שידוכים כהלכה",
-    "category": 13,
-    "level": 0,
+    "category": 20,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1668,15 +1620,7 @@
     "url": "https://www.base.idf.il/",
     "name": "בסיס חכם",
     "category": 6,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 330,
-    "url": "https://run.hfd.co.il/",
-    "name": "HFD - מעקב משלוחים",
-    "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1699,32 +1643,16 @@
     "id": 333,
     "url": "https://mertens.malam.com/",
     "name": "מרטנס - קריירה",
-    "category": 5,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 334,
-    "url": "https://siteground.com/",
-    "name": "SiteGround",
-    "category": 5,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 335,
-    "url": "https://revaha448.business.site/",
-    "name": "שערי רווחה",
-    "category": 4,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 336,
     "url": "https://www.electra-afikim.co.il/",
     "name": "אלקטרה - אפיקים",
-    "category": 5,
-    "level": 0,
+    "category": 14,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1740,15 +1668,7 @@
     "url": "https://sarig.com/",
     "name": "שריג אלקטריק",
     "category": 4,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 339,
-    "url": "https://course.lioryk.com/",
-    "name": "האקדמיה לאומנות הקסמים והמנטליזם",
-    "category": 2,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
@@ -1764,7 +1684,7 @@
     "url": "https://www.tv2000.co.il/",
     "name": "ערוץ 2000",
     "category": 0,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1780,7 +1700,7 @@
     "url": "https://imaot.co.il/",
     "name": "אמהות מבשלות ביחד",
     "category": 16,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1788,7 +1708,7 @@
     "url": "https://www.sugat.com/",
     "name": "סוגת - מתכונים",
     "category": 16,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
@@ -1812,7 +1732,7 @@
     "url": "https://homework.lnet.org.il/",
     "name": "המקפצה",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1820,7 +1740,7 @@
     "url": "https://ads.google.com/",
     "name": "Google Ads",
     "category": 5,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1836,7 +1756,7 @@
     "url": "https://milatova.org.il/",
     "name": "מילה טובה",
     "category": 1,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1844,7 +1764,7 @@
     "url": "https://www.icar.co.il/",
     "name": "iCar - רכב",
     "category": 14,
-    "level": 0,
+    "level": 3,
     "gender": 0
   },
   {
@@ -1852,7 +1772,7 @@
     "url": "https://cafecafe.co.il/",
     "name": "קפה קפה",
     "category": 16,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1860,7 +1780,7 @@
     "url": "https://study.noeg.co.il/",
     "name": "נוהג - קורס תיאוריה",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1883,8 +1803,8 @@
     "id": 358,
     "url": "https://zoogyot.co.il",
     "name": "בית ספר לזוגיות - בואי כלה",
-    "category": 1,
-    "level": 0,
+    "category": 20,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1892,15 +1812,15 @@
     "url": "https://padlet.com/",
     "name": "פדלט - Padlet",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 360,
     "url": "https://www.kranoth.org.il/",
     "name": "קרנות השתלמות לעובדי הוראה",
-    "category": 2,
-    "level": 1,
+    "category": 8,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1916,7 +1836,7 @@
     "url": "https://www.pizzahut.co.il/",
     "name": "פיצה האט",
     "category": 16,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1924,7 +1844,7 @@
     "url": "https://pool.org.il/",
     "name": "הפול - ביטוח",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1932,7 +1852,7 @@
     "url": "https://www.555.co.il/",
     "name": "ביטוח ישיר",
     "category": 14,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1948,7 +1868,7 @@
     "url": "https://meitav.co.il/",
     "name": "מיטב - בית השקעות",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -1972,7 +1892,7 @@
     "url": "https://www.kivunimrights.com/",
     "name": "כיוונים | זכויות",
     "category": 8,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -1988,7 +1908,7 @@
     "url": "https://golantelecom.co.il/",
     "name": "גולן טלקום",
     "category": 15,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2004,15 +1924,15 @@
     "url": "https://hebrewplus.co.il/",
     "name": "עברית פלוס",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 375,
     "url": "https://www.malam-payroll.com/",
     "name": "מלם שכר",
-    "category": 8,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2020,7 +1940,7 @@
     "url": "https://shomera.co.il/",
     "name": "שומרה ביטוח",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2036,14 +1956,14 @@
     "url": "https://www.aig.co.il/",
     "name": "AIG - ביטוח",
     "category": 8,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 380,
     "url": "https://www.kiryatmoshe.co.il",
     "name": "ישיבת קרית משה",
-    "category": 1,
+    "category": 21,
     "level": 0,
     "gender": 0
   },
@@ -2059,7 +1979,7 @@
     "id": 382,
     "url": "https://yhb.org.il/",
     "name": "ישיבת הר ברכה",
-    "category": 1,
+    "category": 21,
     "level": 0,
     "gender": 0
   },
@@ -2068,7 +1988,7 @@
     "url": "https://rachasheilev.org/",
     "name": "רחשי לב",
     "category": 13,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2092,7 +2012,7 @@
     "url": "http://api.bat-ami.org.il/",
     "name": "בת עמי | שירות לאומי",
     "category": 13,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2100,15 +2020,7 @@
     "url": "https://www.tel-aviv.gov.il/",
     "name": "עיריית תל אביב יפו",
     "category": 12,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 388,
-    "url": "https://reshetbarzel.co.il/",
-    "name": "רשת ברזל למלחמה",
-    "category": 1,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2116,7 +2028,7 @@
     "url": "https://www.citycar.co.il/",
     "name": "סיטי קאר",
     "category": 14,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2124,14 +2036,14 @@
     "url": "https://www.meytarim.org/",
     "name": "מינהל קהילתי מיתרים",
     "category": 12,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 391,
     "url": "https://www.cheaphone.co.il/",
-    "name": "צי'פון - חנות סלולר",
-    "category": 4,
+    "name": "צ'יפון - חנות סלולר",
+    "category": 15,
     "level": 0,
     "gender": 0
   },
@@ -2148,7 +2060,7 @@
     "url": "https://jewishenter.com/",
     "name": "J Enter",
     "category": 11,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2156,7 +2068,7 @@
     "url": "https://www.fnx.co.il/",
     "name": "הפניקס - השקעות ביטוח פיננסים",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2164,7 +2076,7 @@
     "url": "https://www.psagot.co.il/",
     "name": "פסגות - בית השקעות",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2172,7 +2084,7 @@
     "url": "https://www.hist.org.il/",
     "name": "ביחד בשבילך - מועדון הטבות",
     "category": 11,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
@@ -2184,19 +2096,11 @@
     "gender": 0
   },
   {
-    "id": 399,
-    "url": "https://www.whatsappmods.me/",
-    "name": "וואטסאפ מוד - Whatsapp Mod",
-    "category": 5,
-    "level": 0,
-    "gender": 0
-  },
-  {
     "id": 400,
     "url": "https://www.cfir.co.il/",
     "name": "כפיר - רכבת קלה ירושלים",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -2212,7 +2116,7 @@
     "url": "https://www.menoramivt.co.il/",
     "name": "מנורה מבטחים",
     "category": 8,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -2227,8 +2131,8 @@
     "id": 404,
     "url": "https://kidstorah.org/",
     "name": "ספר התורה של ילדי ישראל",
-    "category": 1,
-    "level": 0,
+    "category": 3,
+    "level": 1,
     "gender": 0
   },
   {
@@ -2236,7 +2140,7 @@
     "url": "https://hmc.co.il/",
     "name": "הרצליה מדיקל סנטר",
     "category": 9,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2244,7 +2148,7 @@
     "url": "https://www.harel-group.co.il/",
     "name": "הראל ביטוח",
     "category": 8,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -2253,7 +2157,7 @@
     "name": "מכללת תלפיות",
     "category": 2,
     "level": 1,
-    "gender": 0
+    "gender": 2
   },
   {
     "id": 408,
@@ -2267,8 +2171,8 @@
     "id": 409,
     "url": "https://rechavimzelaze.ovh/",
     "name": "פורום רכבים זה לזה",
-    "category": 14,
-    "level": 0,
+    "category": 22,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2283,7 +2187,7 @@
     "id": 411,
     "url": "https://www.mast.co.il/",
     "name": "mast",
-    "category": 12,
+    "category": 19,
     "level": 0,
     "gender": 0
   },
@@ -2300,7 +2204,7 @@
     "url": "https://mina.co.il/",
     "name": "מינה בגדי ילדים",
     "category": 17,
-    "level": 1,
+    "level": 2,
     "gender": 2
   },
   {
@@ -2308,22 +2212,22 @@
     "url": "https://www.unicko.com/",
     "name": "unicko - virtual classroom",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 416,
     "url": "https://shop.shreibers.com/",
     "name": "שרייבר",
-    "category": 4,
-    "level": 0,
+    "category": 17,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 417,
     "url": "https://www.bneidavid.org/",
     "name": "בני דוד עלי",
-    "category": 1,
+    "category": 21,
     "level": 0,
     "gender": 0
   },
@@ -2332,15 +2236,15 @@
     "url": "https://he.americanexpress.co.il/",
     "name": "אמריקן אקספרס",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 419,
     "url": "https://www.paypo.com/",
     "name": "paypo - קופה רושמת",
-    "category": 4,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2372,7 +2276,7 @@
     "url": "https://quizlet.com/",
     "name": "Qwizlet",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2396,7 +2300,7 @@
     "url": "https://kingroyal.co.il",
     "name": "קינג רויאל",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2412,7 +2316,7 @@
     "url": "https://mashcantaman.co.il/",
     "name": "משכנתאמן - בלוג משכנתאות",
     "category": 8,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -2456,19 +2360,11 @@
     "gender": 2
   },
   {
-    "id": 435,
-    "url": "https://new-york-dress-shop.business.site/",
-    "name": "ניו-יורק | אופנת נשים",
-    "category": 17,
-    "level": 1,
-    "gender": 2
-  },
-  {
     "id": 436,
     "url": "https://www.yl-invest.co.il/",
     "name": "ילין לפידות - בית השקעות",
     "category": 8,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -2484,7 +2380,7 @@
     "url": "https://www.rebbedrive.com/",
     "name": "רבי דרייב",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -2492,16 +2388,16 @@
     "url": "https://www.madanes.com/",
     "name": "מדנס ביטוח",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 440,
     "url": "https://gye.org.il/",
-    "name": "GYE - הבלוג המקצועי",
+    "name": "GYE - גמילה",
     "category": 15,
-    "level": 0,
-    "gender": 0
+    "level": 2,
+    "gender": 1
   },
   {
     "id": 441,
@@ -2516,7 +2412,7 @@
     "url": "https://252project.co.il/",
     "name": "פרויקט 252",
     "category": 13,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2524,15 +2420,15 @@
     "url": "https://www.herzliya.muni.il/",
     "name": "עיריית הרצליה",
     "category": 12,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 444,
     "url": "https://yairzaurov.co.il/",
     "name": "יאיר זאורוב - קורס אמן חושים",
-    "category": 2,
-    "level": 1,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2540,31 +2436,31 @@
     "url": "https://www.ddavidi.co.il/",
     "name": "דוידי ציוד למספרות",
     "category": 4,
-    "level": 0,
+    "level": 3,
     "gender": 0
   },
   {
     "id": 446,
     "url": "https://www.home.energilit.com/",
     "name": "Energilit - מערכות סולאריות",
-    "category": 4,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 447,
     "url": "http://www.tamarwater.co.il/",
     "name": "תמר - תאגיד מים אזורי",
-    "category": 12,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 448,
     "url": "https://www.tepez.co.il/",
     "name": "טפז - טפסים ממוחשבים",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
@@ -2572,23 +2468,15 @@
     "url": "https://www.mygemel.net/",
     "name": "מיי גמל נט",
     "category": 8,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 450,
     "url": "https://www.calcurate.co.il/",
     "name": "מחשבון זכאות - משרד הבינוי והשיכון",
-    "category": 8,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 451,
-    "url": "https://achrayut.ravpage.co.il/",
-    "name": "לוקחים אחריות - המרכז החינוכי",
-    "category": 15,
-    "level": 0,
+    "category": 6,
+    "level": 1,
     "gender": 0
   },
   {
@@ -2596,15 +2484,15 @@
     "url": "https://www.ashmoret-itu.co.il/",
     "name": "אשמורת - מבית הסתדרות המורים",
     "category": 11,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 453,
     "url": "https://meravdigital.co.il/",
     "name": "מירב דיגיטל",
-    "category": 8,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
@@ -2612,7 +2500,7 @@
     "url": "https://www.beer-sheva.muni.il/",
     "name": "עיריית באר שבע",
     "category": 12,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -2635,8 +2523,8 @@
     "id": 457,
     "url": "https://aqua.org.il/",
     "name": "אקווה - האתר הישראלי לדגי נוי",
-    "category": 2,
-    "level": 1,
+    "category": 22,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2652,38 +2540,38 @@
     "url": "https://www.icount.co.il/",
     "name": "iCount - הנהלת חשבונות באינטרנט",
     "category": 8,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 460,
     "url": "https://yaadpay.yaad.net/",
     "name": "יעד שריג - סליקת אשראי",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 461,
     "url": "https://look4.tech/",
     "name": "חברים מספרים עליך - שידוכים לדתיים",
-    "category": 13,
-    "level": 0,
+    "category": 20,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 462,
     "url": "https://5dakot.com/",
     "name": "5 דקות",
-    "category": 4,
-    "level": 0,
+    "category": 16,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 463,
     "url": "https://roeto.co.il/",
     "name": "Roeto - מערכת לניהול לקוחות",
-    "category": 5,
+    "category": 19,
     "level": 0,
     "gender": 0
   },
@@ -2707,15 +2595,15 @@
     "id": 466,
     "url": "https://www.drushim.co.il/",
     "name": "דרושים IL",
-    "category": 8,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 467,
     "url": "https://www.amal-nehiga.org.il/",
     "name": "עמל קורסים לנהיגה נכונה",
-    "category": 2,
+    "category": 14,
     "level": 1,
     "gender": 0
   },
@@ -2723,7 +2611,7 @@
     "id": 468,
     "url": "https://www.yeshivakg.co.il/",
     "name": "ישיבת ההסדר קריית גת",
-    "category": 1,
+    "category": 21,
     "level": 0,
     "gender": 0
   },
@@ -2731,48 +2619,40 @@
     "id": 469,
     "url": "https://www.midrag.co.il/",
     "name": "מידרג - דירוג בעלי מקצוע",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 470,
     "url": "https://www.ezcount.co.il/",
     "name": "EasyCount - חשבוניות באינטרנט",
-    "category": 8,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 471,
     "url": "https://chasidishplus.co.il/",
     "name": "חסידיש פלוס - יוצרים אמנות בשבילך",
-    "category": 5,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 472,
-    "url": "https://jew10.com/",
-    "name": "אלמנטריק - תמונות ואלמנטים יהודיים",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 473,
     "url": "https://beitalef.com/",
     "name": "בית אלף - גופנים",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 474,
     "url": "https://fontbit.co.il/",
     "name": "fonobit - ספריית גופנים",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2780,7 +2660,7 @@
     "url": "https://fonts.google.com/",
     "name": "Google Fonts",
     "category": 5,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -2788,7 +2668,7 @@
     "url": "https://bit2c.co.il/",
     "name": "bit2c - קנית ביטקוין וקריפטו",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2804,7 +2684,7 @@
     "url": "https://photos.google.com/",
     "name": "תמונות גוגל - Google Photos",
     "category": 5,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2820,15 +2700,7 @@
     "url": "https://www.herzog.ac.il/",
     "name": "הרצוג - מכללה אקדמית",
     "category": 2,
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "id": 481,
-    "url": "https://www.xn--febl3a.co.il/",
-    "name": "תנך על הפרק",
-    "category": 1,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2836,7 +2708,7 @@
     "url": "https://www.etzion.org.il/he",
     "name": "תורת הר עציון",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -2852,15 +2724,15 @@
     "url": "https://givechak.co.il/",
     "name": "גיבצ'אק - גיוס המונים",
     "category": 13,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 485,
     "url": "https://www.amidar.co.il/",
     "name": "עמידר - החברה הלאומית לשיכון בישראל",
-    "category": 6,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
@@ -2868,7 +2740,7 @@
     "url": "https://meitav.viewtrade.com/",
     "name": "מיטב טרייד - meitav trade",
     "category": 8,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -2876,7 +2748,7 @@
     "url": "https://www.habait4u.com/",
     "name": "הבית פור יו",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2884,14 +2756,14 @@
     "url": "https://www.homestyle.co.il/",
     "name": "הום סטייל",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 489,
     "url": "https://www.rabenu.co.il/",
     "name": "ישיבת אור דוד",
-    "category": 1,
+    "category": 21,
     "level": 0,
     "gender": 0
   },
@@ -2899,7 +2771,7 @@
     "id": 490,
     "url": "https://shop.hazi-hinam.co.il/",
     "name": "חצי חינם אונליין",
-    "category": 4,
+    "category": 16,
     "level": 0,
     "gender": 0
   },
@@ -2915,7 +2787,7 @@
     "id": 492,
     "url": "https://shushan.co.il/",
     "name": "טל בן שושן - טכנולוגיה",
-    "category": 2,
+    "category": 22,
     "level": 1,
     "gender": 0
   },
@@ -2924,7 +2796,7 @@
     "url": "https://onedrive.live.com/",
     "name": "Microsoft OneDrive",
     "category": 5,
-    "level": 0,
+    "level": 3,
     "gender": 0
   },
   {
@@ -2932,7 +2804,7 @@
     "url": "https://www.galgalim.co.il/",
     "name": "גלגלים - רכב",
     "category": 14,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2956,7 +2828,7 @@
     "url": "https://negina.co.il/",
     "name": "נגינה - לימודי מוזיקה",
     "category": 7,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
@@ -2972,7 +2844,7 @@
     "url": "https://www.medi-link.co.il",
     "name": "מדי לינק",
     "category": 9,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2980,7 +2852,7 @@
     "url": "https://www.cashback-hvr.co.il/",
     "name": "חבר קאשבק",
     "category": 11,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -2988,14 +2860,14 @@
     "url": "https://www.morfix.co.il/",
     "name": "מורפיקס - Morfic",
     "category": 5,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 502,
     "url": "https://tofes101.co.il/",
     "name": "טופס 101 מקוון",
-    "category": 8,
+    "category": 19,
     "level": 0,
     "gender": 0
   },
@@ -3004,7 +2876,7 @@
     "url": "https://app.morielenglish.co.il/",
     "name": "מוריאל אנגלית",
     "category": 2,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
@@ -3012,7 +2884,7 @@
     "url": "https://adiv.biz/",
     "name": "אדיב חולצות מודפסות",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3020,14 +2892,14 @@
     "url": "https://chef-lavan.co.il/",
     "name": "השף הלבן - מתכונים",
     "category": 16,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 506,
     "url": "https://www.na-yes.com/",
     "name": "נייעס - קבוצות וואטסאפ לציבור החרדי",
-    "category": 11,
+    "category": 22,
     "level": 1,
     "gender": 0
   },
@@ -3036,7 +2908,7 @@
     "url": "https://vocalremover.org/",
     "name": "vocal remover",
     "category": 5,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3052,22 +2924,22 @@
     "url": "https://shutaf.im/",
     "name": "שותפים - גיוס המונים",
     "category": 13,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 510,
     "url": "https://yeshcomputers.biz/",
     "name": "י.ש. מחשבים",
-    "category": 4,
-    "level": 0,
+    "category": 15,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 511,
     "url": "https://www.yelonmoreh.co.il/",
     "name": "ישיבת אלון מורה",
-    "category": 1,
+    "category": 21,
     "level": 0,
     "gender": 0
   },
@@ -3076,7 +2948,7 @@
     "url": "https://rachel-h.co.il/",
     "name": "רייצ'ל H",
     "category": 17,
-    "level": 1,
+    "level": 2,
     "gender": 2
   },
   {
@@ -3091,8 +2963,8 @@
     "id": 514,
     "url": "https://hamusicay.com/",
     "name": "המוזיקאי - פורום מוזיקה",
-    "category": 7,
-    "level": 1,
+    "category": 22,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3100,7 +2972,7 @@
     "url": "https://search.dicta.org.il/",
     "name": "דיקטה - חיפוש בתנך",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3108,7 +2980,7 @@
     "url": "https://chordityourself.com/",
     "name": "להוציא אקורדים משמיעה",
     "category": 7,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3124,7 +2996,7 @@
     "url": "https://pocketteacher.co/",
     "name": "pocket teacher - להצליח בלימודים",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3140,7 +3012,7 @@
     "url": "https://bvl.org.il/",
     "name": "בית ועד לחכמים",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3148,14 +3020,14 @@
     "url": "https://wordwall.net/he",
     "name": "Wordwall - צור חומרי למידה",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 522,
     "url": "https://shayleyeladim.org.il/",
     "name": "שי לילדים",
-    "category": 1,
+    "category": 3,
     "level": 0,
     "gender": 0
   },
@@ -3164,15 +3036,15 @@
     "url": "https://www.rabenu.shop/",
     "name": "רבנו שופ - חנות האש שלי",
     "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 524,
     "url": "https://www.bslonline.co.il/",
-    "name": "BSL - הספר להשקעות",
+    "name": "BSL - בית הספר להשקעות",
     "category": 8,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3196,7 +3068,7 @@
     "url": "https://www.kranot.org.il/",
     "name": "קרנות השוטרים",
     "category": 11,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3204,7 +3076,7 @@
     "url": "https://cello-app.com/",
     "name": "Cello - חנייה",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3228,7 +3100,7 @@
     "url": "https://workspace.google.com/",
     "name": "Google Workspace",
     "category": 5,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3252,7 +3124,7 @@
     "url": "https://net.hilan.co.il/",
     "name": "חילנט",
     "category": 8,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3260,7 +3132,7 @@
     "url": "https://www.sheba.co.il/",
     "name": "שיבא תל השומר",
     "category": 9,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3300,7 +3172,7 @@
     "url": "https://kahoot.com/",
     "name": "Kahoot!",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3308,15 +3180,15 @@
     "url": "https://www.behatsdaa.org.il/",
     "name": "בהצדעה - הטבות למילואים",
     "category": 11,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 543,
     "url": "https://acheynu.co.il/",
-    "name": "אתר אחינו",
-    "category": 1,
-    "level": 0,
+    "name": "ישיבת אחינו - ברידער",
+    "category": 21,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3324,7 +3196,7 @@
     "url": "https://www.iscool.co.il/",
     "name": "iscool - אי סקול",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3332,15 +3204,15 @@
     "url": "https://www.haifa.ac.il/",
     "name": "אוניברסיטת חיפה",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 547,
     "url": "https://simplesteps.co/",
     "name": "SimpleSteps - ניסוים לילדים",
-    "category": 2,
-    "level": 1,
+    "category": 3,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3356,7 +3228,7 @@
     "url": "https://www.gordon.ac.il/",
     "name": "האקדמית גורדון - מכללה לחינוך",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3364,15 +3236,15 @@
     "url": "https://www.easyjet.com/",
     "name": "איזיג'ט טיסות - easyjet",
     "category": 14,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 551,
     "url": "https://jewishoffice.co.il/",
     "name": "אופיס יהודי",
-    "category": 1,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3388,7 +3260,7 @@
     "url": "https://boimalca.co.il/",
     "name": "בואי מלכה - בגדים צנועים",
     "category": 17,
-    "level": 1,
+    "level": 2,
     "gender": 2
   },
   {
@@ -3396,7 +3268,7 @@
     "url": "https://maccabi-dent.com/",
     "name": "מכבידנט - מרפאות שיניים",
     "category": 9,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3404,7 +3276,7 @@
     "url": "https://www.cet.ac.il/",
     "name": "מטח - המרכז לטכנולוגיה חינוכית",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3412,7 +3284,7 @@
     "url": "https://www.harish.muni.il/",
     "name": "ערית חריש",
     "category": 12,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3435,7 +3307,7 @@
     "id": 559,
     "url": "https://www.dayan-tikshoret.co.il/",
     "name": "דיין תקשורת",
-    "category": 4,
+    "category": 15,
     "level": 0,
     "gender": 0
   },
@@ -3444,7 +3316,7 @@
     "url": "https://city4u.co.il/",
     "name": "פורטל שירות Onecity",
     "category": 12,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3452,7 +3324,7 @@
     "url": "https://www.elal.com/",
     "name": "אל על - El Al",
     "category": 14,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3460,15 +3332,15 @@
     "url": "https://www.go-ins.co.il/",
     "name": "ביטוח go",
     "category": 8,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 563,
     "url": "https://www.amisragas.co.il/",
     "name": "אמישראגז",
-    "category": 4,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3476,7 +3348,7 @@
     "url": "https://www.ariel.ac.il/",
     "name": "אוניברסיטת אריאל ",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3500,7 +3372,7 @@
     "url": "https://yadleachim.co.il/",
     "name": "יד לאחים",
     "category": 13,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3508,7 +3380,7 @@
     "url": "https://www.yuvallim.co.il",
     "name": "יובלים - תאגיד המים אשדוד",
     "category": 12,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3516,7 +3388,7 @@
     "url": "https://www.bookaflight.co.il/",
     "name": "טיסות - Book A Flight",
     "category": 14,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3524,7 +3396,7 @@
     "url": "https://www.mdais.org/",
     "name": "מגן דוד אדום בישראל",
     "category": 9,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3532,7 +3404,7 @@
     "url": "https://www.ronyohananov.com/",
     "name": "רון יוחננוב - בלוג אוכל",
     "category": 16,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3540,7 +3412,7 @@
     "url": "https://creditdata.org.il/",
     "name": "נתוני אשראי - בנק ישראל",
     "category": 8,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3556,14 +3428,14 @@
     "url": "https://verifone.co.il/",
     "name": "Verifone - סליקת אשראי ",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 575,
     "url": "https://totalkg.org.il/",
     "name": "ישיבת תומכי תמימים קרית גת",
-    "category": 1,
+    "category": 21,
     "level": 0,
     "gender": 0
   },
@@ -3587,8 +3459,8 @@
     "id": 578,
     "url": "https://www.kitomarom.co.il/",
     "name": "קיטו מרום - פרויקטים חינוכיים",
-    "category": 12,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3596,7 +3468,7 @@
     "url": "https://elitcar.co.il/",
     "name": "עילית קאר - סוכנות רכב",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3604,7 +3476,7 @@
     "url": "https://www.boi.org.il/",
     "name": "בנק ישראל",
     "category": 8,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3620,7 +3492,7 @@
     "url": "https://www.tirat-carmel.muni.il/",
     "name": "עיריית טירת הכרמל",
     "category": 12,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3628,30 +3500,22 @@
     "url": "https://www.theorytest.org.il/",
     "name": "מבחני תיאוריה - משרד הרישוי",
     "category": 6,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 584,
     "url": "https://eforms.hargal.co.il/",
     "name": "הר גל טפסים",
-    "category": 5,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 585,
-    "url": "https://www.lbr.co.il/",
-    "name": "ליברה ביטוח",
-    "category": 8,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 586,
     "url": "https://store.daniphone.co.il/",
     "name": "דני פון סוללר",
-    "category": 4,
+    "category": 15,
     "level": 0,
     "gender": 0
   },
@@ -3667,8 +3531,8 @@
     "id": 588,
     "url": "https://www.hasolidit.com/",
     "name": "הסולידית - פורום השקעות",
-    "category": 8,
-    "level": 0,
+    "category": 22,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3684,7 +3548,7 @@
     "url": "https://wizzair.com/",
     "name": "Wizz Air",
     "category": 14,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3692,7 +3556,7 @@
     "url": "https://www.h-more.co.il/",
     "name": "הום & מור - טקסטיל לבית",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3700,7 +3564,7 @@
     "url": "https://digitalschool.co.il/",
     "name": "דיגיטל סקול - מכללת איקום",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3724,7 +3588,7 @@
     "url": "https://vdivani.co.il/",
     "name": "ויטוריו דיואני - הכל לבית",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3740,7 +3604,7 @@
     "url": "https://netzach-md.org.il/",
     "name": "נצח - מכינה ללימודי רפואה",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3764,23 +3628,23 @@
     "url": "https://sheilot.com/",
     "name": "שאלות - פורטל עולמי לשאלות בהלכה",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 601,
     "url": "https://breslovmatch.com/",
     "name": "אתר שידוכים ברסלב",
-    "category": 13,
-    "level": 0,
+    "category": 20,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 602,
     "url": "https://bagir-il.com/",
     "name": "בגיר אופנת גברים",
-    "category": 4,
-    "level": 0,
+    "category": 17,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3788,7 +3652,7 @@
     "url": "https://smslarav.co.il/",
     "name": "סמס לרב",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3828,7 +3692,7 @@
     "url": "https://m-shuk.net/",
     "name": "מחסני השוק",
     "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3836,7 +3700,7 @@
     "url": "https://kollkvoda.co.il/",
     "name": "קול כבודה",
     "category": 18,
-    "level": 0,
+    "level": 1,
     "gender": 2
   },
   {
@@ -3844,7 +3708,7 @@
     "url": "https://www.chabadjewishlife.org",
     "name": "חבד חיים יהודיים",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3852,7 +3716,7 @@
     "url": "https://www.metropoline.com/",
     "name": "מטרופולין",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3860,15 +3724,7 @@
     "url": "https://chabadisrael.co.il/",
     "name": "חבד ישראל",
     "category": 1,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 613,
-    "url": "https://remotedesktop.google.com/",
-    "name": "Chrome Remote Desktop",
-    "category": 5,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3884,15 +3740,15 @@
     "url": "https://groups.google.com/",
     "name": "Google Groups",
     "category": 5,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 616,
     "url": "https://www.dos.co.il/",
     "name": "המשודך המתוסבך",
-    "category": 11,
-    "level": 1,
+    "category": 20,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3900,7 +3756,7 @@
     "url": "https://www.webtop.co.il",
     "name": "Webtop",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3908,7 +3764,7 @@
     "url": "https://www.as-invest.co.il/",
     "name": "אלטשולר שחם - בית השקעות",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3924,7 +3780,7 @@
     "url": "https://www.pango.co.il/",
     "name": "Pango - פנגו",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3940,7 +3796,7 @@
     "url": "https://mitbagrim.org.il/",
     "name": "עבודה בעיניים",
     "category": 3,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3948,7 +3804,7 @@
     "url": "https://www.10dakot.co.il/",
     "name": "מתכונים - עשר דקות",
     "category": 16,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3964,7 +3820,7 @@
     "url": "https://orhachaim.co.il/",
     "name": "מוסדות אור החיים",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -3979,8 +3835,8 @@
     "id": 627,
     "url": "https://www.timewatch.co.il/",
     "name": "TimeWatch - שעון נוכחות",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -3988,7 +3844,7 @@
     "url": "https://www.holon.muni.il/",
     "name": "עיריית חולון",
     "category": 12,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4004,15 +3860,15 @@
     "url": "https://the-openclass.org/",
     "name": "שיעור פתוח",
     "category": 2,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
     "id": 632,
     "url": "https://www.shadow-order.com/",
     "name": "שיטת שאדו - הגנה עצמית",
-    "category": 2,
-    "level": 1,
+    "category": 19,
+    "level": 3,
     "gender": 0
   },
   {
@@ -4020,7 +3876,7 @@
     "url": "https://70q.co.il/",
     "name": "70 השאלות הקשות ביהדות",
     "category": 1,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4033,26 +3889,18 @@
   },
   {
     "id": 635,
-    "url": "https://noeg.co.il/reset/",
-    "name": "נוהג - לימוד תיאוריה בחינם",
+    "url": "https://noeg.co.il/",
+    "name": "נוהג - לימוד תיאוריה",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 636,
     "url": "https://www.ivelt.com/",
     "name": "אידישע וועלט - I velt",
-    "category": 1,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 637,
-    "url": "https://ontopo.com/",
-    "name": "חווית אוכל | אונטופו",
-    "category": 16,
-    "level": 1,
+    "category": 22,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4067,8 +3915,8 @@
     "id": 639,
     "url": "https://chanivainberger.co.il/",
     "name": "חני וינברג - מותג איפור",
-    "category": 18,
-    "level": 0,
+    "category": 17,
+    "level": 2,
     "gender": 2
   },
   {
@@ -4076,15 +3924,15 @@
     "url": "https://parasha.org/",
     "name": "פרשה ואישה",
     "category": 18,
-    "level": 0,
+    "level": 1,
     "gender": 2
   },
   {
     "id": 641,
     "url": "https://101.rdn.org.il/",
     "name": "טופס 101",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
@@ -4100,7 +3948,7 @@
     "url": "https://yad.reachhands.com/",
     "name": "להושיט יד",
     "category": 13,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4108,7 +3956,7 @@
     "url": "https://tiktek.com/",
     "name": "תיקתק -Tiktek",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4116,7 +3964,7 @@
     "url": "https://www.openu.ac.il/",
     "name": "האוניברסיטה הפתוחה",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4124,14 +3972,14 @@
     "url": "https://rationalbelief.org.il/",
     "name": "רציו - מחקר. מדע. ואמונה",
     "category": 1,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 647,
     "url": "https://meonot-chemed.co.il/",
     "name": "רשת מעונות - אחוזת חמד",
-    "category": 2,
+    "category": 19,
     "level": 1,
     "gender": 0
   },
@@ -4148,15 +3996,15 @@
     "url": "https://www.clalitsmile.co.il/",
     "name": "כללית סמייל",
     "category": 9,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 651,
     "url": "https://hashavimnet.hilan.co.il/",
     "name": "חשבים נט",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
@@ -4164,7 +4012,7 @@
     "url": "https://www.ayalon-ins.co.il/",
     "name": "איילון ביטוח",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4180,7 +4028,7 @@
     "url": "https://www.arachim.org/",
     "name": "ערכים | יהדות | סמינרים | הרצאות",
     "category": 1,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4220,7 +4068,7 @@
     "url": "https://www.ashira.co.il/",
     "name": "אשירה | הרבנית ימימה מזרחי",
     "category": 18,
-    "level": 0,
+    "level": 1,
     "gender": 2
   },
   {
@@ -4260,15 +4108,15 @@
     "url": "https://kartagroup.co.il/",
     "name": "קבוצת קרתא - נדלן",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 665,
     "url": "https://www.kolzchut.org.il/",
     "name": "כל זכות",
-    "category": 6,
-    "level": 0,
+    "category": 22,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4284,7 +4132,7 @@
     "url": "https://olamot.net/",
     "name": "עולמות - תכנית לימוד בעיון",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -4300,7 +4148,7 @@
     "url": "https://pisgat-harahit.co.il/",
     "name": "פסגת הרהיט",
     "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -4308,7 +4156,7 @@
     "url": "https://www.simplyme.co.il/",
     "name": "פשוט אני - השתלמויות מקוונות למורים",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4316,7 +4164,7 @@
     "url": "https://www.kayak.com/",
     "name": "קיאק טיסות",
     "category": 14,
-    "level": 0,
+    "level": 3,
     "gender": 0
   },
   {
@@ -4324,7 +4172,7 @@
     "url": "https://breslevcity.co.il/",
     "name": "ברסלב סיטי",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -4332,7 +4180,7 @@
     "url": "https://shutafotbaderech.co.il/",
     "name": "שותפות בדרך",
     "category": 18,
-    "level": 0,
+    "level": 1,
     "gender": 2
   },
   {
@@ -4348,23 +4196,15 @@
     "url": "https://stamscanner.co.il/",
     "name": "StamScanner - בדיקת סתם",
     "category": 5,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 676,
-    "url": "https://shirahadasha.com/",
-    "name": "שירה חדשה - אופנה צנועה",
-    "category": 17,
     "level": 1,
-    "gender": 2
+    "gender": 0
   },
   {
     "id": 677,
     "url": "https://www.ylm.co.il/",
     "name": "י.ל.מ - ילמ פתרונות",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
@@ -4372,7 +4212,7 @@
     "url": "https://iyun.org.il/",
     "name": "צריך עיון",
     "category": 1,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4388,7 +4228,7 @@
     "url": "https://calmark.io/",
     "name": "Calmark - קביעת תורים",
     "category": 5,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4411,8 +4251,8 @@
     "id": 683,
     "url": "https://www.shagririm.org.il/",
     "name": "שגרירים בלב - שידוכים",
-    "category": 13,
-    "level": 0,
+    "category": 20,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4424,35 +4264,27 @@
     "gender": 0
   },
   {
-    "id": 685,
-    "url": "https://www.954.co.il/",
-    "name": "954 - חדשות קרית אתא",
-    "category": 0,
-    "level": 1,
-    "gender": 0
-  },
-  {
     "id": 686,
     "url": "https://mail.aol.com/",
     "name": "AOL mail - דואר",
     "category": 5,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 687,
     "url": "https://www.ykr.org.il/",
     "name": "ישיבת כיסא רחמים",
-    "category": 1,
+    "category": 21,
     "level": 0,
     "gender": 0
   },
   {
     "id": 688,
     "url": "https://akshiva.co.il/",
-    "name": "אקשיבה - שות למגזר החרדי",
-    "category": 1,
-    "level": 0,
+    "name": "אקשיבה",
+    "category": 22,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4460,23 +4292,23 @@
     "url": "https://www.nimrod.co.il/",
     "name": "נעלי נמרוד",
     "category": 17,
-    "level": 1,
+    "level": 2,
     "gender": 2
   },
   {
     "id": 690,
     "url": "https://www.carrefour.co.il/",
     "name": "קרפור - Carrefour",
-    "category": 4,
-    "level": 0,
+    "category": 16,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 691,
     "url": "https://www.adcs.co.il/",
     "name": "אמירים הפצה",
-    "category": 4,
-    "level": 0,
+    "category": 15,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4484,15 +4316,7 @@
     "url": "https://matkoni.co.il/",
     "name": "מתכוני - מתכונים",
     "category": 16,
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "id": 693,
-    "url": "https://www.garin-ramla.org.il/",
-    "name": "גרעין תורני עמיחי רמלה",
-    "category": 12,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4516,7 +4340,7 @@
     "url": "https://heninthekitchen.com/",
     "name": "חן במטבח - מתכונים",
     "category": 16,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
@@ -4524,7 +4348,7 @@
     "url": "https://www.halilit.com/",
     "name": "חלילית - רשת כלי נגינה",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4538,9 +4362,9 @@
   {
     "id": 699,
     "url": "https://hkad.co.il/",
-    "name": "חבורתא קדישתא - מגזין החרדים המוביל",
-    "category": 1,
-    "level": 0,
+    "name": "חבורתא קדישתא",
+    "category": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4548,7 +4372,7 @@
     "url": "https://www.kabook.co.il/",
     "name": "KaBook - קבוק - חנות תוכן יהודי",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4556,7 +4380,7 @@
     "url": "https://hamakom.social/",
     "name": "המקום - מגזין לחרדים",
     "category": 11,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4571,16 +4395,8 @@
     "id": 703,
     "url": "https://www.alljobs.co.il/",
     "name": "alljobs - דרושים",
-    "category": 8,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 704,
-    "url": "https://tabitisrael.co.il/",
-    "name": "טאביט - הזמנת מקום במסעדות",
-    "category": 16,
-    "level": 1,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4588,7 +4404,7 @@
     "url": "https://www.mei-ashkelon.co.il/",
     "name": "תאגיד מי אשקלון",
     "category": 12,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -4596,31 +4412,23 @@
     "url": "https://www.geva.co.il/",
     "name": "MyGeva - מתמטיקה -  גבע",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
-  },
-  {
-    "id": 707,
-    "url": "https://oria-fashion.co.il/",
-    "name": "אוריה פאשן",
-    "category": 17,
-    "level": 1,
-    "gender": 2
   },
   {
     "id": 708,
     "url": "https://www.mei-barak.co.il/",
     "name": "תאגיד מי ברק",
     "category": 12,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 709,
     "url": "https://www.mekudeshet.co.il/",
     "name": "מקודשת - מערכת ניהול לשדכנים",
-    "category": 13,
-    "level": 0,
+    "category": 20,
+    "level": 1,
     "gender": 0
   },
   {
@@ -4628,14 +4436,14 @@
     "url": "https://www.fingrow.co.il/",
     "name": "המרכז לצמיחה פיננסית",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 711,
     "url": "https://bhi.co.il/",
     "name": "חבורת תריג",
-    "category": 11,
+    "category": 3,
     "level": 1,
     "gender": 0
   },
@@ -4660,7 +4468,7 @@
     "url": "https://www.mahshev.org.il/",
     "name": "מחשב מהלב",
     "category": 13,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4692,15 +4500,15 @@
     "url": "https://www.mor-vetifara.co.il/",
     "name": "מור ותפארה - מטפחות מעוצבות",
     "category": 17,
-    "level": 1,
+    "level": 2,
     "gender": 2
   },
   {
     "id": 719,
     "url": "https://kivunim7.co.il/",
     "name": "כיוונים - באר שבע",
-    "category": 12,
-    "level": 0,
+    "category": 11,
+    "level": 3,
     "gender": 0
   },
   {
@@ -4708,7 +4516,7 @@
     "url": "https://www.wishingwell.co.il/",
     "name": "באר המשאלות",
     "category": 13,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4716,7 +4524,7 @@
     "url": "https://kahoot.it/",
     "name": "קהוט - Kahoot",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4724,7 +4532,7 @@
     "url": "https://www.rami-levy-ins.co.il/",
     "name": "רמי לוי ביטוח",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4732,7 +4540,7 @@
     "url": "https://achimlanefesh.org.il/",
     "name": "אחים לנפש",
     "category": 13,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4748,7 +4556,7 @@
     "url": "https://beitberl.ac.il/",
     "name": "המכללה האקדמית בית ברל",
     "category": 2,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
@@ -4764,7 +4572,7 @@
     "url": "https://skywell.co.il/",
     "name": "Skywell",
     "category": 14,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4772,7 +4580,7 @@
     "url": "https://kosher-basviva.com/",
     "name": "כשר בסביבה",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -4780,7 +4588,7 @@
     "url": "https://hazorfim.co.il/",
     "name": "הצורפים - כלי כסף",
     "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -4788,7 +4596,7 @@
     "url": "https://mail.walla.co.il/",
     "name": "וואלה מייל",
     "category": 5,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4827,9 +4635,9 @@
     "id": 736,
     "url": "https://www.taharat.org.il/",
     "name": "טהרת המשפחה",
-    "category": 1,
-    "level": 0,
-    "gender": 0
+    "category": 18,
+    "level": 1,
+    "gender": 2
   },
   {
     "id": 737,
@@ -4844,15 +4652,15 @@
     "url": "https://www.foxhome.co.il/",
     "name": "פוקס הום - Fox Home",
     "category": 4,
-    "level": 0,
+    "level": 3,
     "gender": 0
   },
   {
     "id": 739,
     "url": "https://www.pazgas.co.il/",
     "name": "פזגז",
-    "category": 4,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4860,15 +4668,15 @@
     "url": "https://sales.org.il/",
     "name": "מכירות שכונתיות",
     "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 741,
     "url": "https://ipolice.co.il/",
     "name": "מתגייסים למשטרת ישראל",
-    "category": 6,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4876,7 +4684,7 @@
     "url": "https://www.igm.org.il/",
     "name": "ארגון המורים",
     "category": 11,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4884,7 +4692,7 @@
     "url": "https://photos.jemedia.org/",
     "name": "jem תמונות",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -4899,16 +4707,16 @@
     "id": 745,
     "url": "https://www.mailogs.com/tracking",
     "name": "Mailog - מעקב משלוחים",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 746,
     "url": "https://yakovshkolnik.com/",
     "name": "יועץ נישואין - יעקב שקולניק ",
-    "category": 1,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4932,7 +4740,7 @@
     "url": "https://www.rahelihaktana.com/",
     "name": "רחלי הקטנה",
     "category": 10,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4948,7 +4756,7 @@
     "url": "https://www.yodfatstyle.com/",
     "name": "יודפת סטייל - כיסויי ראש",
     "category": 17,
-    "level": 1,
+    "level": 2,
     "gender": 2
   },
   {
@@ -4977,10 +4785,10 @@
   },
   {
     "id": 756,
-    "url": "https://maagarim.hebrew-academy.org.il/Pages/PMain.aspx",
+    "url": "https://maagarim.hebrew-academy.org.il/",
     "name": "מאגרים - מפעל המילון ההיסטורי",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4988,7 +4796,7 @@
     "url": "https://www.airalo.com/",
     "name": "Airalo - סים - eSim",
     "category": 15,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -4996,22 +4804,14 @@
     "url": "https://invoice-generator.com/",
     "name": "Invoice - יוצר חשבוניות",
     "category": 5,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 759,
     "url": "https://tora-magna.com/",
     "name": "תורה מגנה - חרבות של מעשים טובים",
-    "category": 1,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 760,
-    "url": "https://jhesed.com/",
-    "name": "שפע לכל",
-    "category": 16,
+    "category": 13,
     "level": 1,
     "gender": 0
   },
@@ -5020,7 +4820,7 @@
     "url": "https://ravsherki.org/",
     "name": "הרב אורי שרקי",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -5028,7 +4828,7 @@
     "url": "https://bogreynetzach.org/",
     "name": "בוגרי נצח",
     "category": 13,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -5036,7 +4836,7 @@
     "url": "https://www.lashonimi.co.il/",
     "name": "לשונימי - הכנה לבגרות בלשון",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5059,8 +4859,8 @@
     "id": 766,
     "url": "https://www.2become1.co.il/",
     "name": "שניים שהם אחד - הכרויות",
-    "category": 13,
-    "level": 0,
+    "category": 20,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5108,7 +4908,7 @@
     "url": "https://cb-fashion.shop/",
     "name": "CB Fashion - אופנה",
     "category": 17,
-    "level": 1,
+    "level": 2,
     "gender": 2
   },
   {
@@ -5116,7 +4916,7 @@
     "url": "https://we-com.co.il/",
     "name": "WECOM - חבילות סלולר",
     "category": 15,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5124,23 +4924,23 @@
     "url": "https://www.passportcard.co.il/",
     "name": "PassportCard - ביטוח נסיעות",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 775,
     "url": "https://teutza.com/",
     "name": "טיסות זולות - צייד הטיסות",
-    "category": 11,
-    "level": 1,
+    "category": 14,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 776,
     "url": "https://israelhiking.osm.org.il/",
     "name": "Israel Hiking Map",
-    "category": 5,
-    "level": 0,
+    "category": 11,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5148,7 +4948,7 @@
     "url": "https://www.paybill.co.il/",
     "name": "PayBill - אתר התשלומים",
     "category": 12,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -5164,7 +4964,7 @@
     "url": "https://next-level.co.il/",
     "name": "NextLevel - תיוון נדלן",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5172,7 +4972,7 @@
     "url": "https://hechven-bb.co.il/",
     "name": "הכוון תעסוקתי - בני ברק",
     "category": 12,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -5180,7 +4980,7 @@
     "url": "https://www.mycar-israel.com/",
     "name": "מי קאר - רכב שיתופי",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -5203,8 +5003,8 @@
     "id": 784,
     "url": "https://kosher.chat/",
     "name": "Kosher Chat",
-    "category": 1,
-    "level": 0,
+    "category": 5,
+    "level": 1,
     "gender": 0
   },
   {
@@ -5220,7 +5020,7 @@
     "url": "https://www.auto.co.il/",
     "name": "אוטו - מגזין רכב",
     "category": 14,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5244,7 +5044,7 @@
     "url": "https://www.clalbit.co.il/",
     "name": "כלל ביטוח ופיננסים",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5252,7 +5052,7 @@
     "url": "https://www.pjisrael.org/",
     "name": "ספריית פיג'מה",
     "category": 3,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
@@ -5268,7 +5068,7 @@
     "url": "https://www.ish-tsadik.org.il/",
     "name": "עמותת איש צדיק היה",
     "category": 13,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -5276,7 +5076,7 @@
     "url": "https://mainstream.online/",
     "name": "מיינסטרים - סרטים ומוסיקה",
     "category": 10,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5284,7 +5084,7 @@
     "url": "https://portal.aminadav.info/",
     "name": "עמינדב - שירות לאומי",
     "category": 13,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5299,8 +5099,8 @@
     "id": 796,
     "url": "https://www.achvat.co.il/",
     "name": "אחוות תורה",
-    "category": 13,
-    "level": 0,
+    "category": 1,
+    "level": 1,
     "gender": 0
   },
   {
@@ -5308,7 +5108,7 @@
     "url": "https://chaverim.org.il/",
     "name": "חברים | השירות האזרחי",
     "category": 13,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -5324,7 +5124,7 @@
     "url": "https://rsv.xline.me/",
     "name": "אומן אקספרס",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -5332,7 +5132,7 @@
     "url": "https://www.tradingview.com/",
     "name": "TrandingView",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5340,7 +5140,7 @@
     "url": "https://collanta.co.il/",
     "name": "קולנטה - COLLANTA",
     "category": 17,
-    "level": 1,
+    "level": 2,
     "gender": 2
   },
   {
@@ -5355,16 +5155,16 @@
     "id": 803,
     "url": "https://event-design.online/",
     "name": "מעצבים אונליין",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 804,
     "url": "https://www.mehadrinonline.co.il/",
     "name": "מהדרין אונליין",
-    "category": 4,
-    "level": 0,
+    "category": 16,
+    "level": 1,
     "gender": 0
   },
   {
@@ -5372,7 +5172,7 @@
     "url": "https://www.airportsparking.com/",
     "name": "Airports Parking - טיסות",
     "category": 14,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5396,14 +5196,14 @@
     "url": "https://www.gool.co.il/",
     "name": "Gool - קורסים אונליין",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 809,
     "url": "https://www.ytlv.co.il/",
     "name": "ישיבת מעלה אליהו",
-    "category": 1,
+    "category": 21,
     "level": 0,
     "gender": 0
   },
@@ -5411,7 +5211,7 @@
     "id": 810,
     "url": "https://yeshivot.co.il/",
     "name": "אתר הישיבות התיכוניות",
-    "category": 2,
+    "category": 21,
     "level": 1,
     "gender": 0
   },
@@ -5420,7 +5220,7 @@
     "url": "https://maoryehuda.co.il/",
     "name": "מקפת - מרכזים תורנים פתח תקווה",
     "category": 12,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -5436,7 +5236,7 @@
     "url": "https://remember.bio/",
     "name": "Remember - עמודי זיכרון",
     "category": 13,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5444,15 +5244,15 @@
     "url": "https://www.bitpay.co.il/",
     "name": "ביט - Bit",
     "category": 8,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 815,
     "url": "https://double2love.com/",
     "name": "דאבל היכרויות",
-    "category": 11,
-    "level": 1,
+    "category": 20,
+    "level": 3,
     "gender": 0
   },
   {
@@ -5460,7 +5260,7 @@
     "url": "https://shvirega.co.il/",
     "name": "שבי רגע",
     "category": 18,
-    "level": 0,
+    "level": 2,
     "gender": 2
   },
   {
@@ -5484,7 +5284,7 @@
     "url": "https://www.yad2.co.il/",
     "name": "יד 2",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5492,7 +5292,7 @@
     "url": "https://tavshilim.co.il/",
     "name": "תבשילים וחלומות - מתכונים",
     "category": 16,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5507,7 +5307,7 @@
     "id": 822,
     "url": "https://halomothasidiim.co.il/",
     "name": "חלומות של צדקים",
-    "category": 7,
+    "category": 3,
     "level": 1,
     "gender": 0
   },
@@ -5515,7 +5315,7 @@
     "id": 823,
     "url": "https://www.rdm.co.il/",
     "name": "רשת דובדבן - מעונות לגיל הרך",
-    "category": 2,
+    "category": 19,
     "level": 1,
     "gender": 0
   },
@@ -5548,7 +5348,7 @@
     "url": "https://benakel.org/",
     "name": "ארגון בנקל",
     "category": 8,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -5556,15 +5356,15 @@
     "url": "https://sodastream.co.il/",
     "name": "סודהסטרים ישראל",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 829,
     "url": "https://mayanot.co.il/",
     "name": "מכללת מעיינות - רפואה משלימה",
-    "category": 18,
-    "level": 0,
+    "category": 9,
+    "level": 2,
     "gender": 2
   },
   {
@@ -5572,7 +5372,7 @@
     "url": "https://www.knowingfaith.co.il/",
     "name": "מכון עולמות - לדעת להאמין",
     "category": 1,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5588,7 +5388,7 @@
     "url": "https://mathpid.com/",
     "name": "mathpid - לימוד מתמטיקה",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5596,15 +5396,15 @@
     "url": "https://salinafashion.com/",
     "name": "סלינה - SALINA | אופנה צנועה לנשים",
     "category": 17,
-    "level": 1,
+    "level": 2,
     "gender": 2
   },
   {
     "id": 834,
     "url": "https://mitmachim.top/",
     "name": "מתמחים טופ",
-    "category": 5,
-    "level": 0,
+    "category": 22,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5612,7 +5412,7 @@
     "url": "https://yeshinvoice.co.il/",
     "name": "יש חשבונית",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5620,23 +5420,23 @@
     "url": "https://www.washington.ac.il/",
     "name": "מכללת גבעת וושינגטון",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 837,
     "url": "https://shvushon.github.io/shvushon/",
     "name": "שבושון",
-    "category": 1,
-    "level": 0,
+    "category": 11,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 838,
     "url": "https://eco-bill.com/",
     "name": "EcoBill - ניהול משק בית",
-    "category": 8,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5644,7 +5444,7 @@
     "url": "https://www.colmobil.co.il/",
     "name": "כלמוביל - רכב",
     "category": 14,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5652,7 +5452,7 @@
     "url": "https://www.cwc.co.il/",
     "name": "עולם הקולנוע והחשמל",
     "category": 4,
-    "level": 0,
+    "level": 3,
     "gender": 0
   },
   {
@@ -5668,7 +5468,7 @@
     "url": "https://www.9000000.co.il/",
     "name": "ביטוח 9",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5676,15 +5476,7 @@
     "url": "https://www.malkali.com/",
     "name": "מלכהלי - סרטים לילדים",
     "category": 10,
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "id": 844,
-    "url": "https://torahanytime.com/",
-    "name": "Torah anytime",
-    "category": 1,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5700,7 +5492,7 @@
     "url": "https://konesy2.co.il/",
     "name": "כונס יד 2",
     "category": 14,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5708,7 +5500,7 @@
     "url": "https://www.histadrut.org.il/",
     "name": "הסתדרות העובדים",
     "category": 11,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
@@ -5716,7 +5508,7 @@
     "url": "https://www.kinus.com/",
     "name": "כינוס השלוחים העולמי",
     "category": 13,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -5724,7 +5516,7 @@
     "url": "https://www.milli.org.il/",
     "name": "מילי - יעוץ רפואי",
     "category": 9,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5732,7 +5524,7 @@
     "url": "https://www.yadmeir.co.il/",
     "name": "יד מאיר",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -5740,7 +5532,7 @@
     "url": "https://c.ort.org.il/",
     "name": "מכללות אורט",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5748,15 +5540,15 @@
     "url": "https://www.duolingo.com/",
     "name": "Duolingo - לימוד שפות",
     "category": 2,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
     "id": 854,
     "url": "https://www.nagaroot.com/",
     "name": "חובבי נגרות",
-    "category": 11,
-    "level": 1,
+    "category": 22,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5764,7 +5556,7 @@
     "url": "https://www.bikurofe.co.il/",
     "name": "ביקורופא",
     "category": 9,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5772,7 +5564,7 @@
     "url": "https://hatanakh.com/",
     "name": "אתר התנך - מכללת הרצוג",
     "category": 1,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5780,7 +5572,7 @@
     "url": "https://bneiakiva.gal-ed.co.il/",
     "name": "גלעד-לזכרם | בני עקיבא",
     "category": 3,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5796,7 +5588,7 @@
     "url": "https://www.davidmak.co.il/",
     "name": "מלאכת הקודש - יודאיקה",
     "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -5804,7 +5596,7 @@
     "url": "https://nativcell.co.il/",
     "name": "נתיב מובייל",
     "category": 15,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -5812,7 +5604,7 @@
     "url": "https://busnearby.co.il/",
     "name": "אוטובוס קרוב",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -5820,7 +5612,7 @@
     "url": "https://www.hadassah.org.il/",
     "name": "בית חולים הדסה",
     "category": 9,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5828,7 +5620,7 @@
     "url": "https://bshch.blogspot.com/",
     "name": "בעולמם של חרדים",
     "category": 0,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5836,7 +5628,7 @@
     "url": "https://probookclub.co.il/",
     "name": "PBC - סיכומי ספרים",
     "category": 2,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
@@ -5852,7 +5644,7 @@
     "url": "https://bezeq.co.il/",
     "name": "בזק",
     "category": 15,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5868,7 +5660,7 @@
     "url": "https://impact.bz/",
     "name": "ממלאים את החלל",
     "category": 13,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5876,7 +5668,7 @@
     "url": "https://reganews.co.il/",
     "name": "רגע חדשות",
     "category": 0,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5884,7 +5676,7 @@
     "url": "https://leetcode.com/",
     "name": "LeetCode",
     "category": 2,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
@@ -5892,8 +5684,8 @@
     "url": "https://bitan-hmelech.co.il/",
     "name": "ביתן המלך",
     "category": 17,
-    "level": 1,
-    "gender": 2
+    "level": 2,
+    "gender": 0
   },
   {
     "id": 873,
@@ -5908,7 +5700,7 @@
     "url": "https://bekabala.com/",
     "name": "בקבלה - תרופות מדור לדור",
     "category": 9,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5916,7 +5708,7 @@
     "url": "https://macam.ac.il/",
     "name": "מכון מופת",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5924,7 +5716,7 @@
     "url": "https://www.metropark.co.il/",
     "name": "מטרופארק - חניה ופיקוח עירוני",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -5932,7 +5724,7 @@
     "url": "https://teimot.com/",
     "name": "טעימות - מתכונים",
     "category": 16,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5940,7 +5732,7 @@
     "url": "https://kindertoys.co.il/",
     "name": "קינדר טויס - צעצועים וכלי כתיבה",
     "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -5955,8 +5747,8 @@
     "id": 880,
     "url": "https://habeer.co.il/",
     "name": "הבאר - היכרויות לדתיים",
-    "category": 13,
-    "level": 0,
+    "category": 20,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5964,7 +5756,7 @@
     "url": "https://torahnoar.org/",
     "name": "תורהנוער",
     "category": 3,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5972,7 +5764,7 @@
     "url": "https://mashav.tv/",
     "name": "משב - מה שיהודי בישראל",
     "category": 1,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5980,7 +5772,7 @@
     "url": "https://www.naamanp.co.il/",
     "name": "נעמן - כלי בית ומטבח",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -5988,7 +5780,7 @@
     "url": "https://www.gimatria.co.il/",
     "name": "מחשבון גימטריה",
     "category": 5,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -5996,7 +5788,7 @@
     "url": "https://tora-forum.co.il/",
     "name": "פורום לתורה",
     "category": 1,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6011,7 +5803,7 @@
     "id": 887,
     "url": "https://readover.online/",
     "name": "רידובר - לימוד קריאה לילדים",
-    "category": 2,
+    "category": 3,
     "level": 1,
     "gender": 0
   },
@@ -6020,7 +5812,7 @@
     "url": "https://www.mabatelectric.com/",
     "name": "מבט אלקטריק",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6028,7 +5820,7 @@
     "url": "https://sefertora.org.il/",
     "name": "ספר תורה הכללי",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6036,7 +5828,7 @@
     "url": "https://binaplus.co.il/",
     "name": "בינה פלוס",
     "category": 5,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6044,15 +5836,15 @@
     "url": "https://dicta.org.il/",
     "name": "דיקטה - ניתוח טקסטים עבריים",
     "category": 5,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 892,
     "url": "https://www.electra-power.co.il/",
     "name": "אלקטרה פאוור - Electra Power",
-    "category": 4,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6068,23 +5860,15 @@
     "url": "https://www.sulamot.org/",
     "name": "סולמות",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 896,
     "url": "https://kodcode.org.il/",
     "name": "קודקוד - משרד הביטחון",
-    "category": 6,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 897,
-    "url": "https://613-613.co.il/",
-    "name": "613 - ספרים תורניים",
-    "category": 4,
-    "level": 0,
+    "category": 2,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6092,15 +5876,15 @@
     "url": "https://www.lashabakery.com/",
     "name": "לשה רוח אפיה - מצפה רמון",
     "category": 16,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 899,
     "url": "https://hesder.org.il/",
     "name": "איגוד ישיבות ההסדר",
-    "category": 13,
-    "level": 0,
+    "category": 21,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6116,7 +5900,7 @@
     "url": "https://moked.org.il/",
     "name": "מוקד אור",
     "category": 15,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6124,7 +5908,7 @@
     "url": "https://www.solelim-derech.co.il/",
     "name": "סוללים דרך",
     "category": 0,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6140,23 +5924,15 @@
     "url": "https://www.bitsofgold.co.il/",
     "name": "Bits of Gold - ביטקוין",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 905,
     "url": "https://jkf.co.il/",
     "name": "ג'וזף קאופמן",
-    "category": 4,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 906,
-    "url": "https://safetyprod.azurewebsites.net/",
-    "name": "בטיחות בכף היד",
-    "category": 6,
-    "level": 0,
+    "category": 17,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6164,15 +5940,15 @@
     "url": "https://www.tasmc.org.il/",
     "name": "בית חולים איכילוב",
     "category": 9,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 908,
     "url": "https://panizzaisarel.co.il/",
     "name": "פאניצה כובעים",
-    "category": 4,
-    "level": 0,
+    "category": 17,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6189,22 +5965,22 @@
     "name": "מכללת אמונה-אפרתה",
     "category": 2,
     "level": 1,
-    "gender": 0
+    "gender": 2
   },
   {
     "id": 911,
     "url": "https://www.cua.org.il/",
     "name": "מלגת - מיל-go",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 912,
     "url": "https://siumshas.co.il/",
-    "name": "סיום שס",
+    "name": "סיום הש\"ס",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6219,7 +5995,7 @@
     "id": 914,
     "url": "https://www.yrg.org.il/",
     "name": "ישיבת ההסדר רמת גן",
-    "category": 1,
+    "category": 21,
     "level": 0,
     "gender": 0
   },
@@ -6228,15 +6004,7 @@
     "url": "https://ahblicklive.com/",
     "name": "א בליק",
     "category": 1,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 916,
-    "url": "https://mileon-portal.co.il/Default.aspx?Rashut=526100",
-    "name": "שירותים מקוונים - בית שמש",
-    "category": 12,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6252,13 +6020,13 @@
     "url": "https://oceangourmet.co.il/",
     "name": "אושן גורמה",
     "category": 16,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 919,
     "url": "https://www.seferkodesh.co.il/",
-    "name": "המרכס לספרי קודש",
+    "name": "המרכז לספרי קודש",
     "category": 4,
     "level": 0,
     "gender": 0
@@ -6275,8 +6043,8 @@
     "id": 921,
     "url": "https://top-guard.co.il/",
     "name": "תמלק - תוכנת ניהול לרשות",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6284,15 +6052,15 @@
     "url": "https://www.testime.co.il/",
     "name": "טסטיים - זימון תור לטסט",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 923,
     "url": "https://noam1.co.il/",
-    "name": "נעם 1",
+    "name": "נעם 2",
     "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6300,7 +6068,7 @@
     "url": "https://app.goodpoint-il.com/",
     "name": "נקודה טובה",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6308,15 +6076,15 @@
     "url": "https://www.toyota.co.il/",
     "name": "טויוטה ישראל - Toyota",
     "category": 14,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 926,
     "url": "https://kollel.co.il/",
     "name": "סדרים - ניהול כולל",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6324,7 +6092,7 @@
     "url": "https://cityofdavid.org.il/",
     "name": "עיר דוד",
     "category": 11,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6332,7 +6100,7 @@
     "url": "https://mexpressil.com/",
     "name": "מחסלים אקספרס",
     "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6340,15 +6108,15 @@
     "url": "https://www.toraland.org.il/",
     "name": "מכון התורה והארץ - למעשה",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 930,
     "url": "https://barbush.co.il/",
     "name": "ברבוש - כיפות",
-    "category": 4,
-    "level": 0,
+    "category": 17,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6356,23 +6124,15 @@
     "url": "https://kerenagam.co.il/",
     "name": "נשואה למאפייה - קרן אגם",
     "category": 16,
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "id": 932,
-    "url": "https://scottkennedy.co.il/",
-    "name": "סקוט קנדי",
-    "category": 4,
-    "level": 0,
+    "level": 3,
     "gender": 0
   },
   {
     "id": 933,
     "url": "https://www.kolbogas.co.il/",
     "name": "כלבוגז - חברת גז",
-    "category": 4,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6380,23 +6140,23 @@
     "url": "https://www.youcube.co.il/",
     "name": "YouCube - יוקיוב - פיזיקה",
     "category": 2,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
     "id": 935,
     "url": "https://www.michalstudiome.co.il/",
     "name": "סטודיו me",
-    "category": 18,
-    "level": 0,
-    "gender": 2
+    "category": 11,
+    "level": 2,
+    "gender": 0
   },
   {
     "id": 937,
     "url": "https://mahane-efraim.co.il/",
     "name": "מחנה אפרים",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6404,7 +6164,7 @@
     "url": "https://www.derechaimss.co.il/",
     "name": "ספריית דרך חיים",
     "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6420,7 +6180,7 @@
     "url": "https://reut-sderot.org.il/",
     "name": "עמותת רעות שדרות",
     "category": 13,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6435,8 +6195,8 @@
     "id": 943,
     "url": "https://baalhanes.co.il/",
     "name": "קבר רבי מאיר בעל הנס",
-    "category": 13,
-    "level": 0,
+    "category": 1,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6452,8 +6212,8 @@
     "url": "https://www.shoes2u.co.il/",
     "name": "נעלי מותגים בזול - Shoes2u",
     "category": 17,
-    "level": 1,
-    "gender": 2
+    "level": 2,
+    "gender": 0
   },
   {
     "id": 946,
@@ -6464,27 +6224,19 @@
     "gender": 0
   },
   {
-    "id": 947,
-    "url": "https://rent4u.website/",
-    "name": "Rent4u - השכרת שמלות צנועות",
-    "category": 17,
-    "level": 1,
-    "gender": 2
-  },
-  {
     "id": 948,
     "url": "https://tovzebateva.webdev.co.il/",
     "name": "טוב זה בטבע",
     "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 949,
     "url": "https://www.bar-mitzva.org/kriot",
     "name": "בר מצווה - קריאות בתורה והפטרות",
-    "category": 1,
-    "level": 0,
+    "category": 3,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6492,7 +6244,7 @@
     "url": "https://www.shlomo-aviner.net/",
     "name": "הרב אבינרפדיה",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6500,7 +6252,7 @@
     "url": "https://bul4you.com/",
     "name": "בול בשבילך - מתנות בהתאמה אישית",
     "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6508,7 +6260,7 @@
     "url": "https://www.770live.com/",
     "name": "770 לייב",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6516,7 +6268,7 @@
     "url": "https://app.heysally.co.il/",
     "name": "סאלי רשימת קניות בווטסאפ",
     "category": 5,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6524,7 +6276,7 @@
     "url": "http://www.mdgs.org.il/",
     "name": "המועצה הדתית גבעת שמואל",
     "category": 12,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6540,15 +6292,15 @@
     "url": "https://www.avshalomfarjun.com/",
     "name": "אבשלום פרג׳ון - לימוד ערבית",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 957,
     "url": "https://www.temple.org.il/",
     "name": "מכון המקדש",
-    "category": 13,
-    "level": 0,
+    "category": 11,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6556,7 +6308,7 @@
     "url": "https://www.ibi.co.il/",
     "name": "IBI - בית השקעות",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6564,7 +6316,7 @@
     "url": "https://alonashpigel.com/",
     "name": "אלונה שפיגל – מנחת נשים",
     "category": 18,
-    "level": 0,
+    "level": 2,
     "gender": 2
   },
   {
@@ -6572,15 +6324,15 @@
     "url": "https://kalabekalut.co.il/",
     "name": "פנינה פרייליך - כלה בקלות",
     "category": 18,
-    "level": 0,
+    "level": 2,
     "gender": 2
   },
   {
     "id": 961,
     "url": "https://kolsimcha.co.il/",
     "name": "קול שמחה - הכל לארגון חתונה",
-    "category": 13,
-    "level": 0,
+    "category": 20,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6588,7 +6340,7 @@
     "url": "https://bonima.co.il/",
     "name": "מכללת הבונים",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6596,7 +6348,7 @@
     "url": "https://pnima.org.il/",
     "name": "הדרך פנימה",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6604,15 +6356,15 @@
     "url": "https://www.jmc.ac.il/",
     "name": "המרכז האקדמי הרב תחומי ירושלים",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 965,
-    "url": "https://www.shullyratzon.com/parchment-art",
+    "url": "https://www.shullyratzon.com/",
     "name": "Shully Ratzon - אומנות יהודית",
     "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6620,7 +6372,7 @@
     "url": "https://mabeliba.podbean.com/",
     "name": "מה בליבא? עם שיראל אלמליח",
     "category": 18,
-    "level": 0,
+    "level": 2,
     "gender": 2
   },
   {
@@ -6644,7 +6396,7 @@
     "url": "https://metikut-htora.onrender.com/",
     "name": "מתיקות התורה",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6652,23 +6404,23 @@
     "url": "https://www.mother-nature.co.il/",
     "name": "Mother Nature - פורמולות לנשים",
     "category": 18,
-    "level": 0,
+    "level": 1,
     "gender": 2
   },
   {
     "id": 971,
     "url": "https://www.milgam.co.il/",
     "name": "מילגם - לניהול חכם",
-    "category": 8,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 972,
     "url": "https://www.ifixit.com/Guide",
     "name": "iFixit - מדריך תיקונים",
-    "category": 5,
-    "level": 0,
+    "category": 22,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6676,7 +6428,7 @@
     "url": "https://www.avuka-app.com/",
     "name": "כיתת כוננות - מערכת חמל",
     "category": 12,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6684,7 +6436,7 @@
     "url": "https://kehillat-korot.com/",
     "name": "קהילת קוראות",
     "category": 18,
-    "level": 0,
+    "level": 1,
     "gender": 2
   },
   {
@@ -6692,15 +6444,15 @@
     "url": "https://pillbox.co.il/",
     "name": "פילבוקס - הבית של החיילים",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 976,
     "url": "https://xsosshirts.co.il/",
     "name": "אקסוס",
-    "category": 4,
-    "level": 0,
+    "category": 17,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6708,7 +6460,7 @@
     "url": "https://www.moreinvest.co.il/",
     "name": "מור - בית השקעות - More",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6732,7 +6484,7 @@
     "url": "https://www.zoom.com/",
     "name": "Zoom",
     "category": 5,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6740,15 +6492,15 @@
     "url": "https://ksp.co.il/",
     "name": "KSP",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 982,
     "url": "https://familylawisrael.com/",
     "name": "עורכי דין - דיני משפחה",
-    "category": 8,
-    "level": 0,
+    "category": 19,
+    "level": 3,
     "gender": 0
   },
   {
@@ -6780,7 +6532,7 @@
     "url": "https://www.kimizion.org/",
     "name": "כי מציון - הרב אבינר",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6788,7 +6540,7 @@
     "url": "https://wise.com/",
     "name": "Wise Bank",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6796,15 +6548,7 @@
     "url": "https://vagshal-mp.com/",
     "name": "וגשל הפקות",
     "category": 11,
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "id": 989,
-    "url": "https://www.magav.net/",
-    "name": "Magav.net - מגב.נט",
-    "category": 6,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6812,7 +6556,7 @@
     "url": "https://webchaver.org/",
     "name": "WebChaver",
     "category": 5,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6820,15 +6564,15 @@
     "url": "https://www.y-priel.com/",
     "name": "פריאל הכיף שבתוכן",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 992,
     "url": "https://sid-center.co.il/",
     "name": "SID - מרכז מידע לחדשנות בבנייה",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6836,7 +6580,7 @@
     "url": "https://www.analyst.co.il/",
     "name": "אנליסט בית השקעות",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6844,7 +6588,7 @@
     "url": "https://frozenpastries.com/",
     "name": "שיווק מאפים קפואים",
     "category": 16,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6852,23 +6596,23 @@
     "url": "https://bloy.co.il/",
     "name": "בלוי ספרים",
     "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 996,
     "url": "https://www.israelbar.biz/",
     "name": "לשכת עורכי הדין בישראל",
-    "category": 6,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 997,
     "url": "https://tzilzul.co.il/",
     "name": "הצלצול - סלולר",
-    "category": 4,
-    "level": 0,
+    "category": 15,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6876,7 +6620,7 @@
     "url": "https://borkard.com/",
     "name": "Borkard - ברוקרד",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6884,7 +6628,7 @@
     "url": "https://nziv.net/",
     "name": "נציב.נט - מודיעין מהמקורות הגלויים",
     "category": 0,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6908,7 +6652,7 @@
     "url": "https://www.lironjewelry.co.il/",
     "name": "לירון תכשיטים",
     "category": 17,
-    "level": 1,
+    "level": 2,
     "gender": 2
   },
   {
@@ -6924,7 +6668,7 @@
     "url": "https://achiyayeda.org/",
     "name": "אחיה ידע - כלים ותוכן לימודי",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6932,12 +6676,12 @@
     "url": "https://bobot-israel.com/",
     "name": "בובוט - ישראל - BOBOT",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 1006,
-    "url": "https://nhlocal.github.io/shir-bot/",
+    "url": "https://shir-bot.ze-kal.top/",
     "name": "שיר בוט",
     "category": 7,
     "level": 1,
@@ -6948,7 +6692,7 @@
     "url": "https://babajig.co.il/",
     "name": "בבאג'יג - חנות דיג",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6963,8 +6707,8 @@
     "id": 1009,
     "url": "https://madrichim.ovh/",
     "name": "פורום מדריכים",
-    "category": 5,
-    "level": 0,
+    "category": 22,
+    "level": 2,
     "gender": 0
   },
   {
@@ -6972,15 +6716,7 @@
     "url": "https://www.liveraiser.co.il/",
     "name": "לייברייזר גיוס המונים | LiveRaiser",
     "category": 13,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 1011,
-    "url": "https://nkhashmal.com/",
-    "name": "NK חשמל וסלולר",
-    "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -6988,23 +6724,23 @@
     "url": "https://www.postalfinance.co.il/",
     "name": "דואר פיננסים",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 1013,
     "url": "https://textratz.co.il/",
     "name": "טקסט רץ - הוצאה לאור",
-    "category": 4,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 1014,
     "url": "https://baatzatcha.co.il/",
     "name": "בעצתך תנחני - סדרת ספרים",
-    "category": 1,
-    "level": 0,
+    "category": 4,
+    "level": 1,
     "gender": 0
   },
   {
@@ -7012,7 +6748,7 @@
     "url": "https://shabbesmakeup.com/",
     "name": "Shabbes Makeup - איפור שבת",
     "category": 17,
-    "level": 1,
+    "level": 2,
     "gender": 2
   },
   {
@@ -7028,7 +6764,7 @@
     "url": "https://www.atrakzya.co.il/",
     "name": "אטרקציה - מהיבואן לצרכן",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7036,7 +6772,7 @@
     "url": "https://www.dukasit.co.il/",
     "name": "דוכסית – בלוגרית אופנה דתייה",
     "category": 17,
-    "level": 1,
+    "level": 2,
     "gender": 2
   },
   {
@@ -7044,15 +6780,15 @@
     "url": "https://maya.tase.co.il/",
     "name": "מאיה - אתר הבורסה",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 1020,
     "url": "https://www.top-boilers.co.il/",
     "name": "טופ דודים - דודי שמש וחשמל",
-    "category": 4,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7060,7 +6796,7 @@
     "url": "https://cyclestrading.com/",
     "name": "פוקוס טריידר",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7092,14 +6828,14 @@
     "url": "https://male-halal.co.il/",
     "name": "למלא את החלל",
     "category": 13,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 1026,
     "url": "https://super-hist.co.il/",
     "name": "הסופר החברתי מבית ההסתדרות",
-    "category": 4,
+    "category": 16,
     "level": 0,
     "gender": 0
   },
@@ -7108,23 +6844,23 @@
     "url": "https://www.rachelikerenwigs.co.il/",
     "name": "רחלי קרן פאות",
     "category": 17,
-    "level": 1,
+    "level": 2,
     "gender": 2
   },
   {
     "id": 1028,
     "url": "https://derechhabayit.com/",
     "name": "דרך הבית",
-    "category": 13,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 1029,
     "url": "https://www.greendays.app/",
     "name": "GreenDays.co.il - גג סולארי",
-    "category": 4,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
@@ -7139,8 +6875,8 @@
     "id": 1031,
     "url": "https://www.jobnet.co.il/",
     "name": "דרושים - Jobnet",
-    "category": 8,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7156,7 +6892,7 @@
     "url": "https://sellameir.com/",
     "name": "סלע מאיר - הוצאת ספרים",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7164,30 +6900,22 @@
     "url": "https://www.inter-il.com/",
     "name": "אינטרקטיב ישראל - Interactive Israel",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 1035,
     "url": "https://shlish.co.il/",
     "name": "שליש גן עדן",
-    "category": 13,
-    "level": 0,
+    "category": 20,
+    "level": 3,
     "gender": 0
   },
   {
     "id": 1036,
     "url": "https://www.niby.org.il/",
     "name": "ישיבת נתיבות ישראל",
-    "category": 1,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 1037,
-    "url": "https://webhook.site/",
-    "name": "Webhook.site",
-    "category": 6,
+    "category": 21,
     "level": 0,
     "gender": 0
   },
@@ -7196,7 +6924,7 @@
     "url": "https://balcar.co.il/",
     "name": "דוח בלקר",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -7204,7 +6932,7 @@
     "url": "https://xn--5dbq7be.xn--4dbrk0ce/",
     "name": "לג בעומר - רשבי",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -7212,30 +6940,30 @@
     "url": "https://uliwood.co.il/",
     "name": "אוליווד רהיטים",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 1041,
     "url": "https://www.hagihon.co.il/",
     "name": "חברת הגיחון",
-    "category": 12,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 1042,
     "url": "https://noachmts.co.il/",
     "name": "Noach אבטחה רפואית\r",
-    "category": 9,
-    "level": 1,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 1043,
     "url": "https://www.naharshalom.co.il/",
     "name": "ישיבת נהר שלום",
-    "category": 1,
+    "category": 21,
     "level": 0,
     "gender": 0
   },
@@ -7244,7 +6972,7 @@
     "url": "https://www.yidbid.com/",
     "name": "Yidbid - מכירות פומביות של ספרים",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7276,15 +7004,15 @@
     "url": "https://eliadlevy.co.il/",
     "name": "אליעד לוי - קוסמטיקה לגבר",
     "category": 9,
-    "level": 1,
+    "level": 2,
     "gender": 1
   },
   {
     "id": 1049,
-    "url": "https://www.dormi.co.il/users/",
+    "url": "https://www.dormi.co.il/",
     "name": "דורמי - ניהול אחזקה חכם",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7292,22 +7020,22 @@
     "url": "https://boneiolam.co.il/",
     "name": "בוני עולם",
     "category": 13,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 1051,
     "url": "https://shiduchin.friends-social.com/",
     "name": "שידוכים לשם שמים",
-    "category": 13,
-    "level": 0,
+    "category": 20,
+    "level": 3,
     "gender": 0
   },
   {
     "id": 1052,
     "url": "https://evenshtia.com/",
     "name": "ספרי ברסלב אבן שתיה",
-    "category": 1,
+    "category": 4,
     "level": 0,
     "gender": 0
   },
@@ -7324,15 +7052,15 @@
     "url": "https://www.ebath.co.il/",
     "name": "eBath - אביזרי אמבטיה",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 1055,
     "url": "https://www.hakotel.org.il/",
     "name": "ישיבת הכותל",
-    "category": 1,
-    "level": 0,
+    "category": 21,
+    "level": 1,
     "gender": 0
   },
   {
@@ -7364,7 +7092,7 @@
     "url": "https://www.guidestar.org.il/",
     "name": "גיידסטאר - העמותות של ישראל",
     "category": 13,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7372,7 +7100,7 @@
     "url": "https://imti.org.il/",
     "name": "אם תרצו",
     "category": 13,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7380,7 +7108,7 @@
     "url": "https://www.swiftness.co.il/",
     "name": "המסלקה הפנסיונית",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7403,8 +7131,8 @@
     "id": 1064,
     "url": "https://my-area.co.il/",
     "name": "איזור אישי",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7412,7 +7140,7 @@
     "url": "https://lladaat.co.il/",
     "name": "לב לדעת - בית הספר לחסידות",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -7420,7 +7148,7 @@
     "url": "https://paletton.com/",
     "name": "Paletton - פלטת צבעים",
     "category": 5,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7428,7 +7156,7 @@
     "url": "https://colorhunt.co/",
     "name": "Color Hunt - פלטת צבעים",
     "category": 5,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7436,7 +7164,7 @@
     "url": "https://www.tripletech.co.il/",
     "name": "TripleTech - טריפלטק",
     "category": 5,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7444,7 +7172,7 @@
     "url": "https://www.ecomtrainingcenter.com/",
     "name": "Ecom Training Center",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7452,31 +7180,31 @@
     "url": "https://www.matnasim.org.il/",
     "name": "החברה למתנסים",
     "category": 11,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 1071,
     "url": "https://www.kivun.org.il/",
     "name": "מרכז כיוון",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 1072,
     "url": "https://www.daat.ac.il/",
     "name": "דעת לימודי יהדות ורוח",
-    "category": 1,
-    "level": 0,
+    "category": 2,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 1073,
     "url": "https://forum.mizrach.co.il/",
     "name": "פורום כותל המזרח",
-    "category": 1,
-    "level": 0,
+    "category": 22,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7484,15 +7212,15 @@
     "url": "https://www.limudnaim.co.il/",
     "name": "לימוד נעים | מורים פרטיים",
     "category": 2,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
     "id": 1075,
     "url": "https://www.kamel-d.co.il/",
     "name": "כאמל דואהרי ובניו | חקלאות",
-    "category": 4,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7500,7 +7228,7 @@
     "url": "https://igrot.com/",
     "name": "אגרות קודש",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -7508,7 +7236,7 @@
     "url": "https://yedion.ono.ac.il/",
     "name": "אונו תחנת מידע",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7516,7 +7244,7 @@
     "url": "https://blog.nli.org.il/",
     "name": "הספרנים - מגזין הספריה הלאומית",
     "category": 11,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
@@ -7536,14 +7264,6 @@
     "gender": 0
   },
   {
-    "id": 1081,
-    "url": "https://www.tinokat.co.il/",
-    "name": "\rתינוקט - מוצרי תינוקות וילדים",
-    "category": 4,
-    "level": 0,
-    "gender": 0
-  },
-  {
     "id": 1082,
     "url": "https://minhagane.com/",
     "name": "מן חקנא - תיקון קוראים תימני",
@@ -7553,18 +7273,18 @@
   },
   {
     "id": 1083,
-    "url": "https://mamimush.co.il",
+    "url": "https://mamimush.co.il/",
     "name": "מאמימוש - זכויות היולדת החרדית",
     "category": 18,
-    "level": 0,
-    "gender": 0
+    "level": 1,
+    "gender": 2
   },
   {
     "id": 1084,
     "url": "https://nettochisachon.com/",
     "name": "נטו חיסכון",
     "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -7572,7 +7292,7 @@
     "url": "https://www.cochlear.com/",
     "name": "Cochlear - מכשירי שמיעה",
     "category": 9,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7580,7 +7300,7 @@
     "url": "https://www.ramonstars.com/",
     "name": "Ramon Stars – כוכבי רמון",
     "category": 11,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7588,31 +7308,31 @@
     "url": "https://mokedteva.co.il/",
     "name": "מוקד טבע",
     "category": 11,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 1088,
     "url": "https://www.noga-iso.co.il/",
     "name": "נגה - ניהול מערכת חשמל",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 1089,
     "url": "https://www.cvwizard.com/",
     "name": "CVwizard - קורות חיים",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 1090,
     "url": "https://ravarmonishop.com/",
     "name": "אוצר הקבלה",
-    "category": 1,
-    "level": 0,
+    "category": 4,
+    "level": 1,
     "gender": 0
   },
   {
@@ -7620,15 +7340,7 @@
     "url": "https://ahavaktana.co.il/",
     "name": "אהבה קטנה",
     "category": 4,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 1092,
-    "url": "https://www.zirat.news/",
-    "name": "זירת החדשות",
-    "category": 0,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7636,23 +7348,23 @@
     "url": "https://www.maxtravel.co.il/",
     "name": "MAX Travel",
     "category": 11,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
     "id": 1094,
     "url": "https://ohha.co.il/",
     "name": "אוהה - OHHA",
-    "category": 4,
-    "level": 0,
+    "category": 17,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 1095,
     "url": "https://www.orvishua.com/",
     "name": "אור וישועה - חנות ספרי קודש",
-    "category": 1,
-    "level": 0,
+    "category": 4,
+    "level": 1,
     "gender": 0
   },
   {
@@ -7660,7 +7372,7 @@
     "url": "https://melody-trails.com/",
     "name": "טיולים בצלילים",
     "category": 3,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7668,7 +7380,7 @@
     "url": "https://www.nahag.co.il/",
     "name": "נהג בקליק",
     "category": 14,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7676,7 +7388,7 @@
     "url": "https://kosher.global/",
     "name": "GOK - ארגון כשרות",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -7685,7 +7397,7 @@
     "name": "מכללה ירושלים\r",
     "category": 2,
     "level": 1,
-    "gender": 0
+    "gender": 2
   },
   {
     "id": 1100,
@@ -7700,8 +7412,8 @@
     "url": "https://www.saharshitrit.co.il/",
     "name": "סהר שטרית | מטפחות מעוצבות",
     "category": 17,
-    "level": 1,
-    "gender": 0
+    "level": 2,
+    "gender": 2
   },
   {
     "id": 1102,
@@ -7709,14 +7421,6 @@
     "name": "שערי צדק - המרכז הרפואי",
     "category": 9,
     "level": 1,
-    "gender": 0
-  },
-  {
-    "id": 1103,
-    "url": "https://elevenlabs.io/",
-    "name": "ElevenLabs - בינה מלאכותית",
-    "category": 5,
-    "level": 0,
     "gender": 0
   },
   {
@@ -7732,14 +7436,6 @@
     "url": "https://safewayil.ovh/",
     "name": "SafeWay – מקלט קרוב",
     "category": 5,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 1106,
-    "url": "https://shir-bot.ze-kal.top/",
-    "name": "שיר-בוט | מאגר מוזיקה יהודית",
-    "category": 7,
     "level": 1,
     "gender": 0
   },
@@ -7748,7 +7444,7 @@
     "url": "https://www.hemophilia.org.il/shift-schedule/",
     "name": "עמותת על״ה - המופיליה",
     "category": 13,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7756,7 +7452,7 @@
     "url": "https://www.danieldamari.co.il/",
     "name": "דניאל דמארי - מסחר בשוק ההון",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7764,7 +7460,7 @@
     "url": "https://www.microsoft.com/",
     "name": "Microsoft - מיקרוסופט",
     "category": 5,
-    "level": 0,
+    "level": 3,
     "gender": 0
   },
   {
@@ -7780,7 +7476,7 @@
     "url": "https://www.dynamometer.co.il/",
     "name": "דינמומטר - מכון בדיקה לרכב",
     "category": 14,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7788,7 +7484,7 @@
     "url": "https://www.or-create.co.il/",
     "name": "יוצרות אור",
     "category": 18,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7796,23 +7492,15 @@
     "url": "https://mr-m.co.il/",
     "name": "רובי מיכאל\r - מתכונים",
     "category": 16,
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "id": 1114,
-    "url": "https://hatanya.com/",
-    "name": "התניא של הרבי",
-    "category": 1,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 1115,
     "url": "https://smart-ivr.co.il/",
     "name": "Smart IVR",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7827,8 +7515,8 @@
     "id": 1117,
     "url": "https://www.kidoushin.com/",
     "name": "קידושין - שידוכים",
-    "category": 13,
-    "level": 0,
+    "category": 20,
+    "level": 1,
     "gender": 0
   },
   {
@@ -7836,7 +7524,7 @@
     "url": "https://xphone.co.il/",
     "name": "XPhone - אקספון",
     "category": 15,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7844,15 +7532,15 @@
     "url": "https://tomerariel.co.il/",
     "name": "תומר אריאל - תורת החשמל",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 1120,
     "url": "https://5dakot.net/",
     "name": "מוצרי איכות לנשמה - 5 דקות",
-    "category": 1,
-    "level": 0,
+    "category": 4,
+    "level": 1,
     "gender": 0
   },
   {
@@ -7860,15 +7548,15 @@
     "url": "https://www.teamviewer.com/",
     "name": "TeamViewer",
     "category": 5,
-    "level": 0,
+    "level": 3,
     "gender": 0
   },
   {
     "id": 1122,
     "url": "https://app.bllink.co/",
     "name": "בלינק - תשלומי ועד בית",
-    "category": 12,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
@@ -7884,7 +7572,7 @@
     "url": "https://hemdat.plus/",
     "name": "המכללה האקדמית חמדת",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7892,7 +7580,7 @@
     "url": "https://yeda-phone.co.il/",
     "name": "ידע פון",
     "category": 15,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -7900,7 +7588,7 @@
     "url": "https://www.bankmassad.co.il/",
     "name": "בנק מסד",
     "category": 8,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -7908,7 +7596,7 @@
     "url": "https://michalwolshtain.co.il/",
     "name": "מיכל וולשטיין",
     "category": 18,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7916,7 +7604,7 @@
     "url": "https://thechesedfund.com/",
     "name": "The Chesed Fund",
     "category": 13,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -7932,7 +7620,7 @@
     "url": "https://www.akolbopro.co.il/",
     "name": "הכלבו לתעשייה",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7940,7 +7628,7 @@
     "url": "https://www.focus-academy.co.il/",
     "name": "פוקוס - מרכז ידע למשכנתאות\r",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7948,7 +7636,7 @@
     "url": "https://www.shazartech.co.il/",
     "name": "שזר - כלי עבודה וציוד",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7956,7 +7644,7 @@
     "url": "https://mendin.co.il/",
     "name": "Mendin - מנדרין מתנות",
     "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -7964,7 +7652,7 @@
     "url": "https://www.kravitz.co.il/",
     "name": "קרביץ",
     "category": 4,
-    "level": 0,
+    "level": 3,
     "gender": 0
   },
   {
@@ -7972,15 +7660,15 @@
     "url": "https://nikib.co.il/",
     "name": "ניקי ב - מתכונים",
     "category": 16,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 1136,
     "url": "https://clicktack.com/",
     "name": "ClickTack - קליקטאק",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -7988,14 +7676,14 @@
     "url": "https://thebaker.science/",
     "name": "האופה",
     "category": 16,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 1138,
     "url": "https://www.lamdanbooks.co.il/",
     "name": "למדן - בית הספרים",
-    "category": 1,
+    "category": 4,
     "level": 0,
     "gender": 0
   },
@@ -8004,7 +7692,7 @@
     "url": "https://achlatot-tovot.com/",
     "name": "החלטות טובות - בית חב\"ד",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -8012,7 +7700,7 @@
     "url": "https://www.komo.co.il/",
     "name": "לוח קומו - נדל\"ן",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -8020,7 +7708,7 @@
     "url": "https://tashma.co.il/",
     "name": "תא שמע",
     "category": 1,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -8028,7 +7716,7 @@
     "url": "https://www.ethiopianairlines.com/",
     "name": "Ethiopian Airlines",
     "category": 14,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -8044,7 +7732,7 @@
     "url": "https://psagot-moodle.org/",
     "name": "מכללת פסגות | Psagot LMS",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -8052,7 +7740,7 @@
     "url": "https://artscrollisrael.co.il/",
     "name": "ארטסקרול ישראל",
     "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -8060,7 +7748,7 @@
     "url": "https://kehilotcard.co.il/",
     "name": "קהילות קארד",
     "category": 8,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -8068,7 +7756,7 @@
     "url": "https://www.israel-judaica.com/",
     "name": "ארט יודאיקה",
     "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -8076,15 +7764,15 @@
     "url": "https://kidum-me.com/",
     "name": "קידום | Kidum",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 1149,
     "url": "https://indesign.tips/",
     "name": "אינדיזיין | InDesign.tips",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -8092,14 +7780,14 @@
     "url": "https://m.teoria4u.co.il/",
     "name": "תיאוריה 4U",
     "category": 2,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 1151,
     "url": "https://harhamor.co.il/",
     "name": "ישיבת הר המור",
-    "category": 1,
+    "category": 21,
     "level": 0,
     "gender": 0
   },
@@ -8116,7 +7804,7 @@
     "url": "https://www.jacobi.co.il/",
     "name": "יעקבי",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -8124,7 +7812,7 @@
     "url": "https://www.cbtisrael.co.il/",
     "name": "מכון CBT ישראל",
     "category": 9,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
@@ -8132,7 +7820,7 @@
     "url": "https://www.bookplus.co.il/",
     "name": "ספר פלוס",
     "category": 4,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -8148,7 +7836,7 @@
     "url": "https://www.mini.co.il/",
     "name": "MINI - רכב",
     "category": 14,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -8157,30 +7845,22 @@
     "name": "קולנטה - גרביונים",
     "category": 17,
     "level": 1,
-    "gender": 0
-  },
-  {
-    "id": 1159,
-    "url": "https://shiduchin.friends-social.com/",
-    "name": "פורטל שידוכין לשם שמיים",
-    "category": 13,
-    "level": 0,
-    "gender": 0
+    "gender": 2
   },
   {
     "id": 1160,
     "url": "https://www.oorep.com/",
     "name": "OOREP | רפואה הומאופטית",
     "category": 9,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
     "id": 1161,
     "url": "https://clickcall.co.il/",
     "name": "קליקול תקשורת",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 2,
     "gender": 0
   },
   {
@@ -8195,8 +7875,8 @@
     "id": 1163,
     "url": "https://jtechforums.org/",
     "name": "JTech Forums - פורום טכנולוגיה",
-    "category": 5,
-    "level": 0,
+    "category": 22,
+    "level": 2,
     "gender": 0
   },
   {
@@ -8204,7 +7884,7 @@
     "url": "https://www.mercedes-benz.co.il/",
     "name": "Mercedes-Benz - מרצדס",
     "category": 14,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -8212,7 +7892,7 @@
     "url": "https://www.lionwheel.com/",
     "name": "LionWheel - ניהול משלוחים",
     "category": 5,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -8220,7 +7900,7 @@
     "url": "https://il.usembassy.gov/",
     "name": "שגרירות ארצות הברית",
     "category": 6,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -8228,7 +7908,7 @@
     "url": "https://alonim.co.il/",
     "name": "אלונים",
     "category": 8,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
@@ -8236,15 +7916,15 @@
     "url": "https://www.coffeeman.co.il/",
     "name": "אמיגו קפה",
     "category": 16,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 1169,
     "url": "http://meser.biz/",
     "name": "מסר פתרונות תקשורת",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
@@ -8252,7 +7932,7 @@
     "url": "https://aish.com/",
     "name": "Aish.com",
     "category": 1,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -8260,7 +7940,7 @@
     "url": "https://perelproductions.co.il/",
     "name": "לאחוז בחול - לצפייה",
     "category": 10,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -8268,7 +7948,7 @@
     "url": "https://sherut-leumi.co.il/",
     "name": "שירות לאומי - האגודה להתנדבות ",
     "category": 13,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -8276,7 +7956,7 @@
     "url": "https://il.investing.com/",
     "name": "Investing.com",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -8284,7 +7964,7 @@
     "url": "https://www.livinglchaim.com/",
     "name": " Living Lchaim",
     "category": 7,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -8300,7 +7980,7 @@
     "url": "https://rudik.co.il/",
     "name": "רודיק - ספרים ומכשירי כתיבה",
     "category": 4,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
@@ -8308,7 +7988,7 @@
     "url": "https://plus.meaningfulminute.org/",
     "name": "Meaningful Minute",
     "category": 10,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
@@ -8316,15 +7996,15 @@
     "url": "https://www.mitsubishidirectparts.com/",
     "name": "\rMitsubishi Direct Parts",
     "category": 14,
-    "level": 0,
+    "level": 1,
     "gender": 0
   },
   {
     "id": 1179,
     "url": "https://www.shlager.com/",
     "name": "שלאגר - לוקרים חכמים",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
@@ -8332,23 +8012,23 @@
     "url": "https://glorykids.co.il/",
     "name": "גלורי - בגדי ילדים",
     "category": 17,
-    "level": 1,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 1181,
     "url": "https://mercazharav.org.il/",
     "name": "ישיבת מרכז הרב",
-    "category": 1,
+    "category": 21,
     "level": 0,
     "gender": 0
   },
   {
     "id": 1182,
-    "url": "https://myarea.csb.co.il/login/?timeout=true",
+    "url": "https://csb.co.il/",
     "name": "C.S.B - שירות סי.אס.בי\r",
-    "category": 5,
-    "level": 0,
+    "category": 19,
+    "level": 1,
     "gender": 0
   },
   {
@@ -8356,15 +8036,15 @@
     "url": "https://shaharwolf.com/",
     "name": "שחר וולף - כלכלה",
     "category": 8,
-    "level": 0,
+    "level": 2,
     "gender": 0
   },
   {
     "id": 1184,
     "url": "https://www.madlan.co.il/",
     "name": "מדלן - לוח נדלן",
-    "category": 4,
-    "level": 0,
+    "category": 8,
+    "level": 2,
     "gender": 0
   }
 ]
