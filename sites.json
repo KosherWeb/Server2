@@ -7485,7 +7485,7 @@
     "name": "יוצרות אור",
     "category": 18,
     "level": 2,
-    "gender": 0
+    "gender": 2
   },
   {
     "id": 1113,
@@ -7597,7 +7597,7 @@
     "name": "מיכל וולשטיין",
     "category": 18,
     "level": 2,
-    "gender": 0
+    "gender": 2
   },
   {
     "id": 1128,
@@ -8045,6 +8045,22 @@
     "name": "מדלן - לוח נדלן",
     "category": 8,
     "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1185,
+    "url": "https://www.weizmann.ac.il/",
+    "name": "מכון ויצמן למדע",
+    "category": 2,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1186,
+    "url": "https://simchonim.co.il/",
+    "name": "שמחונים - מזכרות לאירוע",
+    "category": 4,
+    "level": 1,
     "gender": 0
   }
 ]
