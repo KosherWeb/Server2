@@ -1,7 +1,22 @@
 [
-    {
-        "value": "https://www.google.com/search",
-        "level": 0,
-        "gender": 0
-    }
+  {
+    "value": "https://www.google.com/search",
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "value": "https://www.inn.co.il/forum/",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "https://www.mdais.org/news/",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "https://support.google.com/chrome/thread/",
+    "level": 2,
+    "gender": 0
+  }
 ]
