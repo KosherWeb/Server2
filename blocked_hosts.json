@@ -1,12 +1,22 @@
 [
-    {
-        "value": "market.yad2.co.il",
-        "level": 0,
-        "gender": 0
-    },
-    {
-        "value": "blog.252project.co.il",
-        "level": 0,
-        "gender": 0
-    }
+  {
+    "value": "market.yad2.co.il",
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "value": "blog.252project.co.il",
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "value": "benefits.isracard.co.il",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "law.haifa.ac.il",
+    "level": 3,
+    "gender": 0
+  }
 ]
