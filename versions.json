@@ -2,7 +2,7 @@
   "files": [
     {
       "name": "sites.json",
-      "version": 26,
+      "version": 27,
       "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/sites.json"
     },
     {
@@ -17,17 +17,17 @@
     },
     {
       "name": "blocked_hosts.json",
-      "version": 1,
+      "version": 2,
       "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/blocked_hosts.json"
     },
     {
       "name": "blocked_prefix.json",
-      "version": 1,
+      "version": 2,
       "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/blocked_prefix.json"
     },
     {
       "name": "blocked_resources.json",
-      "version": 1,
+      "version": 2,
       "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/blocked_resources.json"
     },
     {
