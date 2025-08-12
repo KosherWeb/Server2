@@ -116,7 +116,7 @@
     "url": "https://www.shufersal.co.il/",
     "name": "שופרסל אונליין",
     "category": 16,
-    "level": 1,
+    "level": 3,
     "gender": 0
   },
   {
@@ -476,7 +476,7 @@
     "url": "https://campus.gov.il/",
     "name": "קמפוס IL",
     "category": 2,
-    "level": 2,
+    "level": 3,
     "gender": 0
   },
   {
@@ -1236,7 +1236,7 @@
     "url": "https://www.idf.il/",
     "name": "אתר צהל",
     "category": 6,
-    "level": 2,
+    "level": 3,
     "gender": 0
   },
   {
@@ -2845,7 +2845,7 @@
     "name": "מדי לינק",
     "category": 9,
     "level": 2,
-    "gender": 0
+    "gender": 2
   },
   {
     "id": 500,
@@ -3013,14 +3013,6 @@
     "name": "בית ועד לחכמים",
     "category": 1,
     "level": 1,
-    "gender": 0
-  },
-  {
-    "id": 521,
-    "url": "https://wordwall.net/he",
-    "name": "Wordwall - צור חומרי למידה",
-    "category": 2,
-    "level": 2,
     "gender": 0
   },
   {
@@ -3204,7 +3196,7 @@
     "url": "https://www.haifa.ac.il/",
     "name": "אוניברסיטת חיפה",
     "category": 2,
-    "level": 2,
+    "level": 3,
     "gender": 0
   },
   {
@@ -3276,7 +3268,7 @@
     "url": "https://www.cet.ac.il/",
     "name": "מטח - המרכז לטכנולוגיה חינוכית",
     "category": 2,
-    "level": 2,
+    "level": 3,
     "gender": 0
   },
   {
@@ -3964,7 +3956,7 @@
     "url": "https://www.openu.ac.il/",
     "name": "האוניברסיטה הפתוחה",
     "category": 2,
-    "level": 2,
+    "level": 3,
     "gender": 0
   },
   {
@@ -4116,7 +4108,7 @@
     "url": "https://www.kolzchut.org.il/",
     "name": "כל זכות",
     "category": 22,
-    "level": 2,
+    "level": 3,
     "gender": 0
   },
   {
@@ -4860,7 +4852,7 @@
     "url": "https://www.2become1.co.il/",
     "name": "שניים שהם אחד - הכרויות",
     "category": 20,
-    "level": 2,
+    "level": 3,
     "gender": 0
   },
   {
@@ -5708,7 +5700,7 @@
     "url": "https://macam.ac.il/",
     "name": "מכון מופת",
     "category": 2,
-    "level": 2,
+    "level": 3,
     "gender": 0
   },
   {
