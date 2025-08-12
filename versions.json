@@ -2,42 +2,42 @@
   "files": [
     {
       "name": "sites.json",
-      "version": 27,
+      "version": 1,
       "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/sites.json"
     },
     {
       "name": "kosher_hosts.json",
-      "version": 21,
+      "version": 1,
       "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/kosher_hosts.json"
     },
     {
       "name": "kosher_prefix.json",
-      "version": 6,
+      "version": 1,
       "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/kosher_prefix.json"
     },
     {
       "name": "blocked_hosts.json",
-      "version": 2,
+      "version": 1,
       "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/blocked_hosts.json"
     },
     {
       "name": "blocked_prefix.json",
-      "version": 2,
+      "version": 1,
       "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/blocked_prefix.json"
     },
     {
       "name": "blocked_resources.json",
-      "version": 2,
+      "version": 1,
       "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/blocked_resources.json"
     },
     {
       "name": "requests_responses.json",
-      "version": 21,
+      "version": 1,
       "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/requests/requests_responses.json"
     },
     {
       "name": "categories.json",
-      "version": 3,
+      "version": 1,
       "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/categories.json"
     },
     {
@@ -47,9 +47,9 @@
     }
   ],
   "versions": {
-    "app-version": 33,
+    "app-version": 40,
     "supported-app-version": 32,
-    "request-form-version": 38,
+    "request-form-version": 40,
     "premium": 2
   }
 }
