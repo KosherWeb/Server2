@@ -6236,7 +6236,7 @@
     "url": "https://www.shlomo-aviner.net/",
     "name": "הרב אבינרפדיה",
     "category": 1,
-    "level": 1,
+    "level": 0,
     "gender": 0
   },
   {
@@ -8052,6 +8052,126 @@
     "url": "https://simchonim.co.il/",
     "name": "שמחונים - מזכרות לאירוע",
     "category": 4,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1187,
+    "url": "https://mermel-nursery.co.il/",
+    "name": "משתלת מרמלשטיין",
+    "category": 19,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1188,
+    "url": "https://www.yutorah.org",
+    "name": "YU Torah",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1189,
+    "url": "https://merkaz-meorot.org.il/",
+    "name": "מרכז מאורות",
+    "category": 11,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1190,
+    "url": "https://www.mitgaisim.idf.il/",
+    "name": "מתגייסים",
+    "category": 6,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1191,
+    "url": "https://dinonline.org",
+    "name": "Din Online",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1192,
+    "url": "https://hl5047.co.il/",
+    "name": "הלכה למעשה | בית הוראה",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1193,
+    "url": "https://galeinai.org.il/",
+    "name": "מכון גל עיני ",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1194,
+    "url": "https://mobile.srugim.co.il/",
+    "name": "סרוגים",
+    "category": 0,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1195,
+    "url": "https://www.torah-idf.org.il/",
+    "name": "תורת לחימה",
+    "category": 13,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1196,
+    "url": "https://academy.tatmoda.co.il/",
+    "name": "כח התודעה",
+    "category": 2,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1197,
+    "url": "https://shchiche.com/",
+    "name": "שכיחא - שאלות המצויות בהלכה",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1198,
+    "url": "https://skoolu.co.il/",
+    "name": "SKOOLU - סקולו",
+    "category": 2,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1199,
+    "url": "https://iyn.org.il/",
+    "name": "אם יהיה נדחך בקצה השמיים ",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1200,
+    "url": "https://www.avatrade.com/",
+    "name": "AvaTrade",
+    "category": 8,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1201,
+    "url": "https://chabadlive.org/",
+    "name": "חב\"ד לייב",
+    "category": 1,
     "level": 1,
     "gender": 0
   }
