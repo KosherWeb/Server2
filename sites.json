@@ -5820,7 +5820,7 @@
     "url": "https://binaplus.co.il/",
     "name": "בינה פלוס",
     "category": 5,
-    "level": 2,
+    "level": 1,
     "gender": 0
   },
   {
@@ -8129,7 +8129,7 @@
   },
   {
     "id": 1196,
-    "url": "https://academy.tatmoda.co.il/",
+    "url": "https://koach-hatodaa.co.il/",
     "name": "כח התודעה",
     "category": 2,
     "level": 1,
@@ -8173,6 +8173,86 @@
     "name": "חב\"ד לייב",
     "category": 1,
     "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1202,
+    "url": "https://feldheim.com/",
+    "name": "Feldheim - Jewish Books",
+    "category": 4,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1203,
+    "url": "https://menix.co.il/",
+    "name": "התדר - לימודי אימון אישי",
+    "category": 2,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1204,
+    "url": "https://dr-fischer.co.il/",
+    "name": "ד\"ר פישר ",
+    "category": 4,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1205,
+    "url": "https://merhaveyd.org/",
+    "name": "מרחבי דעת - הרב גיא אלאלוף",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1206,
+    "url": "https://nlg.co.il/",
+    "name": "נועה קידס & הום",
+    "category": 17,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1207,
+    "url": "https://app.torahb.co.il/",
+    "name": "תורה שבכתב",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1208,
+    "url": "https://www.chef-efrat-vashdi.co.il/",
+    "name": "אפרת ושדי - מתכונים",
+    "category": 16,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1209,
+    "url": "https://www.tzayad.com/",
+    "name": " צייד הטיסות",
+    "category": 14,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1210,
+    "url": "https://usmf.md/",
+    "name": "אוניברסיטת מולדובה",
+    "category": 2,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1211,
+    "url": "http://2halachot.org/",
+    "name": "שתי הלכות ביום",
+    "category": 1,
+    "level": 0,
     "gender": 0
   }
 ]
