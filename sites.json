@@ -8254,5 +8254,61 @@
     "category": 1,
     "level": 0,
     "gender": 0
+  },
+  {
+    "id": 1212,
+    "url": "https://daniel777achiel.wixsite.com/alonim-leshabat",
+    "name": "עלון טוב לחסות בה'",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1213,
+    "url": "https://www.talmudormeir.com/",
+    "name": "תלמוד אור מאיר",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1214,
+    "url": "https://www.xi-mobility.co.il/",
+    "name": "Xi Mobility ",
+    "category": 4,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1215,
+    "url": "https://www.tuya.com/",
+    "name": "Tuya Smart",
+    "category": 5,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1216,
+    "url": "https://shirshiur.co.il/",
+    "name": "שירשיעור - לומדים דרך מוזיקה",
+    "category": 2,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1217,
+    "url": "https://www.babystav.co.il/",
+    "name": "בייבי סתיו",
+    "category": 4,
+    "level": 3,
+    "gender": 2
+  },
+  {
+    "id": 1218,
+    "url": "https://adarim.co.il/",
+    "name": "עדרים אונליין",
+    "category": 16,
+    "level": 2,
+    "gender": 0
   }
 ]
