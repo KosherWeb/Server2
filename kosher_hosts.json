@@ -1738,5 +1738,50 @@
     "value": "valuecard.co.il",
     "level": 3,
     "gender": 0
+  },
+  {
+    "value": "eu.gointeract.io",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "track.wolt.com",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "users.sms2010.co.il",
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "value": "landing.hidabroot.org",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "safe-view-link.ravsend1.co.il",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "eretz-kir.com",
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "value": "privacy.mi.com",
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "value": "biumath.michlol4.co.il",
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "value": "market.tase.co.il",
+    "level": 2,
+    "gender": 0
   }
 ]
