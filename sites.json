@@ -8310,5 +8310,109 @@
     "category": 16,
     "level": 2,
     "gender": 0
+  },
+  {
+    "id": 1219,
+    "url": "https://avidror.co.il/",
+    "name": "אבי דרור - קורס נגינה",
+    "category": 19,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1220,
+    "url": "https://minchasasher.com/he/",
+    "name": "מנחת אשר",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1221,
+    "url": "https://toldot.com/",
+    "name": "תולדות - Toldot",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1222,
+    "url": "https://www.vitamins4u.co.il/",
+    "name": "Vitamins4u",
+    "category": 9,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1223,
+    "url": "https://bone-hauma.org.il/",
+    "name": "בונה האומה",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1224,
+    "url": "https://fasterchef.co.il/",
+    "name": "FasterChef ",
+    "category": 16,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1225,
+    "url": "https://www.shekem-electric.co.il/",
+    "name": "שקם אלקטריק",
+    "category": 4,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1226,
+    "url": "https://kibinimatika.org/",
+    "name": "קיבינמטיקה ",
+    "category": 2,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1227,
+    "url": "https://plus-m.co.il/",
+    "name": "פלוס מינוס - פישל רוזנפלד\r",
+    "category": 19,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1228,
+    "url": "https://hamashtela.co.il/",
+    "name": "המשתלה היפנית ",
+    "category": 19,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1229,
+    "url": "https://lomdim.info/",
+    "name": "למדם קלאס",
+    "category": 2,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1230,
+    "url": "https://www.bookaflight.co.il/",
+    "name": "Book A Flight",
+    "category": 14,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1231,
+    "url": "https://www.espressomor.co.il",
+    "name": "אספרסו מור",
+    "category": 4,
+    "level": 1,
+    "gender": 0
   }
 ]
