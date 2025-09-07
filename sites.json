@@ -6784,14 +6784,6 @@
     "gender": 0
   },
   {
-    "id": 1021,
-    "url": "https://cyclestrading.com/",
-    "name": "פוקוס טריידר",
-    "category": 8,
-    "level": 2,
-    "gender": 0
-  },
-  {
     "id": 1022,
     "url": "https://limudyomi.com/",
     "name": "לימוד יומי",
@@ -8414,5 +8406,101 @@
     "category": 4,
     "level": 1,
     "gender": 0
+  },
+  {
+    "id": 1232,
+    "url": "https://www.jewishencyclopedia.com/",
+    "name": "אנציקלופדיה יהודית - Jewish Encyclopedia ",
+    "category": 1,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1233,
+    "url": "https://mda101.org/",
+    "name": "מד״א ירושלים - ניהול ושיבוץ ",
+    "category": 13,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1234,
+    "url": "https://hartk850.github.io/pashut-sipor/",
+    "name": "פשוט סיפור",
+    "category": 5,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1235,
+    "url": "https://www.mishlohim.co.il/",
+    "name": "משלוחים Rest",
+    "category": 16,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1236,
+    "url": "https://goldt.co.il/",
+    "name": "גולד תקשורת",
+    "category": 15,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1237,
+    "url": "https://www.oogio.net/",
+    "name": "עוגיו.נט - נטלי לוין",
+    "category": 16,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1238,
+    "url": "https://www.home.idf.il/",
+    "name": "צ360",
+    "category": 6,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1239,
+    "url": "https://zviyehezkeli.com/",
+    "name": "צבי יחזקאלי",
+    "category": 4,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1240,
+    "url": "https://cyclestrading.com/",
+    "name": "סייקלס טריידינג",
+    "category": 8,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1241,
+    "url": "https://tiponet.org.il/",
+    "name": "טיפונט",
+    "category": 9,
+    "level": 2,
+    "gender": 2
+  },
+  {
+    "id": 1242,
+    "url": "https://baronhats.co.il",
+    "name": "ברון כובעים",
+    "category": 17,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1243,
+    "url": "https://rabanit-meital.co.il/",
+    "name": "הרבנית מיטל דאודי",
+    "category": 18,
+    "level": 1,
+    "gender": 2
   }
 ]
