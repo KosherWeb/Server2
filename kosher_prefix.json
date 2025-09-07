@@ -73,5 +73,10 @@
     "value": "https://lp10.co.il/minhastam/gift/",
     "level": 1,
     "gender": 0
+  },
+  {
+    "value": "https://s3.amazonaws.com/daf-yomi/",
+    "level": 1,
+    "gender": 0
   }
 ]
