@@ -2513,7 +2513,7 @@
   },
   {
     "id": 456,
-    "url": "https://Zuzu.prat.idf.il",
+    "url": "https://zuzu.prat.idf.il",
     "name": "זוזו - חיילים",
     "category": 14,
     "level": 0,
@@ -8502,5 +8502,53 @@
     "category": 18,
     "level": 1,
     "gender": 2
+  },
+  {
+    "id": 1244,
+    "url": "https://tamamltd.co.il/",
+    "name": "תמם - אירועים וכוח אדם",
+    "category": 19,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1245,
+    "url": "https://watchguru.co.il/",
+    "name": "WatchGuru - שעונים",
+    "category": 4,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1246,
+    "url": "https://xn--8dbblcjgau4e2a.co.il/",
+    "name": "תיקון הכללי",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1247,
+    "url": "https://zmanim.online/",
+    "name": "לוח שנה - עיתים לבינה",
+    "category": 19,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1248,
+    "url": "https://www.haravyosefkalner.com/",
+    "name": "הרב יוסף קלנר ",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1249,
+    "url": "https://tanach.netanelinson.co.il/joining/",
+    "name": "תנך ישראלי - נתנאל אלינסון ",
+    "category": 11,
+    "level": 2,
+    "gender": 0
   }
 ]
