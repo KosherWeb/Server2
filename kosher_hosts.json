@@ -595,7 +595,7 @@
     "gender": 0
   },
   {
-    "value": "direct.tranzila.com",
+    "value": "tranzila.com",
     "level": 0,
     "gender": 0
   },
@@ -1685,11 +1685,6 @@
     "gender": 0
   },
   {
-    "value": "run.hfd.co.il",
-    "level": 1,
-    "gender": 0
-  },
-  {
     "value": "www.leadmecms.co.il",
     "level": 1,
     "gender": 0
@@ -1822,6 +1817,26 @@
   {
     "value": "myinvite.co.il",
     "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "app.tiffulit.co.il",
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "value": "drachim.co",
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "tasim-larabby.co.il",
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "value": "smartbase.digital.idf.il",
+    "level": 0,
     "gender": 0
   }
 ]
