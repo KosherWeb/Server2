@@ -8550,5 +8550,85 @@
     "category": 11,
     "level": 2,
     "gender": 0
+  },
+  {
+    "id": 1250,
+    "url": "https://www.art-set.co.il/",
+    "name": "ארט-סט | ART-SET",
+    "category": 4,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1251,
+    "url": "https://schoolbase.co.il/",
+    "name": "סקולבייס - קורס טכנאות אולפן",
+    "category": 19,
+    "level": 1,
+    "gender": 2
+  },
+  {
+    "id": 1252,
+    "url": "https://nathan.co.il/",
+    "name": "נתן רפואה ,שיקום וסיעוד",
+    "category": 9,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1253,
+    "url": "https://levmeirisrael.com/",
+    "name": "לב מאיר ישראל- הרב מאיר אליהו",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1254,
+    "url": "https://tools.pdf24.org/",
+    "name": "PDF24 Tools",
+    "category": 5,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1255,
+    "url": "https://credit24.co.il/",
+    "name": "קרדיט 24",
+    "category": 8,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1256,
+    "url": "https://www.hugedomains.com/",
+    "name": "HugeDomains",
+    "category": 19,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1257,
+    "url": "https://dtz.sbms.io/",
+    "name": "דורש ציון",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1258,
+    "url": "https://www.bankofamerica.com/",
+    "name": "Bank of America",
+    "category": 8,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1259,
+    "url": "https://www.hfd.co.il/",
+    "name": "HFD - שליחויות ולוגיסטיקה",
+    "category": 19,
+    "level": 1,
+    "gender": 0
   }
 ]
