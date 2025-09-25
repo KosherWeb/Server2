@@ -8630,5 +8630,29 @@
     "category": 19,
     "level": 1,
     "gender": 0
+  },
+  {
+    "id": 1260,
+    "url": "https://www.alltech.co.il/",
+    "name": "אולטק",
+    "category": 4,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1261,
+    "url": "https://www.pelephone.co.il/",
+    "name": "פלאפון - תקשורת",
+    "category": 15,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1262,
+    "url": "https://burgeranch.co.il/",
+    "name": "בורגראנץ' הכי ישראלי",
+    "category": 16,
+    "level": 1,
+    "gender": 0
   }
 ]
