@@ -1838,5 +1838,30 @@
     "value": "smartbase.digital.idf.il",
     "level": 0,
     "gender": 0
+  },
+  {
+    "value": "miluim-helper.com",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "antiphishing.biz",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "www.a-z.org.il",
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "value": "book.flipbuilder.com",
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "value": "online.flipbuilder.com",
+    "level": 3,
+    "gender": 0
   }
 ]
