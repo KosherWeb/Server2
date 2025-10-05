@@ -8654,5 +8654,53 @@
     "category": 16,
     "level": 1,
     "gender": 0
+  },
+  {
+    "id": 1263,
+    "url": "https://oig.co.il/",
+    "name": "OIG - מוצרי חשמל בייתים",
+    "category": 4,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1264,
+    "url": "https://adiwatches.co.il/",
+    "name": "שעוני עדי",
+    "category": 4,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1265,
+    "url": "https://figkosher.com/",
+    "name": "FIG Phones",
+    "category": 15,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1266,
+    "url": "https://rambam-parashat-shavua.co.il/",
+    "name": "רמב\"ם והיהדות בפרשת השבוע\r",
+    "category": 1,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1267,
+    "url": "https://mida.org.il/",
+    "name": "מידה",
+    "category": 0,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1268,
+    "url": "https://www.vardinon.co.il/",
+    "name": "VARDINON - ורדינון",
+    "category": 4,
+    "level": 3,
+    "gender": 0
   }
 ]
