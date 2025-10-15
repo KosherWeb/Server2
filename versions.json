@@ -2,7 +2,7 @@
   "files": [
     {
       "name": "sites.json",
-      "version": 12,
+      "version": 13,
       "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/sites.json"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "name": "requests_responses.json",
-      "version": 10,
+      "version": 11,
       "url": "https://raw.githubusercontent.com/KosherWeb/Server2/refs/heads/main/requests/requests_responses.json"
     },
     {
