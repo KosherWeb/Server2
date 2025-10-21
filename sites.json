@@ -8742,5 +8742,85 @@
     "category": 8,
     "level": 3,
     "gender": 0
+  },
+  {
+    "id": 1275,
+    "url": "https://culinarycampus.co.il/",
+    "name": "הקמפוס הקולינרי",
+    "category": 19,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1276,
+    "url": "https://hodayatairi.com/",
+    "name": "הודיה טיירי",
+    "category": 19,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1277,
+    "url": "https://stripe.com/",
+    "name": "Stripe",
+    "category": 5,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1278,
+    "url": "https://heyblink.com/",
+    "name": "Blink - בלינק",
+    "category": 8,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1279,
+    "url": "https://www.5555.co.il/",
+    "name": "מימון ישיר",
+    "category": 8,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1280,
+    "url": "https://mostlymusic.com/",
+    "name": "Mostly Music",
+    "category": 7,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1281,
+    "url": "https://www.synthymusic.com/",
+    "name": "סינטי מיוזיק | synthy music",
+    "category": 19,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1282,
+    "url": "https://tora.irom.co.il/",
+    "name": "תורה שבכתב",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1283,
+    "url": "https://luach-mabat.co.il/",
+    "name": "לוח מבט",
+    "category": 19,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1284,
+    "url": "https://www.0583292929.co.il/",
+    "name": "סלולר בזול",
+    "category": 15,
+    "level": 1,
+    "gender": 0
   }
 ]
