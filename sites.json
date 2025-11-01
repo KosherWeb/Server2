@@ -8825,90 +8825,10 @@
   },
   {
     "id": 1285,
-    "url": "https://asktherav.com/",
-    "name": "AskTheRav",
-    "category": 1,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 1286,
-    "url": "https://hadarshapira.com/",
-    "name": "הדר שפירא - מתכונים",
-    "category": 16,
+    "url": "https://reuta.org/",
+    "name": "ישיבת רעותא",
+    "category": 21,
     "level": 1,
-    "gender": 0
-  },
-  {
-    "id": 1287,
-    "url": "https://machonsegal.co.il/",
-    "name": "מכון סגל",
-    "category": 19,
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "id": 1288,
-    "url": "https://koshercell.org/",
-    "name": "KosherCell",
-    "category": 15,
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "id": 1289,
-    "url": "https://otzerhachassidus.com/",
-    "name": "אוצר החסידות",
-    "category": 1,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 1290,
-    "url": "https://www.otzar.org.il/",
-    "name": "אוצר התורה",
-    "category": 1,
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "id": 1291,
-    "url": "https://yahalom10000.co.il/",
-    "name": "מרכז יהלום",
-    "category": 18,
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "id": 1292,
-    "url": "https://yummio.co.il/",
-    "name": "Yummio - מתכונים",
-    "category": 16,
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "id": 1293,
-    "url": "https://www.limd.co.il/",
-    "name": "לימודי דעת ",
-    "category": 1,
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "id": 1294,
-    "url": "https://got-it.co.il/",
-    "name": "You’ve Got It - יש לך את זה",
-    "category": 17,
-    "level": 2,
-    "gender": 2
-  },
-  {
-    "id": 1295,
-    "url": "https://www.hcsra.co.il/",
-    "name": "הכשרה ביטוח ופיננסים",
-    "category": 8,
-    "level": 2,
     "gender": 0
   }
 ]
