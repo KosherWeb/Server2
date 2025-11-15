@@ -30,8 +30,8 @@
     "gender": 0
   },
   {
-    "value": "https://mypips.link/ashukahevrati-einat/",
-    "level": 0,
+    "value": "https://mypips.app/ashukahevrati-einat/",
+    "level": 1,
     "gender": 0
   },
   {
@@ -102,6 +102,16 @@
   {
     "value": "https://www.shufersal.co.il/dishortcuturl/",
     "level": 1,
+    "gender": 0
+  },
+  {
+    "value": "https://letts.co.il/payment/",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "https://tabitisrael.co.il/online-reservations/",
+    "level": 2,
     "gender": 0
   }
 ]
