@@ -782,13 +782,19 @@
   {
     "value": "www.zap.co.il",
     "status": 9,
-    "level": 2,
+    "level": 0,
     "gender": 0
   },
   {
     "value": "www.agora.co.il",
     "status": 7,
-    "level": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "dailymagazine.co.il",
+    "status": 3,
+    "level": 0,
     "gender": 0
   }
 ]
