@@ -6025,7 +6025,7 @@
   },
   {
     "id": 920,
-    "url": "https://www.mymikvahcalendar.com/app/",
+    "url": "https://www.mymikvahcalendar.com/",
     "name": "לוח המקווה שלי - My Mikvah",
     "category": 18,
     "level": 0,
@@ -7553,7 +7553,7 @@
   },
   {
     "id": 1124,
-    "url": "https://hemdat.plus/",
+    "url": "https://www.hemdat.ac.il/",
     "name": "המכללה האקדמית חמדת",
     "category": 2,
     "level": 2,
@@ -8829,6 +8829,150 @@
     "name": "ישיבת רעותא",
     "category": 21,
     "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1286,
+    "url": "https://mikraot.org/",
+    "name": "מקראות - מכון קריאה",
+    "category": 19,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1287,
+    "url": "https://www.rebbek.org/",
+    "name": "רבי לילדים",
+    "category": 3,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1288,
+    "url": "https://mila-ht.com/",
+    "name": "מילא אופנה",
+    "category": 17,
+    "level": 1,
+    "gender": 2
+  },
+  {
+    "id": 1289,
+    "url": "https://www.assutaashdod.co.il/",
+    "name": "אסותא אשדוד",
+    "category": 9,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1290,
+    "url": "https://zkolel.com/",
+    "name": "כולל זוהר הרקיע",
+    "category": 21,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1291,
+    "url": "https://www.ort.org.il/",
+    "name": "רשת אורט",
+    "category": 2,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1292,
+    "url": "http://englishexercises.org/",
+    "name": "English Exercises - תרגול אנגלית",
+    "category": 2,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1293,
+    "url": "https://etrog.net.il/",
+    "name": "אינטרנט אתרוג",
+    "category": 15,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1294,
+    "url": "https://www.limd.co.il/",
+    "name": "מכון לימודי דעת",
+    "category": 2,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1295,
+    "url": "https://pnimaclub.co.il/",
+    "name": "פנימה קלאב",
+    "category": 11,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1296,
+    "url": "https://piyutveshira.com/",
+    "name": "פיוט ושירה",
+    "category": 11,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1297,
+    "url": "https://www.bhphotovideo.com/",
+    "name": "B&H",
+    "category": 4,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1298,
+    "url": "https://www.glatjobs.co.il/",
+    "name": "גלאט ג'ובס",
+    "category": 19,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1299,
+    "url": "https://chassidus-content.com/",
+    "name": "Chassidus - היכל מנחם",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1300,
+    "url": "https://mobimatter.com/",
+    "name": "MobiMatter eSim",
+    "category": 15,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1301,
+    "url": "https://www.nizat.com/",
+    "name": "ניצת הדובדבן ",
+    "category": 4,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1302,
+    "url": "https://ayal-taarog.org.il/",
+    "name": "מוסדות כאייל תערוג",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1303,
+    "url": "https://open-bus-map-search.hasadna.org.il/",
+    "name": "דאטאבוס",
+    "category": 14,
+    "level": 2,
     "gender": 0
   }
 ]
