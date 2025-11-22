@@ -8974,5 +8974,77 @@
     "category": 14,
     "level": 2,
     "gender": 0
+  },
+  {
+    "id": 1304,
+    "url": "https://www.15minutes.co.il/",
+    "name": "15 דקות - תחב\"צ",
+    "category": 14,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1305,
+    "url": "https://www.prigat.co.il/",
+    "name": "פריגת",
+    "category": 16,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1306,
+    "url": "https://pitcheiolam.co.il/",
+    "name": "בית המדרש פתחי עולם",
+    "category": 21,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1307,
+    "url": "https://www.mishbetzet.co.il/",
+    "name": "משבצת - גבי יקואל - מתמטיקה ",
+    "category": 2,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1308,
+    "url": "https://nkhashmal.co.il/",
+    "name": "NK חשמל וסלולר ",
+    "category": 4,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1309,
+    "url": "https://rabbisacks.org/%d7%91%d7%99%d7%aa/",
+    "name": "מורשת הרב זקס ",
+    "category": 1,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1310,
+    "url": "https://tvunot.net/",
+    "name": "תבונות נט ",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1311,
+    "url": "https://www.lbr.co.il/",
+    "name": "ליברה ביטוח",
+    "category": 14,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1312,
+    "url": "https://torahanytime.com/",
+    "name": "TorahAnyTime - תורה בכל עת",
+    "category": 1,
+    "level": 0,
+    "gender": 0
   }
 ]
