@@ -9046,5 +9046,77 @@
     "category": 1,
     "level": 0,
     "gender": 0
+  },
+  {
+    "id": 1313,
+    "url": "https://yedion.atidne.com/",
+    "name": "ידיעון - מכללת עתיד",
+    "category": 2,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1314,
+    "url": "https://briuta-care.co.il/",
+    "name": "בריאותא",
+    "category": 9,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1315,
+    "url": "https://www.statush.co.il/",
+    "name": "סטטוש - Statush",
+    "category": 22,
+    "level": 3,
+    "gender": 2
+  },
+  {
+    "id": 1316,
+    "url": "https://airhaifa.com/",
+    "name": "אייר חיפה - AirHaifa",
+    "category": 14,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1317,
+    "url": "https://vorti.co.il/",
+    "name": "וארטי",
+    "category": 20,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1318,
+    "url": "https://otzerhachassidus.com/",
+    "name": "אוצר החסידות",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1319,
+    "url": "https://www.cookie-fairy.com/",
+    "name": "פיית העוגיות ",
+    "category": 16,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1320,
+    "url": "https://ncsy.org/",
+    "name": "NCSY ",
+    "category": 3,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1321,
+    "url": "https://www.ono.ac.il/",
+    "name": "הקריה האקדמית אונו",
+    "category": 2,
+    "level": 2,
+    "gender": 0
   }
 ]
