@@ -9118,5 +9118,93 @@
     "category": 2,
     "level": 2,
     "gender": 0
+  },
+  {
+    "id": 1322,
+    "url": "https://malevegadish.com/",
+    "name": "מלא וגדיש",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1323,
+    "url": "https://chasidut.net/",
+    "name": "חסידות.נט",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1324,
+    "url": "https://yiddishvideos.com/",
+    "name": "Yiddish Videos",
+    "category": 10,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1325,
+    "url": "https://udihershler.com/tevuna/",
+    "name": "תבונה ",
+    "category": 1,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1326,
+    "url": "https://www.einkramim.co.il/",
+    "name": "תאגיד המים עין כרמים ",
+    "category": 19,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1327,
+    "url": "https://www.lilbonbaby.com/",
+    "name": "לילבון - Lil’bon",
+    "category": 4,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1328,
+    "url": "https://970.co.il/",
+    "name": "970 חדשות חיפה",
+    "category": 0,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1329,
+    "url": "https://haravshneor.co.il/",
+    "name": "הרב שניאור אשכנזי",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1330,
+    "url": "https://www.nitzotzotonline.com/",
+    "name": "ערוץ ניצוצות",
+    "category": 3,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1331,
+    "url": "https://etthalech.com/",
+    "name": "אתהלך - הרב אהרן מרגלית ",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1332,
+    "url": "https://www.psakim.org/",
+    "name": "פסקים - פסקי דין רבניים",
+    "category": 1,
+    "level": 2,
+    "gender": 0
   }
 ]
