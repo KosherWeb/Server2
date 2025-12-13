@@ -156,8 +156,8 @@
     "url": "https://leaderkids.co.il/",
     "name": "לידר",
     "category": 17,
-    "level": 1,
-    "gender": 2
+    "level": 2,
+    "gender": 0
   },
   {
     "id": 124,
@@ -9204,6 +9204,54 @@
     "url": "https://www.psakim.org/",
     "name": "פסקים - פסקי דין רבניים",
     "category": 1,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1333,
+    "url": "https://www.tikoved.co.il/",
+    "name": "תיק עובד",
+    "category": 19,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1334,
+    "url": "https://lehavinst.com/",
+    "name": "להבין - דיקת סת\"ם",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1335,
+    "url": "https://metaylimbkipa.com/",
+    "name": "מטיילים בכיפה - חו\"ל כשר",
+    "category": 11,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1336,
+    "url": "https://tvuna.org.il/",
+    "name": "תבונה - הדרך לכלכלה נבונה",
+    "category": 8,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1337,
+    "url": "https://black-cat.thechats.click/",
+    "name": "אקטואליה והומור - החתול השחור",
+    "category": 11,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1338,
+    "url": "https://www.shvut-rachel.co.il/",
+    "name": "שבות רחל",
+    "category": 12,
     "level": 2,
     "gender": 0
   }
