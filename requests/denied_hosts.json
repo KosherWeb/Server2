@@ -800,7 +800,13 @@
   {
     "value": "app-builder.madrichim.ovh",
     "status": 3,
-    "level": 3,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.linkedin.com",
+    "status": 3,
+    "level": 1,
     "gender": 0
   }
 ]
