@@ -9254,5 +9254,141 @@
     "category": 12,
     "level": 2,
     "gender": 0
+  },
+  {
+    "id": 1339,
+    "url": "https://www.lubavitch.com/",
+    "name": "Chabad Lubavitch Headquarters",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1340,
+    "url": "https://cochav-hanofesh.com/",
+    "name": "כוכב הנופש",
+    "category": 11,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1341,
+    "url": "https://www.cardcom.solutions/",
+    "name": "קארדקום - סליקת אשראי לעסקים",
+    "category": 19,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1342,
+    "url": "https://telechofesh.co.il/",
+    "name": "טלחופש - תיירות ונופשים כשרים",
+    "category": 11,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1343,
+    "url": "https://ravpass.co.il/",
+    "name": "רב פס",
+    "category": 14,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1344,
+    "url": "https://studymeir.com/",
+    "name": "הבלוג של מאיר",
+    "category": 15,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1345,
+    "url": "https://feder-lamahadrin.netlify.app/",
+    "name": "פדר למהדרין - מבחני סת\"ם",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1346,
+    "url": "https://education.gpsresearchpublishers.com/",
+    "name": "GPS Research Publishers",
+    "category": 5,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1347,
+    "url": "https://fanger.org.il/",
+    "name": "הרב יצחק פנגר",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1348,
+    "url": "https://playstyle.co.il/",
+    "name": "playstyle - מקצבים חסידיים",
+    "category": 7,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1349,
+    "url": "https://www.breslevmatch.com/",
+    "name": "שידוכים ברסלב",
+    "category": 20,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1350,
+    "url": "https://grapholike.com/",
+    "name": "גרפולייק",
+    "category": 19,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1351,
+    "url": "https://authenti.newsupdates.click/",
+    "name": "אותנטי ניוז",
+    "category": 0,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1352,
+    "url": "https://forum.otzaria.org/",
+    "name": "פורום אוצריא",
+    "category": 22,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1353,
+    "url": "https://www.shidduch-gmach.org/",
+    "name": "גמ\"ח בינה שידוכים",
+    "category": 20,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1354,
+    "url": "https://shaalti.co.il/",
+    "name": "אחת שאלתי",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1355,
+    "url": "https://ksym.org.il/",
+    "name": "קהילת שערי יונה מנחם",
+    "category": 12,
+    "level": 2,
+    "gender": 0
   }
 ]
