@@ -9390,5 +9390,69 @@
     "category": 12,
     "level": 2,
     "gender": 0
+  },
+  {
+    "id": 1356,
+    "url": "https://berel.me/",
+    "name": "בערל",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1357,
+    "url": "https://www.akivazuk.com/",
+    "name": "עקיבא צוקרמן | סיפורי תנך",
+    "category": 3,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1358,
+    "url": "https://shirathayam.m-datit.org.il/pirsumsite/",
+    "name": "פורטל כשרות בתי עסק",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1359,
+    "url": "https://www.keveryosef.org/",
+    "name": "מנהלת קבר יוסף",
+    "category": 13,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1360,
+    "url": "https://havinoti.co.il/",
+    "name": "הבינותי - אקטיב הד",
+    "category": 19,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1361,
+    "url": "https://my-tanya.web.app/",
+    "name": "התניא שלי",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1362,
+    "url": "https://thedreamraffle.co.il/",
+    "name": "הגרלת החלומות - עם ישראל חי",
+    "category": 13,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1363,
+    "url": "https://www.makelab.org.il/",
+    "name": "Makelab Israel - מייקלאב",
+    "category": 11,
+    "level": 3,
+    "gender": 0
   }
 ]
