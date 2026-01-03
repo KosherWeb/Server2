@@ -2193,5 +2193,30 @@
     "value": "www.tapuzdelivery.co.il",
     "level": 1,
     "gender": 0
+  },
+  {
+    "value": "rammod.djmetals.com",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "support.brother.com",
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "value": "afconev.co.il",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "www.lior-sh.com",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "dataprint.gomake.net",
+    "level": 2,
+    "gender": 0
   }
 ]
