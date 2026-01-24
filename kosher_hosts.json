@@ -2268,5 +2268,15 @@
         "value": "xenon-gift.com",
         "level": 3,
         "gender": 0
+    },
+    {
+        "value": "shushantech.co.il",
+        "level": 2,
+        "gender": 0
+    },
+    {
+        "value": "auth.cal-platform.com",
+        "level": 1,
+        "gender": 0
     }
 ]
