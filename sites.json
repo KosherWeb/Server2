@@ -9361,7 +9361,7 @@
     },
     {
         "id": 1352,
-        "url": "https://forum.otzaria.org/",
+        "url": "https://otzaria.org/",
         "name": "פורום אוצריא",
         "category": 22,
         "level": 2,
@@ -9572,6 +9572,38 @@
         "url": "https://michalevitin.co.il/",
         "name": "שומחת עליך - מיכל לויטין",
         "category": 18,
+        "level": 1,
+        "gender": 0
+    },
+    {
+        "id": 1379,
+        "url": "https://yad14.co.il/",
+        "name": "הרמב\"ם היומי",
+        "category": 1,
+        "level": 1,
+        "gender": 0
+    },
+    {
+        "id": 1380,
+        "url": "https://www.e-post.co.il/",
+        "name": "e-post",
+        "category": 19,
+        "level": 2,
+        "gender": 0
+    },
+    {
+        "id": 1381,
+        "url": "https://www.alpertsefer.co.il/",
+        "name": "אלפרט ספרי קודש",
+        "category": 4,
+        "level": 1,
+        "gender": 0
+    },
+    {
+        "id": 1382,
+        "url": "https://mwaxb.co.il/",
+        "name": "מלכות וקסברגר",
+        "category": 4,
         "level": 1,
         "gender": 0
     }
