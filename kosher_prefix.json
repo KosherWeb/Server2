@@ -1,117 +1,122 @@
 [
-  {
-    "value": "file:///android_asset/kosher_web.html",
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "value": "https://www.google.com/docs/about/",
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "value": "https://www.google.com/forms/about/",
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "value": "https://api.whatsapp.com/send?phone=",
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "value": "whatsapp://send",
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "value": "https://www.google.com/drive/",
-    "level": 0,
-    "gender": 0
-  },
-  {
-    "value": "https://mypips.app/ashukahevrati-einat/",
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "value": "https://biusocialsciences.eu.qualtrics.com/jfe/form/",
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "value": "https://iplan.co.il/he-IL/guest/",
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "value": "https://chat.membitbot.com/bneibrak.html",
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "value": "https://sms.frontcld.com/files/YJSXYU/",
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "value": "https://survey.alchemer.com/s3/8426075/",
-    "level": 2,
-    "gender": 0
-  },
-  {
-    "value": "https://10comm.com/Invitation.php",
-    "level": 2,
-    "gender": 0
-  },
-  {
-    "value": "https://lp.sensica.co.il/sensilight-pro-kosher/",
-    "level": 2,
-    "gender": 0
-  },
-  {
-    "value": "https://lp10.co.il/minhastam/gift/",
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "value": "https://s3.amazonaws.com/daf-yomi/",
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "value": "https://heyzine.com/flip-book/",
-    "level": 3,
-    "gender": 0
-  },
-  {
-    "value": "https://www.kerk.co.il/landing-pages/leavotesh/first-launch/",
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "value": "https://global.tineco.com/support/",
-    "level": 2,
-    "gender": 0
-  },
-  {
-    "value": "https://www.tiktakti.co.il/catalog/nogaeinat/2024-2025/",
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "value": "https://www.shufersal.co.il/dishortcuturl/",
-    "level": 1,
-    "gender": 0
-  },
-  {
-    "value": "https://letts.co.il/payment/",
-    "level": 2,
-    "gender": 0
-  },
-  {
-    "value": "https://tabitisrael.co.il/online-reservations/",
-    "level": 2,
-    "gender": 0
-  }
+    {
+        "value": "file:///android_asset/kosher_web.html",
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "value": "https://www.google.com/docs/about/",
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "value": "https://www.google.com/forms/about/",
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "value": "https://api.whatsapp.com/send?phone=",
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "value": "whatsapp://send",
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "value": "https://www.google.com/drive/",
+        "level": 0,
+        "gender": 0
+    },
+    {
+        "value": "https://mypips.app/ashukahevrati-einat/",
+        "level": 1,
+        "gender": 0
+    },
+    {
+        "value": "https://biusocialsciences.eu.qualtrics.com/jfe/form/",
+        "level": 1,
+        "gender": 0
+    },
+    {
+        "value": "https://iplan.co.il/he-IL/guest/",
+        "level": 1,
+        "gender": 0
+    },
+    {
+        "value": "https://chat.membitbot.com/bneibrak.html",
+        "level": 1,
+        "gender": 0
+    },
+    {
+        "value": "https://sms.frontcld.com/files/YJSXYU/",
+        "level": 1,
+        "gender": 0
+    },
+    {
+        "value": "https://survey.alchemer.com/s3/8426075/",
+        "level": 2,
+        "gender": 0
+    },
+    {
+        "value": "https://10comm.com/Invitation.php",
+        "level": 2,
+        "gender": 0
+    },
+    {
+        "value": "https://lp.sensica.co.il/sensilight-pro-kosher/",
+        "level": 2,
+        "gender": 0
+    },
+    {
+        "value": "https://lp10.co.il/minhastam/gift/",
+        "level": 1,
+        "gender": 0
+    },
+    {
+        "value": "https://s3.amazonaws.com/daf-yomi/",
+        "level": 1,
+        "gender": 0
+    },
+    {
+        "value": "https://heyzine.com/flip-book/",
+        "level": 3,
+        "gender": 0
+    },
+    {
+        "value": "https://www.kerk.co.il/landing-pages/leavotesh/first-launch/",
+        "level": 1,
+        "gender": 0
+    },
+    {
+        "value": "https://global.tineco.com/support/",
+        "level": 2,
+        "gender": 0
+    },
+    {
+        "value": "https://www.tiktakti.co.il/catalog/nogaeinat/2024-2025/",
+        "level": 1,
+        "gender": 0
+    },
+    {
+        "value": "https://www.shufersal.co.il/dishortcuturl/",
+        "level": 1,
+        "gender": 0
+    },
+    {
+        "value": "https://letts.co.il/payment/",
+        "level": 2,
+        "gender": 0
+    },
+    {
+        "value": "https://tabitisrael.co.il/online-reservations/",
+        "level": 2,
+        "gender": 0
+    },
+    {
+        "value": "https://tabitisrael.co.il/tabit-order?",
+        "level": 2,
+        "gender": 0
+    }
 ]
