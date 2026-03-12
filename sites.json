@@ -9910,5 +9910,61 @@
     "category": 4,
     "level": 3,
     "gender": 0
+  },
+  {
+    "id": 1422,
+    "url": "https://efrat.org.il/",
+    "name": "אגודת אפרת",
+    "category": 13,
+    "level": 2,
+    "gender": 2
+  },
+  {
+    "id": 1423,
+    "url": "https://koupatevyonim.co.il/",
+    "name": "קופת אביונים",
+    "category": 13,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1424,
+    "url": "https://lomdim.org/",
+    "name": "לומדים - הבית למקצועות קודש\r",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1425,
+    "url": "https://tomcheitora.org.il/",
+    "name": "תומכי תורה - אתר המכירות",
+    "category": 4,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1426,
+    "url": "https://www.beitchana.org/",
+    "name": "בית חנה",
+    "category": 2,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1427,
+    "url": "https://lavoga.co.il/",
+    "name": "להווגה | Lavoga",
+    "category": 17,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1428,
+    "url": "https://tzalash.org/he/חנות-דף-הבית/",
+    "name": "ארגון צל\"ש",
+    "category": 13,
+    "level": 2,
+    "gender": 0
   }
 ]
