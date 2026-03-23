@@ -1910,11 +1910,6 @@
     "gender": 0
   },
   {
-    "value": "maalot.lamdem.co.il",
-    "level": 2,
-    "gender": 0
-  },
-  {
     "value": "passportcard.voyeglobal.com",
     "level": 3,
     "gender": 0
@@ -2452,6 +2447,81 @@
   {
     "value": "landing.meitav.co.il",
     "level": 1,
+    "gender": 0
+  },
+  {
+    "value": "tabenkinbk.co.il",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "selapublicportal.emobile.co.il",
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "value": "yonatan-klein.com",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "bgu4u22.bgu.ac.il",
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "value": "lakila.cafe-in.co.il",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "powerforms.docusign.net",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "fitcloud.hetangsmart.com",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "account.amazon.com",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "todahtehillim.netlify.app",
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "value": "fb.feezback.cloud",
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "value": "odoro.co.il",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "click-eat.co.il",
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "value": "thechannel-viewer.clickandgo.cfd",
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "value": "propxp.com",
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "value": "lamdem.co.il",
+    "level": 2,
     "gender": 0
   }
 ]
