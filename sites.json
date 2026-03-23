@@ -9966,5 +9966,125 @@
     "category": 13,
     "level": 2,
     "gender": 0
+  },
+  {
+    "id": 1429,
+    "url": "https://mykerenhashana.com/",
+    "name": "קרן השנה",
+    "category": 13,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1430,
+    "url": "https://www.cameleon.co.il/",
+    "name": "קמיליון | Cameleon",
+    "category": 17,
+    "level": 2,
+    "gender": 2
+  },
+  {
+    "id": 1431,
+    "url": "https://midorledor.co.il/",
+    "name": "מדור לדור",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1432,
+    "url": "https://lavoga.co.il/",
+    "name": "להווגה - Lavoga",
+    "category": 17,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1433,
+    "url": "https://modestiqa.com/",
+    "name": "מודסטיקה - Modestiqa",
+    "category": 17,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1434,
+    "url": "https://merkaz-aklaf.com/",
+    "name": "מרכז הקלף המהודר",
+    "category": 19,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1435,
+    "url": "https://stender.center/",
+    "name": "מרכז הסטנדר ",
+    "category": 4,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1436,
+    "url": "https://www.filterphone.com/",
+    "name": "פילטר פון | Filterphone  ",
+    "category": 15,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1437,
+    "url": "https://app.yedid.im/",
+    "name": "ממשק למוקדני ידידים",
+    "category": 13,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1438,
+    "url": "https://rabbimeireliyahu.org/",
+    "name": "הרב מאיר אליהו - האתר הרשמי ",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1439,
+    "url": "https://hiremetech.com/",
+    "name": "HireMe Tech - דרושים הייטק",
+    "category": 19,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1440,
+    "url": "https://rachelbazak.co.il/",
+    "name": "הרבנית רחל בזק",
+    "category": 1,
+    "level": 2,
+    "gender": 2
+  },
+  {
+    "id": 1441,
+    "url": "https://cyber.org.il/",
+    "name": "המרכז לחינוך סייבר ",
+    "category": 2,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1442,
+    "url": "https://cholenet.co.il/",
+    "name": "צ'ולנט - ליל שישי",
+    "category": 11,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1443,
+    "url": "https://ygutman.co.il/",
+    "name": "גוטפלוס - ישראל גוטמן",
+    "category": 19,
+    "level": 1,
+    "gender": 0
   }
 ]
