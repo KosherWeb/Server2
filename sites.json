@@ -3601,7 +3601,7 @@
   },
   {
     "id": 599,
-    "url": "https://videos.jem.tv/",
+    "url": "https://jem.tv/",
     "name": "JEM.tv - הרבי מליובאוויטש",
     "category": 10,
     "level": 1,
@@ -7684,7 +7684,7 @@
     "url": "https://tashma.co.il/",
     "name": "תא שמע",
     "category": 1,
-    "level": 1,
+    "level": 0,
     "gender": 0
   },
   {
@@ -10085,6 +10085,54 @@
     "name": "גוטפלוס - ישראל גוטמן",
     "category": 19,
     "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1444,
+    "url": "https://harav-binyum.co.il/",
+    "name": "מתורתו של הרב בניום",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1445,
+    "url": "https://www.kitan.co.il/",
+    "name": "Kitan",
+    "category": 4,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1446,
+    "url": "https://myleava.fr/",
+    "name": "Myleava.fr",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1447,
+    "url": "https://www.iroads.co.il/",
+    "name": "נתיבי ישראל",
+    "category": 6,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1448,
+    "url": "https://mdmp.org.il/",
+    "name": "מועצה דתית מצפה רמון ",
+    "category": 12,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1449,
+    "url": "https://www.naomi.org.il/",
+    "name": "חסדי נעמי",
+    "category": 13,
+    "level": 2,
     "gender": 0
   }
 ]
