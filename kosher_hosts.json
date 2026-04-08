@@ -2558,5 +2558,45 @@
     "value": "unit-logi-flow.base44.app",
     "level": 3,
     "gender": 0
+  },
+  {
+    "value": "l-yad.org",
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "value": "misrot.wbs.co.il",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "heimish.net",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "www.openstreetmap.org",
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "value": "bl.gogift.co.il",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "theravlegacy.org",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "ipview.io",
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "value": "mp3.meirtv.co.il",
+    "level": 0,
+    "gender": 0
   }
 ]
