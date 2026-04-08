@@ -10134,5 +10134,61 @@
     "category": 13,
     "level": 2,
     "gender": 0
+  },
+  {
+    "id": 1450,
+    "url": "https://oref-map.org/",
+    "name": "מפת העורף",
+    "category": 6,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1451,
+    "url": "https://shug.co.il/",
+    "name": "SHUG תכשיטים",
+    "category": 4,
+    "level": 3,
+    "gender": 2
+  },
+  {
+    "id": 1452,
+    "url": "https://hagitshira.co.il/",
+    "name": "הרבנית חגית שירה",
+    "category": 18,
+    "level": 2,
+    "gender": 2
+  },
+  {
+    "id": 1453,
+    "url": "https://www.pirov.co.il/",
+    "name": "יהלומי פירוב",
+    "category": 4,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1454,
+    "url": "https://successcollege.co.il/",
+    "name": "Success College",
+    "category": 2,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1455,
+    "url": "https://tht.co.il/",
+    "name": "טעמא – קריאה בתורה",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1456,
+    "url": "https://grovais.com/",
+    "name": "גרובייס - סרטים",
+    "category": 10,
+    "level": 1,
+    "gender": 0
   }
 ]
