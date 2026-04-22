@@ -10190,5 +10190,205 @@
     "category": 10,
     "level": 1,
     "gender": 0
+  },
+  {
+    "id": 1457,
+    "url": "https://www.chess.com/",
+    "name": "Chess.com",
+    "category": 11,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1458,
+    "url": "https://www.interactivebrokers.com/",
+    "name": "Interactive Brokers LLC",
+    "category": 8,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1459,
+    "url": "https://michalb.co.il/",
+    "name": "מיכל ברנהם - הנחיית הורים",
+    "category": 19,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1460,
+    "url": "https://www.campus-hartuv.org/",
+    "name": "קמפוס הר טוב\r",
+    "category": 2,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1461,
+    "url": "https://mikyab.net/",
+    "name": "הרב מיכאל אברהם",
+    "category": 1,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1462,
+    "url": "https://5f353e7470044.site123.me/",
+    "name": "משיב נפש מאמינים בשאלות",
+    "category": 3,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1463,
+    "url": "https://mazormed.org.il/",
+    "name": "מזור הכוונה רפואית",
+    "category": 13,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1464,
+    "url": "https://nerlazadik.co.il/",
+    "name": "נר לצדיק - הוצאה לאור",
+    "category": 19,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1465,
+    "url": "https://golden-sanctuary-network--s0555030580.replit.app/",
+    "name": "בוגרי מאירים",
+    "category": 21,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1466,
+    "url": "https://mercazdafyomi.com/",
+    "name": "Mercaz Daf Yomi\r",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1467,
+    "url": "https://mishnarun.org/",
+    "name": "רצים למשנה | סולמות VOD",
+    "category": 10,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1468,
+    "url": "https://www.babli.co.il/",
+    "name": "בבלי",
+    "category": 0,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1469,
+    "url": "https://www.home-connect.com/",
+    "name": "Home Connect",
+    "category": 5,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1470,
+    "url": "https://www.konesonline.co.il/",
+    "name": "כונס נכסים אונליין",
+    "category": 4,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1471,
+    "url": "https://smartthingsfind.samsung.com/",
+    "name": "SmartThings Find",
+    "category": 5,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1472,
+    "url": "https://realeasy.co.il/",
+    "name": "RealEasy - צחי קווטינסקי - נדלן בקלות",
+    "category": 19,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1473,
+    "url": "https://dapi.co.il/",
+    "name": "דפי - דפי עבודה לילדים",
+    "category": 3,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1474,
+    "url": "https://roim-nisim.co.il/",
+    "name": "רואים ניסים",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1475,
+    "url": "https://www.sela.co.il/",
+    "name": "Sela. - מרכז ההדרכה",
+    "category": 2,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1476,
+    "url": "https://chasiditube.com/",
+    "name": "חסידיטיוב",
+    "category": 10,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1477,
+    "url": "https://doctor-clinix.com/support-3/",
+    "name": "Doctor Clinix - דוקטור קליניקס",
+    "category": 19,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1478,
+    "url": "https://www.hit.ac.il/",
+    "name": "Hit - המכון הטכנולוגי חולון",
+    "category": 2,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1479,
+    "url": "https://www.zefat.ac.il/",
+    "name": "אקדמית צפת",
+    "category": 2,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1480,
+    "url": "https://irit-irit.com/",
+    "name": "אירית - IRIT Design",
+    "category": 17,
+    "level": 2,
+    "gender": 2
+  },
+  {
+    "id": 1481,
+    "url": "https://rebar.co.il/",
+    "name": "rebar - ריבר",
+    "category": 16,
+    "level": 3,
+    "gender": 0
   }
 ]
