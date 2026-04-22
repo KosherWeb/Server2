@@ -148,5 +148,10 @@
     "value": "https://app.easydo.co.il/publicForm/",
     "level": 1,
     "gender": 0
+  },
+  {
+    "value": "https://mada.smarticket.co.il/api/eTicket/default",
+    "level": 2,
+    "gender": 0
   }
 ]
