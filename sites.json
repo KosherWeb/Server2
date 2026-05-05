@@ -10390,5 +10390,85 @@
     "category": 16,
     "level": 3,
     "gender": 0
+  },
+  {
+    "id": 1482,
+    "url": "https://netube.co.il/",
+    "name": "NeTube - סרטונים מאושרים בנטפרי ",
+    "category": 10,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1483,
+    "url": "https://mziv.org/",
+    "name": "מדרשת זיו - המרכז ללימודי יהדות",
+    "category": 1,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1484,
+    "url": "https://orothatora.org.il/",
+    "name": "מוסדות אורות התורה",
+    "category": 1,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1485,
+    "url": "https://haimke.co.il/",
+    "name": "חיימק'ה חנות טלפונים ",
+    "category": 15,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1486,
+    "url": "https://www.naturalreaders.com/",
+    "name": "NaturalReader",
+    "category": 5,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1487,
+    "url": "https://www.besodh.com/",
+    "name": "בסוד הדברים - הרב יובל אשרוב ",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1488,
+    "url": "כשר פליי - AI Chat",
+    "name": "זה בשביל צ'אט כשר ",
+    "category": 5,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1489,
+    "url": "https://ifilter.me/",
+    "name": "iFilter - מערכת סינון",
+    "category": 15,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1490,
+    "url": "https://tovbteva.co.il/",
+    "name": "טוב זה בטבע",
+    "category": 4,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1491,
+    "url": "https://www.sabarhealth.co.il/",
+    "name": "צבר רפואה",
+    "category": 9,
+    "level": 2,
+    "gender": 0
   }
 ]
