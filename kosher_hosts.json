@@ -2648,5 +2648,55 @@
     "value": "www.hadasminilove.com",
     "level": 1,
     "gender": 2
+  },
+  {
+    "value": "ohr.edu",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "forms.cloud.microsoft",
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "value": "ms-online.co.il",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "david.5791574d.workers.dev",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "osimyoter.co.il",
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "value": "clinic.poppins.co.il",
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "value": "global.tineco.com",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "lev-avot.co.il",
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "value": "apollo-wolfson.idgmc.org",
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "value": "click.smoove.io",
+    "level": 1,
+    "gender": 0
   }
 ]
