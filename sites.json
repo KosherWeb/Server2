@@ -10470,5 +10470,93 @@
     "category": 9,
     "level": 2,
     "gender": 0
+  },
+  {
+    "id": 1492,
+    "url": "https://www.otzar.org.il/",
+    "name": "אוצר התורה",
+    "category": 21,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1493,
+    "url": "https://www.c-hachashmal.co.il/",
+    "name": "שיא החשמל והמיזוג",
+    "category": 4,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1494,
+    "url": "https://yoman.co.il/",
+    "name": "יומן - ניהול וזימון תורים",
+    "category": 19,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1495,
+    "url": "https://www.familybiz.co.il/",
+    "name": "FamilyBiz",
+    "category": 8,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1496,
+    "url": "https://www.yitzchakmeir.co.il/",
+    "name": "יצחק מאיר",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1497,
+    "url": "https://www.yabia-omer.co.il/",
+    "name": "יביע אומר",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1498,
+    "url": "https://misrot-mashmaut.com/",
+    "name": "משרות עם משמעות",
+    "category": 19,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1499,
+    "url": "https://mekimi.co.il/",
+    "name": "מקימי",
+    "category": 17,
+    "level": 1,
+    "gender": 2
+  },
+  {
+    "id": 1500,
+    "url": "https://simehadrin.co.il/",
+    "name": "סים מהדרין",
+    "category": 15,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1501,
+    "url": "https://chavaor.co.il/",
+    "name": "חוה שמילוביץ - האקדמיה לפסיכולוגיה יהודית",
+    "category": 19,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1502,
+    "url": "https://www.darlain.co.il/",
+    "name": "דארלן - אופנה לבית",
+    "category": 4,
+    "level": 2,
+    "gender": 0
   }
 ]
