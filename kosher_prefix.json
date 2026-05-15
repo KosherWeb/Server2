@@ -153,5 +153,20 @@
     "value": "https://mada.smarticket.co.il/api/eTicket/default",
     "level": 2,
     "gender": 0
+  },
+  {
+    "value": "https://github.com/login/",
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "value": "https://ran.shemesh.me/r/",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "https://www.shufersal.co.il/LandingPages/giftCard",
+    "level": 2,
+    "gender": 0
   }
 ]
