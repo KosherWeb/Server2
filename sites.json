@@ -10558,5 +10558,85 @@
     "category": 4,
     "level": 2,
     "gender": 0
+  },
+  {
+    "id": 1503,
+    "url": "https://leharshim.com/",
+    "name": "איך להרשים את חמותך - מתכונים",
+    "category": 16,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1504,
+    "url": "https://thekotel.org/",
+    "name": "הכותל המערבי",
+    "category": 13,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1505,
+    "url": "https://fanan2speak.com/",
+    "name": "פנאן - לימוד ערבית",
+    "category": 2,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1506,
+    "url": "https://your-sofer.com/",
+    "name": "Your Sofer - חנות סת\"ם",
+    "category": 19,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1507,
+    "url": "https://gad-remilk.co.il/",
+    "name": "החלב החדש",
+    "category": 16,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1508,
+    "url": "https://www.aklimi.co.il/",
+    "name": "אקלים - פתרונות אוורור וחימום ",
+    "category": 19,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1509,
+    "url": "https://hit-n.co.il/",
+    "name": "התיישבות עכשיו ",
+    "category": 0,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1510,
+    "url": "https://halichot-maran.co.il/",
+    "name": "הליכות מרן",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1511,
+    "url": "https://site.maftechot.com/",
+    "name": "מפתחות - דירות וצימרים",
+    "category": 11,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1512,
+    "url": "https://levchabad.org.il/",
+    "name": "לב חב\"ד - חסד ומרפא",
+    "category": 13,
+    "level": 2,
+    "gender": 0
   }
 ]
