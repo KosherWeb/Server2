@@ -10638,5 +10638,29 @@
     "category": 13,
     "level": 2,
     "gender": 0
+  },
+  {
+    "id": 1513,
+    "url": "https://www.shabbatbooking.com/",
+    "name": "שבת בוקינג",
+    "category": 11,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1514,
+    "url": "https://www.shikun-maof.co.il/",
+    "name": "מעוף לדיור",
+    "category": 6,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1515,
+    "url": "https://www.mudaut.co.il/",
+    "name": "מודעות - לומדים קבלה",
+    "category": 1,
+    "level": 3,
+    "gender": 0
   }
 ]
