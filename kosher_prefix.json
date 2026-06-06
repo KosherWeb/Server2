@@ -173,5 +173,10 @@
     "value": "https://lp.smoove.io/t33g/",
     "level": 2,
     "gender": 0
+  },
+  {
+    "value": "http://max.co.il/request-pin-code/identify",
+    "level": 1,
+    "gender": 0
   }
 ]
