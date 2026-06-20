@@ -10662,5 +10662,117 @@
     "category": 1,
     "level": 3,
     "gender": 0
+  },
+  {
+    "id": 1516,
+    "url": "https://mitpahot.co.il/",
+    "name": "הכל בראש – מטפחות וכיסויי ראש",
+    "category": 17,
+    "level": 2,
+    "gender": 2
+  },
+  {
+    "id": 1517,
+    "url": "https://www.ctravel.co.il/",
+    "name": "שיא טרוול תיירות ונופש",
+    "category": 11,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1518,
+    "url": "https://sbaruch.co.il/",
+    "name": "ש. ברוך יזמות ובניה",
+    "category": 19,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1519,
+    "url": "https://simchatyeudit.co.il/",
+    "name": "שמחה יהודית - גמ\"ח כלים לאירועים",
+    "category": 13,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1520,
+    "url": "https://ikr.org.il/",
+    "name": "אתר הכשרות של ישראל",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1521,
+    "url": "https://www.machon-noam.co.il/",
+    "name": "מכון נועם",
+    "category": 2,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1522,
+    "url": "https://chassidutbehirah.com/",
+    "name": "חסידות בהירה",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1523,
+    "url": "https://www.dcs.co.il/",
+    "name": "DCS - מחשבים",
+    "category": 15,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1524,
+    "url": "https://askan.co.il/",
+    "name": "עסקן - טכנולוגיות כשרות",
+    "category": 15,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1525,
+    "url": "https://lab-path.co.il/",
+    "name": "דרך המעבדה - בטיחות מזון",
+    "category": 19,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1526,
+    "url": "https://meihadaas.com/",
+    "name": "מי הדעת",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1527,
+    "url": "https://maagarshiduchim.com/",
+    "name": "מאגר השידוכים הכרם",
+    "category": 20,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1528,
+    "url": "https://www.nomirest.co.il/",
+    "name": "הנסיכה והעדשה - בלוג אוכל כשר",
+    "category": 16,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1529,
+    "url": "https://morancohen.co.il/",
+    "name": "מורן מטפחות",
+    "category": 17,
+    "level": 2,
+    "gender": 2
   }
 ]
