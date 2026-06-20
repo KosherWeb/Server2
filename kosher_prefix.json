@@ -178,5 +178,15 @@
     "value": "http://max.co.il/request-pin-code/identify",
     "level": 1,
     "gender": 0
+  },
+  {
+    "value": "https://shop.app/checkout/",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "https://survey.dialogue.co.il/",
+    "level": 2,
+    "gender": 0
   }
 ]
