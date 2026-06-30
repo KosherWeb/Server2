@@ -10774,5 +10774,45 @@
     "category": 17,
     "level": 2,
     "gender": 2
+  },
+  {
+    "id": 1530,
+    "url": "https://www.prihazniut.co.il/",
+    "name": "פרי הצניעות",
+    "category": 17,
+    "level": 3,
+    "gender": 2
+  },
+  {
+    "id": 1531,
+    "url": "https://nextech.co.il/",
+    "name": "נקסטק - NexTech",
+    "category": 15,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1532,
+    "url": "https://bealaha-beagada.com/",
+    "name": "בהלכה ובאגדה",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1533,
+    "url": "https://mishna-yom.com/",
+    "name": "משניום - לימוד משניות יומי",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1534,
+    "url": "https://meirim.net/",
+    "name": "בוגרי מאירים",
+    "category": 21,
+    "level": 1,
+    "gender": 0
   }
 ]
