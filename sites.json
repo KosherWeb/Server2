@@ -10814,5 +10814,45 @@
     "category": 21,
     "level": 1,
     "gender": 0
+  },
+  {
+    "id": 1535,
+    "url": "https://dorihome.co.il/",
+    "name": "דורי הום – ריהוט מעוצב לבית",
+    "category": 19,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1536,
+    "url": "https://isitkosher.uk/",
+    "name": "IS IT KOSHER? UK",
+    "category": 16,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1537,
+    "url": "https://app.qma.co.il/",
+    "name": "קיומה - מערכת לניהול מוסדות תורניים",
+    "category": 5,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1538,
+    "url": "https://www.pizzalab.co.il/",
+    "name": "פיצהלאב",
+    "category": 16,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1539,
+    "url": "https://tambour.co.il/",
+    "name": "טמבור",
+    "category": 4,
+    "level": 2,
+    "gender": 0
   }
 ]
