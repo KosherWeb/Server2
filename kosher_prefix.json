@@ -188,5 +188,10 @@
     "value": "https://survey.dialogue.co.il/",
     "level": 2,
     "gender": 0
+  },
+  {
+    "value": "https://edpuzzle.com/assignments/",
+    "level": 2,
+    "gender": 0
   }
 ]
