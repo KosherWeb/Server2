@@ -2830,11 +2830,6 @@
     "gender": 0
   },
   {
-    "value": "www.kovtzimdrive.com",
-    "level": 1,
-    "gender": 0
-  },
-  {
     "value": "moodle4.wincol.ac.il",
     "level": 3,
     "gender": 0
@@ -2927,6 +2922,36 @@
   {
     "value": "chimerical-melomakarona-23d891.netlify.app",
     "level": 0,
+    "gender": 0
+  },
+  {
+    "value": "www.milgapo.co.il",
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "value": "www.charges.co.il",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "medialeava.fr",
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "value": "tenants.coralis.co.il",
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "value": "mityaalim.co.il",
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "value": "employee-management-nine-pink.vercel.app",
+    "level": 3,
     "gender": 0
   }
 ]
