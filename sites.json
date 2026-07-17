@@ -10854,5 +10854,141 @@
     "category": 4,
     "level": 2,
     "gender": 0
+  },
+  {
+    "id": 1540,
+    "url": "https://www.kovtzimdrive.com/",
+    "name": "הערות וביאורים\r - KovtzimDrive",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1541,
+    "url": "https://teshura.com/",
+    "name": "אתר תשורה",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1542,
+    "url": "https://samchem.org.il/",
+    "name": "שמחם בבניין שלם | שידוכים",
+    "category": 20,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1543,
+    "url": "https://mdydaf.com/",
+    "name": "MDY - Mercaz Daf Yomi",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1544,
+    "url": "https://www.nir-ezion.co.il/",
+    "name": "מלון ניר עציון",
+    "category": 11,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1545,
+    "url": "https://sockstohome.co.il/",
+    "name": "גרביים עד הבית",
+    "category": 17,
+    "level": 2,
+    "gender": 2
+  },
+  {
+    "id": 1546,
+    "url": "https://kosher-chat.lovable.app/",
+    "name": "AI כשר פליי צ׳אט\r",
+    "category": 5,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1547,
+    "url": "https://toratchabad.com/",
+    "name": "מעיינותיך",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1548,
+    "url": "https://darkeimordechai.org/",
+    "name": "דרכי מרדכי",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1549,
+    "url": "https://www.mashvim-vetasim.co.il/",
+    "name": "משווים וטסים",
+    "category": 11,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1550,
+    "url": "https://oneminutetorah.com/",
+    "name": "דקה אחת של תורה ",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1551,
+    "url": "https://hnr.co.il/",
+    "name": "HNR",
+    "category": 17,
+    "level": 2,
+    "gender": 2
+  },
+  {
+    "id": 1552,
+    "url": "https://www.kerenby.co.il/",
+    "name": "חשמל הקרן",
+    "category": 4,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1553,
+    "url": "https://torasmoshiach.com/",
+    "name": "תורת משיח",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1554,
+    "url": "https://onimli.com/",
+    "name": "עונים לי",
+    "category": 19,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1555,
+    "url": "https://giborot-bamasach.base44.app/",
+    "name": "גיבורות במסך",
+    "category": 18,
+    "level": 1,
+    "gender": 2
+  },
+  {
+    "id": 1556,
+    "url": "https://www.brandtools.co.il/",
+    "name": "בראנד אספקה טכנית ",
+    "category": 19,
+    "level": 2,
+    "gender": 0
   }
 ]
