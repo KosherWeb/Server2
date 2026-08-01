@@ -10990,5 +10990,85 @@
     "category": 19,
     "level": 2,
     "gender": 0
+  },
+  {
+    "id": 1557,
+    "url": "https://matzait.com/",
+    "name": "מצעית",
+    "category": 4,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1558,
+    "url": "https://www.arutzerech.com/",
+    "name": "ערוץ ערך",
+    "category": 10,
+    "level": 2,
+    "gender": 2
+  },
+  {
+    "id": 1559,
+    "url": "https://nateevexpress.com/",
+    "name": "נתיב אקספרס",
+    "category": 14,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1560,
+    "url": "https://tenne-aluma.org.il/",
+    "name": "טנא - אלומה באקדמיה",
+    "category": 2,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1561,
+    "url": "https://kids.rega.org.il/",
+    "name": "רגע Kids",
+    "category": 3,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1562,
+    "url": "https://prayerofthemany.com/",
+    "name": "תפילת רבים",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1563,
+    "url": "https://ganisrael.co.il/",
+    "name": "גן ישראל - ארץ הקודש\r",
+    "category": 11,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1564,
+    "url": "https://charedi.net/",
+    "name": "הלוח החרדי\r",
+    "category": 11,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1565,
+    "url": "https://hashkifa.com/",
+    "name": "Hashkifa",
+    "category": 10,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1566,
+    "url": "https://kosheraimehadrin.com/",
+    "name": "Kosher AI",
+    "category": 5,
+    "level": 1,
+    "gender": 0
   }
 ]
