@@ -11070,5 +11070,117 @@
     "category": 5,
     "level": 1,
     "gender": 0
+  },
+  {
+    "id": 1567,
+    "url": "https://shira-hadasha.com/",
+    "name": "שירה חדשה - הבית לאופנה צנועה",
+    "category": 17,
+    "level": 2,
+    "gender": 2
+  },
+  {
+    "id": 1568,
+    "url": "https://www.ravbot.co.il/",
+    "name": "רב‐בּוט - צ׳אטבוט לחיילי צה״ל",
+    "category": 6,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1569,
+    "url": "https://hamishpatim.co.il/",
+    "name": "ואלה המשפטים - הוראה ומשפט",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1570,
+    "url": "https://orshay.co.il/",
+    "name": "קרן אור שי",
+    "category": 16,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1571,
+    "url": "https://www.chinuchtime.com/",
+    "name": "ChinuchTime",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1572,
+    "url": "https://jewish-restaurant.co.il/",
+    "name": "המסעדה היהודית ",
+    "category": 16,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1573,
+    "url": "https://www.sukah.co.il/",
+    "name": "סוכות נחלים",
+    "category": 19,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1574,
+    "url": "https://www.bus.co.il/",
+    "name": "המודיעין לתחבורה צבורית בישראל ",
+    "category": 14,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1575,
+    "url": "https://www.babli.co.il/",
+    "name": "בבלי",
+    "category": 0,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1576,
+    "url": "https://yad-refael.com/",
+    "name": "יד רפאל – בית ההוראה לסופרי סת״ם",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1577,
+    "url": "https://furor.co.il/",
+    "name": "פורור - חולצות לגברים",
+    "category": 17,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1578,
+    "url": "https://ravronchaya.org/",
+    "name": "Rav Ron Chaya",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1579,
+    "url": "https://rambam.plus/",
+    "name": "מפעל משנה תורה",
+    "category": 1,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1580,
+    "url": "https://kbfashion.co.il/",
+    "name": "KB - קיי בי",
+    "category": 17,
+    "level": 3,
+    "gender": 2
   }
 ]
