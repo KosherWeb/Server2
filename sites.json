@@ -11182,5 +11182,61 @@
     "category": 17,
     "level": 3,
     "gender": 2
+  },
+  {
+    "id": 1581,
+    "url": "https://www.luachkir.co.il/",
+    "name": "לוח קיר - עיתון מקומי בירושלים",
+    "category": 19,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1582,
+    "url": "https://torah4blind.org/",
+    "name": "Living With Moshiach",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1583,
+    "url": "https://pirsumchazak.co.il/",
+    "name": "פרסום חזק",
+    "category": 19,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1584,
+    "url": "https://darcheimiriam.org.il/",
+    "name": "דרכי מרים",
+    "category": 13,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1585,
+    "url": "https://akordishkayt.com/",
+    "name": "אקורדישקייט",
+    "category": 7,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1586,
+    "url": "https://kilya.org.il/",
+    "name": "מתנת חיים",
+    "category": 13,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1587,
+    "url": "https://vnashuva.lovable.app/",
+    "name": "ונשובה",
+    "category": 1,
+    "level": 1,
+    "gender": 0
   }
 ]
