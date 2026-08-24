@@ -5409,7 +5409,7 @@
   },
   {
     "id": 837,
-    "url": "https://shvushon.github.io/shvushon/",
+    "url": "https://shvushon1.vercel.app/",
     "name": "שבושון",
     "category": 11,
     "level": 2,
@@ -11235,6 +11235,126 @@
     "id": 1587,
     "url": "https://vnashuva.lovable.app/",
     "name": "ונשובה",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1588,
+    "url": "https://beitrachel.co.il/",
+    "name": "ישיבת רחל אימנו",
+    "category": 21,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1589,
+    "url": "https://elima.org.il/",
+    "name": "אילמה - המרכז הגבוה לרפואה טבעית",
+    "category": 2,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1590,
+    "url": "https://lobbytube.co.il/",
+    "name": "הלובי טיוב",
+    "category": 10,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1591,
+    "url": "https://tochen1.co.il/",
+    "name": "תוכן אחד - ערוץ הפודקאסטים החרדי",
+    "category": 11,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1592,
+    "url": "https://www.zmanim.org.il/",
+    "name": "זמני הלכה לשיטת אדמו״ר הזקן",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1593,
+    "url": "https://avivit-weizman.co.il/",
+    "name": "אביבית ויצמן - אופנה צנועה",
+    "category": 17,
+    "level": 3,
+    "gender": 2
+  },
+  {
+    "id": 1594,
+    "url": "https://www.kadisha.org/",
+    "name": "פורום חברות הקדישא",
+    "category": 1,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1595,
+    "url": "https://mikdashmelech.co.il/",
+    "name": "מקדש מלך",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1596,
+    "url": "https://www.dan.co.il/",
+    "name": "דן - תחבורה ציבורית",
+    "category": 14,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1597,
+    "url": "https://gitydan.com/",
+    "name": "Gitty Dan - אופנה צנועה",
+    "category": 17,
+    "level": 2,
+    "gender": 2
+  },
+  {
+    "id": 1598,
+    "url": "https://morankoors.co.il/",
+    "name": "מורן קורס – מרחיבה תודעה למציאות חדשה ",
+    "category": 19,
+    "level": 1,
+    "gender": 2
+  },
+  {
+    "id": 1599,
+    "url": "https://rishmi.co.il/",
+    "name": "Rishmi - רשמי",
+    "category": 15,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1600,
+    "url": "https://www.abita.co.il/",
+    "name": "אביטה",
+    "category": 2,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1601,
+    "url": "https://talmid.plus/",
+    "name": "Talmid Plus - תלמיד פלוס",
+    "category": 5,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1602,
+    "url": "https://sysgad.com/",
+    "name": "sysgad - לימוד גמרא",
     "category": 1,
     "level": 1,
     "gender": 0
