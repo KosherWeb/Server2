@@ -11358,5 +11358,21 @@
     "category": 1,
     "level": 1,
     "gender": 0
+  },
+  {
+    "id": 1603,
+    "url": "https://amchaisrael.co.il/",
+    "name": "מפלגת עמך ישראל ",
+    "category": 6,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1604,
+    "url": "https://greenlend.co.il/",
+    "name": "גרינלנד - הלוואה חוץ בנקאית",
+    "category": 8,
+    "level": 2,
+    "gender": 0
   }
 ]
