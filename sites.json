@@ -11374,5 +11374,77 @@
     "category": 8,
     "level": 2,
     "gender": 0
+  },
+  {
+    "id": 1605,
+    "url": "https://www.smicha.co.il/",
+    "name": "פורטל סמיכה לרבנות",
+    "category": 1,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1606,
+    "url": "https://tomcheitora.org.il/",
+    "name": "תומכי תורה",
+    "category": 4,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1607,
+    "url": "https://percha-chavosh.com/",
+    "name": "פארך חבוש",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1608,
+    "url": "https://hisachdus.co.il/",
+    "name": "התאחדות החסידים",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1609,
+    "url": "https://www.elera.co.il/",
+    "name": "אלארה - ELERA",
+    "category": 17,
+    "level": 1,
+    "gender": 2
+  },
+  {
+    "id": 1610,
+    "url": "https://artstudio.co.il/",
+    "name": "Art Studio - ארט סטודיו",
+    "category": 19,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1611,
+    "url": "https://app.beitelym.co.il/login",
+    "name": "ישיבת בית-אל\r - שיעורים",
+    "category": 21,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1612,
+    "url": "https://www.metzapeem.com/",
+    "name": "מצפים לבניין",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1613,
+    "url": "https://dirata.co.il/",
+    "name": "דירתא",
+    "category": 19,
+    "level": 2,
+    "gender": 0
   }
 ]
