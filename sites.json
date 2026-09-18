@@ -11446,5 +11446,117 @@
     "category": 19,
     "level": 2,
     "gender": 0
+  },
+  {
+    "id": 1614,
+    "url": "https://good-link.org/",
+    "name": "Good-לינק",
+    "category": 22,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1615,
+    "url": "https://bet-el.muni.il/",
+    "name": "מועצה מקומית בית אל",
+    "category": 12,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1616,
+    "url": "https://lebleu.co.il/",
+    "name": "לה בלו | LE BLEU",
+    "category": 17,
+    "level": 1,
+    "gender": 2
+  },
+  {
+    "id": 1617,
+    "url": "https://yazdi-mehadrin.com/",
+    "name": "יזדי למהדרין",
+    "category": 16,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1618,
+    "url": "https://shidduchmatch.lovable.app/",
+    "name": "וארשתיך",
+    "category": 20,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1619,
+    "url": "https://www.shlomo-bit.co.il/",
+    "name": "שלמה ביטוח ",
+    "category": 8,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1620,
+    "url": "https://rchabad.org/",
+    "name": "אתר ההלכה לחגי תשרי - רבני חב\"ד",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1621,
+    "url": "http://makelot.holonet.co.il/",
+    "name": "מקהל\"ת - חולון",
+    "category": 12,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1622,
+    "url": "https://kupasrabeinu.org/he/",
+    "name": "קופת רבינו",
+    "category": 13,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1623,
+    "url": "https://www.shidduchsmart.com/",
+    "name": "שידוחכם",
+    "category": 20,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1624,
+    "url": "https://imreykodesh.com/",
+    "name": "אמרי קודש - תוכנות לניהול חכם ",
+    "category": 5,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1625,
+    "url": "https://telematch.co.il/telemach/",
+    "name": "טלמאצ' - המוקד לגיוס תרומות",
+    "category": 19,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1626,
+    "url": "https://desertfalcon.co.il/shooting-range-sderot/",
+    "name": "נץ המדבר - ציוד טקטי",
+    "category": 4,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1627,
+    "url": "https://hateder.net/",
+    "name": "התדר (הפרגוד)",
+    "category": 0,
+    "level": 1,
+    "gender": 0
   }
 ]
