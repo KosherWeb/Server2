@@ -11558,5 +11558,125 @@
     "category": 0,
     "level": 1,
     "gender": 0
+  },
+  {
+    "id": 1628,
+    "url": "https://www.ise-tactical.co.il/",
+    "name": "ISE Tactical",
+    "category": 4,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1629,
+    "url": "https://navelle.co.il/",
+    "name": "נאבל | Navelle",
+    "category": 17,
+    "level": 3,
+    "gender": 2
+  },
+  {
+    "id": 1630,
+    "url": "https://moreshet-morocco.com/",
+    "name": "מורשת יהדות מרוקו",
+    "category": 1,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1631,
+    "url": "https://nachyomi.app/",
+    "name": "הנ\"ך היומי",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1632,
+    "url": "https://www.caveret.org/",
+    "name": "כוורת און ליין",
+    "category": 4,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1633,
+    "url": "https://aryeminkov-maker.github.io/Onot/",
+    "name": "לוח הטהרה",
+    "category": 18,
+    "level": 1,
+    "gender": 2
+  },
+  {
+    "id": 1634,
+    "url": "https://app.eretz-kir.com/",
+    "name": "ארץ קיר",
+    "category": 11,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1635,
+    "url": "https://zarkor.org.il/",
+    "name": "זרקור – ללמוד. להצליח",
+    "category": 2,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1636,
+    "url": "https://oitzerhanigunim.org/",
+    "name": "אוצר הניגונים",
+    "category": 7,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1637,
+    "url": "https://extraplus.coi.co.il/",
+    "name": "אקסטרה פלוס\r",
+    "category": 3,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1638,
+    "url": "https://drumbit.app/",
+    "name": "Drumbit",
+    "category": 5,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1639,
+    "url": "https://www.glenwood.org.il/he",
+    "name": "גלנווד חשמונאים\r\r",
+    "category": 12,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1640,
+    "url": "https://vaarastich.com/boy/login",
+    "name": "וארשתיך - אתר שידוכים",
+    "category": 20,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1641,
+    "url": "https://lazuz.co.il/",
+    "name": "לזוז - lazuz",
+    "category": 19,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1642,
+    "url": "https://yoman770.com/",
+    "name": "יומן 770",
+    "category": 1,
+    "level": 1,
+    "gender": 0
   }
 ]
