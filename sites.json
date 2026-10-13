@@ -11678,5 +11678,109 @@
     "category": 1,
     "level": 1,
     "gender": 0
+  },
+  {
+    "id": 1643,
+    "url": "https://hadaf-hashvui.vercel.app/",
+    "name": "הדף השבועי של בני עקיבא",
+    "category": 3,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1644,
+    "url": "https://youtora.com/",
+    "name": "Youtora | סרטונים",
+    "category": 10,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1645,
+    "url": "https://kones2.co.il/",
+    "name": "כונס יד2 נדל\"ן",
+    "category": 4,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1646,
+    "url": "https://get-driver.co.il/",
+    "name": "GetDriver",
+    "category": 14,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1647,
+    "url": "https://jobify360.co.il/",
+    "name": "ג'וביפיי - Jobify",
+    "category": 19,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1648,
+    "url": "https://hamesivta.com/",
+    "name": "המתיבתא - HaMesivta",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1649,
+    "url": "https://www.shlucha.co.il/",
+    "name": "ישיבת השלוחה בשעלבים",
+    "category": 21,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1650,
+    "url": "https://eilon.co/",
+    "name": "מומחה בינה מלאכותית - איילון ",
+    "category": 19,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1651,
+    "url": "https://madumim.complot.co.il/",
+    "name": "מעלה אדומים מרכז מידע הנדסי",
+    "category": 12,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1652,
+    "url": "https://www.themercava.com/",
+    "name": "מרכבה - Mercava ",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1653,
+    "url": "https://ogenplay.com/",
+    "name": "עוגן פליי",
+    "category": 5,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1654,
+    "url": "https://otzar.benzakais.com/",
+    "name": "אוצר הספרים",
+    "category": 4,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1655,
+    "url": "https://yerushalaim.org/",
+    "name": "תנועת ירושלים",
+    "category": 1,
+    "level": 2,
+    "gender": 0
   }
 ]
