@@ -11782,5 +11782,93 @@
     "category": 1,
     "level": 2,
     "gender": 0
+  },
+  {
+    "id": 1656,
+    "url": "https://driveclub.co.il/",
+    "name": "מועדון דרייב\r - Drive Club",
+    "category": 14,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1657,
+    "url": "https://www.yamshopping.com/",
+    "name": "ים שופינג | YamShopping",
+    "category": 5,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1658,
+    "url": "https://lichi-shop.com/",
+    "name": "ליצ'י | LICHI",
+    "category": 18,
+    "level": 2,
+    "gender": 2
+  },
+  {
+    "id": 1659,
+    "url": "https://www.tzama.co.il",
+    "name": "צמאה",
+    "category": 7,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1660,
+    "url": "https://www.avot-banim.org/",
+    "name": "אבות עם בנים",
+    "category": 11,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1661,
+    "url": "https://shir-bot.ze-kal.top/",
+    "name": "שיר-בוט",
+    "category": 7,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1662,
+    "url": "https://yom-yom.onrender.com/",
+    "name": "יום יום",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1663,
+    "url": "https://campaignchazak.com/",
+    "name": "קמפיין חזק",
+    "category": 19,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1664,
+    "url": "https://anafeam-kids.co.il/",
+    "name": "ענפים לילדים ",
+    "category": 3,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1665,
+    "url": "https://authenti.newsupdates.click/",
+    "name": "אותנטי ניוז",
+    "category": 0,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1666,
+    "url": "https://chabad.ai/",
+    "name": "Chabad.ai",
+    "category": 1,
+    "level": 1,
+    "gender": 0
   }
 ]
