@@ -1066,7 +1066,7 @@
   {
     "id": 253,
     "url": "https://www.ezra-lemarpe.org/",
-    "name": "עזרא למרפא",
+    "name": "עזרה למרפא",
     "category": 13,
     "level": 0,
     "gender": 0
@@ -11869,6 +11869,70 @@
     "name": "Chabad.ai",
     "category": 1,
     "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1667,
+    "url": "https://breslevsheli.co.il/",
+    "name": "ברסלב שלי",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1668,
+    "url": "https://kodesh.snunit.k12.il/",
+    "name": "מאגר ספרות הקודש",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1669,
+    "url": "https://mei-shikma.co.il/",
+    "name": "תאגיד מי שיקמה",
+    "category": 19,
+    "level": 3,
+    "gender": 0
+  },
+  {
+    "id": 1670,
+    "url": "https://machonshay.co.il/",
+    "name": "מכון שי",
+    "category": 2,
+    "level": 1,
+    "gender": 2
+  },
+  {
+    "id": 1671,
+    "url": "https://stamart.org/register",
+    "name": "האור שבכתב – לוח הסופרים\r",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1672,
+    "url": "https://www.halaca-baparasha.com/",
+    "name": "הלכה בפרשה",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1673,
+    "url": "https://mishna.org.il/",
+    "name": "הפרק היומי – לימוד משנה יומי",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1674,
+    "url": "https://mehasade-ladelet.com/",
+    "name": "מהשדה לדלת",
+    "category": 16,
+    "level": 2,
     "gender": 0
   }
 ]
