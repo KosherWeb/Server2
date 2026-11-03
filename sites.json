@@ -11934,5 +11934,69 @@
     "category": 16,
     "level": 2,
     "gender": 0
+  },
+  {
+    "id": 1675,
+    "url": "https://chabad.net/",
+    "name": "מעין",
+    "category": 1,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1676,
+    "url": "https://tamzit.org.il/",
+    "name": "תמצית החדשות",
+    "category": 0,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1677,
+    "url": "https://pninei-emuna.blogspot.com/",
+    "name": "התפתחות אישית יהודית",
+    "category": 1,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1678,
+    "url": "https://jshiduch.com/",
+    "name": "שני חצאים",
+    "category": 20,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1679,
+    "url": "https://hasefer.org.il/",
+    "name": "הספר התורני ",
+    "category": 1,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1680,
+    "url": "https://www.xnes.co.il/",
+    "name": "הפניקס בית השקעות",
+    "category": 8,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1681,
+    "url": "https://chabadkidsvideos.com/ivrit/",
+    "name": "Chabad Kids Videos",
+    "category": 3,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1682,
+    "url": "https://shtefenesht.org/",
+    "name": "מוסדות שטפנשט",
+    "category": 1,
+    "level": 1,
+    "gender": 0
   }
 ]
