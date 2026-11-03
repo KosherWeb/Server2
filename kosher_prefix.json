@@ -243,5 +243,10 @@
     "value": "https://katzr.net/",
     "level": 1,
     "gender": 0
+  },
+  {
+    "value": "https://www.delta.com/us/en/advisories/other-alerts/",
+    "level": 3,
+    "gender": 0
   }
 ]
