@@ -2472,14 +2472,6 @@
     "gender": 0
   },
   {
-    "id": 452,
-    "url": "https://www.ashmoret-itu.co.il/",
-    "name": "אשמורת - מבית הסתדרות המורים",
-    "category": 11,
-    "level": 2,
-    "gender": 0
-  },
-  {
     "id": 453,
     "url": "https://meravdigital.co.il/",
     "name": "מירב דיגיטל",
@@ -11848,14 +11840,6 @@
     "gender": 0
   },
   {
-    "id": 1664,
-    "url": "https://anafeam-kids.co.il/",
-    "name": "ענפים לילדים ",
-    "category": 3,
-    "level": 2,
-    "gender": 0
-  },
-  {
     "id": 1665,
     "url": "https://authenti.newsupdates.click/",
     "name": "אותנטי ניוז",
@@ -11997,6 +11981,222 @@
     "name": "מוסדות שטפנשט",
     "category": 1,
     "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1683,
+    "url": "https://mercaz-kivun.co.il/",
+    "name": "מרכזי כיוון",
+    "category": 2,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1684,
+    "url": "https://neshamatech.com/",
+    "name": "נשמהטק - מוצאים זוגיות",
+    "category": 20,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1685,
+    "url": "https://kanko.co.il/",
+    "name": "KANKO - כאן קונים",
+    "category": 4,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1686,
+    "url": "https://anafeam-kids.co.il/",
+    "name": "ענפים לילדים",
+    "category": 3,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1687,
+    "url": "https://torathanefesh.org/",
+    "name": "תורת הנפש",
+    "category": 2,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1688,
+    "url": "https://bmore.fashion/",
+    "name": "b.more fashion",
+    "category": 17,
+    "level": 1,
+    "gender": 2
+  },
+  {
+    "id": 1689,
+    "url": "https://machil-el-chayil.netlify.app/",
+    "name": "מחיל אל חיל",
+    "category": 21,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1690,
+    "url": "https://hameshiv.com/",
+    "name": "המשיב - ספרייה תורנית חכמה לאיתור מקורות",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1691,
+    "url": "https://www.chabad.fm/",
+    "name": "chabad.fm - חבד",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1692,
+    "url": "https://halachayomit.co.il/",
+    "name": "הלכה יומית - הרב עובדיה זצ\"ל ",
+    "category": 1,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1693,
+    "url": "https://chabadupdates.com/",
+    "name": "עדכוני חב\"ד",
+    "category": 0,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1694,
+    "url": "https://www.plus500.com/",
+    "name": "Plus500",
+    "category": 8,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1695,
+    "url": "https://haor.co.il/",
+    "name": "האור שבכתב | סת״ם ויודאיקה",
+    "category": 4,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1696,
+    "url": "https://www.ein-aya.co.il/",
+    "name": "עין איה - מפתח נושאים\r",
+    "category": 1,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1697,
+    "url": "https://www.pcit.co.il/",
+    "name": "PCiT - מחשבים ותוכנה",
+    "category": 15,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1698,
+    "url": "https://app.shamil.co.il/",
+    "name": "תאטרון הסיפור החסידי - שאמיל",
+    "category": 3,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1699,
+    "url": "https://bobmetzia.com/",
+    "name": "לעד",
+    "category": 20,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1700,
+    "url": "https://liba-chiburim-bekdusha.com/",
+    "name": "ליבא - המרכז בשבילך\r",
+    "category": 2,
+    "level": 1,
+    "gender": 2
+  },
+  {
+    "id": 1701,
+    "url": "https://taharem.co.il/",
+    "name": "טהרם - מקוואות כהלכה",
+    "category": 19,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1702,
+    "url": "https://casabella.co.il/",
+    "name": "CASA BELLA",
+    "category": 4,
+    "level": 2,
+    "gender": 0
+  },
+  {
+    "id": 1703,
+    "url": "https://peerbikdoshim.com/",
+    "name": "פאר בקדושים",
+    "category": 4,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1704,
+    "url": "https://seferzikaron.co.il/",
+    "name": "ספרון אזכרה",
+    "category": 5,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1705,
+    "url": "https://electricity.b033069804.workers.dev/channel/",
+    "name": "איגוד קהילת אפיקי נחל",
+    "category": 12,
+    "level": 0,
+    "gender": 0
+  },
+  {
+    "id": 1706,
+    "url": "https://zingmusic.app/",
+    "name": "זינג - Zing Music",
+    "category": 7,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1707,
+    "url": "https://maynotechabooks.co.il/",
+    "name": "מעיינותיך | בית לספרות חסידית",
+    "category": 11,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1708,
+    "url": "https://kavkav.co.il/",
+    "name": "קו קו ",
+    "category": 14,
+    "level": 1,
+    "gender": 0
+  },
+  {
+    "id": 1709,
+    "url": "https://www.dealr.co.il/",
+    "name": "דילר - כל המבצעים מהרשתות במקום אחד",
+    "category": 4,
+    "level": 3,
     "gender": 0
   }
 ]
